@@ -8,6 +8,10 @@
     "Memoization",
     "Recursion"
   ],
+  "remove-duplicates-from-sorted-array": [
+    "Array",
+    "Two Pointers"
+  ],
   "valid-palindrome": [
     "String",
     "Two Pointers"
