@@ -1,4 +1,8 @@
+import json
 import re
+import urllib.request
+import urllib.error
+from collections import defaultdict
 from pathlib import Path
 
 
@@ -8,11 +12,13 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 README_FILE = ROOT / "README.md"
+TOPICS_CACHE_FILE = ROOT / "scripts" / "topics_cache.json"
 
 REPOSITORY_URL = "https://github.com/deepak20510/LeetCode"
 
+LEETCODE_GRAPHQL_URL = "https://leetcode.com/graphql"
 
-# Supported programming languages
+
 LANGUAGES = {
     ".java": "Java",
     ".py": "Python",
@@ -33,34 +39,165 @@ LANGUAGES = {
 
 
 # =========================================================
+# Topics cache
+# =========================================================
+
+def load_topics_cache():
+    """
+    Load locally cached LeetCode topics.
+    Return an empty dictionary if the cache is missing
+    or invalid.
+    """
+
+    if not TOPICS_CACHE_FILE.exists():
+        return {}
+
+    try:
+        content = TOPICS_CACHE_FILE.read_text(encoding="utf-8")
+        data = json.loads(content)
+
+        if isinstance(data, dict):
+            return data
+
+    except (OSError, json.JSONDecodeError) as error:
+        print(f"Warning: Could not load topics cache: {error}")
+
+    return {}
+
+
+def save_topics_cache(cache):
+    """
+    Save topic metadata in a deterministic format.
+    """
+
+    try:
+        TOPICS_CACHE_FILE.write_text(
+            json.dumps(
+                cache,
+                indent=2,
+                ensure_ascii=False,
+                sort_keys=True,
+            )
+            + "\n",
+            encoding="utf-8",
+        )
+
+    except OSError as error:
+        print(f"Warning: Could not save topics cache: {error}")
+
+
+# =========================================================
+# Fetch topics from LeetCode
+# =========================================================
+
+def fetch_topics_from_leetcode(slug):
+    """
+    Fetch topic tags for one problem from LeetCode GraphQL.
+
+    If anything fails, return an empty list so README
+    generation can continue safely.
+    """
+
+    query = """
+    query getQuestionDetail($titleSlug: String!) {
+      question(titleSlug: $titleSlug) {
+        topicTags {
+          name
+          slug
+        }
+      }
+    }
+    """
+
+    payload = json.dumps({
+        "query": query,
+        "variables": {
+            "titleSlug": slug
+        }
+    }).encode("utf-8")
+
+    request = urllib.request.Request(
+        LEETCODE_GRAPHQL_URL,
+        data=payload,
+        headers={
+            "Content-Type": "application/json",
+            "User-Agent": "Mozilla/5.0",
+            "Referer": f"https://leetcode.com/problems/{slug}/",
+        },
+        method="POST",
+    )
+
+    try:
+        with urllib.request.urlopen(
+            request,
+            timeout=10,
+        ) as response:
+
+            response_data = json.loads(
+                response.read().decode("utf-8")
+            )
+
+        question = (
+            response_data
+            .get("data", {})
+            .get("question")
+        )
+
+        if not question:
+            print(
+                f"Warning: No topic data returned for {slug}."
+            )
+            return []
+
+        topic_tags = question.get("topicTags", [])
+
+        topics = sorted({
+            topic.get("name", "").strip()
+            for topic in topic_tags
+            if topic.get("name", "").strip()
+        })
+
+        return topics
+
+    except (
+        urllib.error.URLError,
+        urllib.error.HTTPError,
+        TimeoutError,
+        json.JSONDecodeError,
+        OSError,
+    ) as error:
+
+        print(
+            f"Warning: Could not fetch topics "
+            f"for {slug}: {error}"
+        )
+
+        return []
+
+
+# =========================================================
 # Parse problem README
 # =========================================================
 
 def parse_problem_readme(readme_path):
     """
     Extract problem number, title, LeetCode URL,
-    and difficulty from a LeetHub-generated README.
+    difficulty and slug from a LeetHub-generated README.
     """
 
     try:
         content = readme_path.read_text(encoding="utf-8")
+
     except (OSError, UnicodeDecodeError) as error:
         print(f"Warning: Could not read {readme_path}: {error}")
         return None
 
-    # Example:
-    # <h2><a href="https://leetcode.com/problems/valid-palindrome">
-    # 125. Valid Palindrome
-    # </a></h2>
-
     problem_match = re.search(
-        r'<h2>\s*<a\s+href="([^"]+)"[^>]*>\s*(\d+)\.\s*(.*?)\s*</a>\s*</h2>',
+        r'<h2>\s*<a\s+href="([^"]+)"[^>]*>'
+        r'\s*(\d+)\.\s*(.*?)\s*</a>\s*</h2>',
         content,
         re.IGNORECASE | re.DOTALL,
     )
-
-    # Example:
-    # <h3>Easy</h3>
 
     difficulty_match = re.search(
         r'<h3>\s*(Easy|Medium|Hard)\s*</h3>',
@@ -73,6 +210,7 @@ def parse_problem_readme(readme_path):
 
     leetcode_url = problem_match.group(1).strip()
     number = int(problem_match.group(2))
+
     title = re.sub(
         r"<[^>]+>",
         "",
@@ -84,11 +222,25 @@ def parse_problem_readme(readme_path):
     else:
         difficulty = "Unknown"
 
+    # Extract slug from URL:
+    # https://leetcode.com/problems/valid-palindrome
+    slug_match = re.search(
+        r"leetcode\.com/problems/([^/?#]+)",
+        leetcode_url,
+        re.IGNORECASE,
+    )
+
+    if not slug_match:
+        return None
+
+    slug = slug_match.group(1)
+
     return {
         "number": number,
         "title": title,
         "leetcode_url": leetcode_url,
         "difficulty": difficulty,
+        "slug": slug,
     }
 
 
@@ -97,10 +249,6 @@ def parse_problem_readme(readme_path):
 # =========================================================
 
 def detect_languages(problem_folder):
-    """
-    Detect solution languages from files inside
-    a LeetCode problem folder.
-    """
 
     detected = set()
 
@@ -118,17 +266,15 @@ def detect_languages(problem_folder):
 
 
 # =========================================================
-# Find all LeetCode problems
+# Find all problems
 # =========================================================
 
-def get_all_problems():
-    """
-    Scan repository root for LeetHub problem folders.
-    """
+def get_all_problems(topics_cache):
 
     folder_pattern = re.compile(r"^\d+-.+$")
 
     problems = []
+    cache_changed = False
 
     for item in ROOT.iterdir():
 
@@ -156,19 +302,40 @@ def get_all_problems():
             )
             continue
 
+        slug = problem["slug"]
+
+        # Use cached topics when available.
+        if slug in topics_cache:
+            topics = topics_cache[slug]
+
+        else:
+            print(f"Fetching topics for {slug}...")
+
+            topics = fetch_topics_from_leetcode(slug)
+
+            # Cache only successful, non-empty results.
+            # Failed lookups can be retried on the next workflow run.
+            if topics:
+                topics_cache[slug] = topics
+                cache_changed = True
+
         problem["folder"] = item.name
         problem["languages"] = detect_languages(item)
+        problem["topics"] = topics
 
         problems.append(problem)
 
-    return sorted(
-        problems,
-        key=lambda problem: problem["number"]
+    return (
+        sorted(
+            problems,
+            key=lambda problem: problem["number"]
+        ),
+        cache_changed,
     )
 
 
 # =========================================================
-# Difficulty formatting
+# Formatting
 # =========================================================
 
 def format_difficulty(difficulty):
@@ -179,24 +346,10 @@ def format_difficulty(difficulty):
         "Hard": "🔴 Hard",
     }
 
-    return labels.get(
-        difficulty,
-        "⚪ Unknown"
-    )
+    return labels.get(difficulty, "⚪ Unknown")
 
-
-# =========================================================
-# Generate problem table row
-# =========================================================
 
 def create_problem_row(problem):
-
-    number = problem["number"]
-    title = problem["title"]
-    leetcode_url = problem["leetcode_url"]
-    difficulty = format_difficulty(
-        problem["difficulty"]
-    )
 
     languages = ", ".join(
         problem["languages"]
@@ -208,42 +361,50 @@ def create_problem_row(problem):
     )
 
     return (
-        f"| {number} "
-        f"| [{title}]({leetcode_url}) "
-        f"| {difficulty} "
+        f"| {problem['number']} "
+        f"| [{problem['title']}]"
+        f"({problem['leetcode_url']}) "
+        f"| {format_difficulty(problem['difficulty'])} "
         f"| {languages} "
         f"| [View Solution]({solution_url}) |"
     )
 
 
 # =========================================================
-# Generate root README
+# README generation
 # =========================================================
 
 def generate_readme():
 
-    problems = get_all_problems()
+    topics_cache = load_topics_cache()
+
+    problems, cache_changed = get_all_problems(
+        topics_cache
+    )
+
+    if cache_changed:
+        save_topics_cache(topics_cache)
 
     total = len(problems)
 
     easy = sum(
-        1 for problem in problems
-        if problem["difficulty"] == "Easy"
+        problem["difficulty"] == "Easy"
+        for problem in problems
     )
 
     medium = sum(
-        1 for problem in problems
-        if problem["difficulty"] == "Medium"
+        problem["difficulty"] == "Medium"
+        for problem in problems
     )
 
     hard = sum(
-        1 for problem in problems
-        if problem["difficulty"] == "Hard"
+        problem["difficulty"] == "Hard"
+        for problem in problems
     )
 
     unknown = sum(
-        1 for problem in problems
-        if problem["difficulty"] == "Unknown"
+        problem["difficulty"] == "Unknown"
+        for problem in problems
     )
 
     lines = [
@@ -277,12 +438,63 @@ def generate_readme():
     ])
 
     for problem in problems:
-        lines.append(
-            create_problem_row(problem)
-        )
+        lines.append(create_problem_row(problem))
+
+    # Group problems by topic
+    topics = defaultdict(list)
+    uncategorized = []
+
+    for problem in problems:
+
+        if problem["topics"]:
+
+            for topic in problem["topics"]:
+                topics[topic].append(problem)
+
+        else:
+            uncategorized.append(problem)
+
+    if topics or uncategorized:
+
+        lines.extend([
+            "",
+            "## 🏷️ Topics",
+            "",
+        ])
+
+        for topic in sorted(topics):
+
+            lines.extend([
+                f"### {topic}",
+                "",
+                "| # | Problem | Difficulty | Language | Solution |",
+                "|---:|---|---|---|---|",
+            ])
+
+            for problem in topics[topic]:
+                lines.append(
+                    create_problem_row(problem)
+                )
+
+            lines.append("")
+
+        if uncategorized:
+
+            lines.extend([
+                "### Uncategorized",
+                "",
+                "| # | Problem | Difficulty | Language | Solution |",
+                "|---:|---|---|---|---|",
+            ])
+
+            for problem in uncategorized:
+                lines.append(
+                    create_problem_row(problem)
+                )
+
+            lines.append("")
 
     lines.extend([
-        "",
         "---",
         "",
         "_README automatically updated with GitHub Actions._",
@@ -295,13 +507,10 @@ def generate_readme():
     )
 
     print(
-        f"README generated successfully with {total} problems."
+        f"README generated successfully with "
+        f"{total} problems."
     )
 
-
-# =========================================================
-# Entry point
-# =========================================================
 
 if __name__ == "__main__":
     generate_readme()
