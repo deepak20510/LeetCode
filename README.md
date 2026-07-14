@@ -2,15 +2,43 @@
 
 A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 and tracked with GitHub Actions.
 
+![Solved](https://img.shields.io/badge/Solved-3-blue) ![Easy](https://img.shields.io/badge/Easy-3-brightgreen) ![Medium](https://img.shields.io/badge/Medium-0-yellow) ![Hard](https://img.shields.io/badge/Hard-0-red)
+
+![Current Streak](https://img.shields.io/badge/Current%20Streak-1%20days-orange) ![Longest Streak](https://img.shields.io/badge/Longest%20Streak-1%20days-purple)
+
 ## 📊 Progress
 
-**Total Problems Solved: 3**
+**Goal: 3 / 150 problems (2.0%)**
+
+`░░░░░░░░░░░░░░░░░░░░`
 
 | Difficulty | Solved |
 |---|---:|
 | 🟢 Easy | 3 |
 | 🟡 Medium | 0 |
 | 🔴 Hard | 0 |
+
+## 🔥 Solution Streak
+
+- **Current streak:** 1 day
+- **Longest streak:** 1 day
+
+> Streaks are calculated from Git commit dates associated with problem folders.
+
+## 🕐 Recently Solved
+
+| # | Problem | Difficulty | Language | Solution | Solved |
+|---:|---|---|---|---|---|
+| 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated) | Jul 13, 2026 |
+| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0125-valid-palindrome) | Feb 01, 2026 |
+| 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0509-fibonacci-number) | Feb 01, 2026 |
+
+## 📅 Monthly Progress
+
+| Month | Problems Solved |
+|---|---:|
+| July 2026 | 1 |
+| February 2026 | 2 |
 
 ## 📚 All Problems
 
@@ -20,45 +48,53 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0509-fibonacci-number) |
 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated) |
 
+## 🟢 Easy Problems
+
+| # | Problem | Difficulty | Language | Solution |
+|---:|---|---|---|---|
+| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0125-valid-palindrome) |
+| 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0509-fibonacci-number) |
+| 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated) |
+
 ## 🏷️ Topics
 
-### Array
+### Array (1)
 
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated) |
 
-### Dynamic Programming
+### Dynamic Programming (1)
 
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0509-fibonacci-number) |
 
-### Math
+### Math (1)
 
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0509-fibonacci-number) |
 
-### Memoization
+### Memoization (1)
 
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0509-fibonacci-number) |
 
-### Recursion
+### Recursion (1)
 
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0509-fibonacci-number) |
 
-### String
+### String (1)
 
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0125-valid-palindrome) |
 
-### Two Pointers
+### Two Pointers (1)
 
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
@@ -66,4 +102,4 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 
 ---
 
-_README automatically updated with GitHub Actions._
+_README automatically updated with LeetHub-3.0 and GitHub Actions._
