@@ -1,0 +1,15 @@
+{
+  "check-if-array-is-sorted-and-rotated": [
+    "Array"
+  ],
+  "fibonacci-number": [
+    "Dynamic Programming",
+    "Math",
+    "Memoization",
+    "Recursion"
+  ],
+  "valid-palindrome": [
+    "String",
+    "Two Pointers"
+  ]
+}
