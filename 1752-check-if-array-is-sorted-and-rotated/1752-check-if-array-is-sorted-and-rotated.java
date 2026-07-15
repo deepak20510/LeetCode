@@ -6,7 +6,7 @@ class Solution {
             {
                 count++;
             }
-        }
+            }
             if(nums[nums.length-1]>nums[0])
             {
                 count++;
