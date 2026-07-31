@@ -12,6 +12,11 @@
     "Array",
     "Two Pointers"
   ],
+  "set-matrix-zeroes": [
+    "Array",
+    "Hash Table",
+    "Matrix"
+  ],
   "valid-palindrome": [
     "String",
     "Two Pointers"
