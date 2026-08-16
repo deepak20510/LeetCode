@@ -8,6 +8,10 @@
     "Memoization",
     "Recursion"
   ],
+  "pascals-triangle": [
+    "Array",
+    "Dynamic Programming"
+  ],
   "pascals-triangle-ii": [
     "Array",
     "Dynamic Programming"
