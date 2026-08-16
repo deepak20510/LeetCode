@@ -8,6 +8,10 @@
     "Memoization",
     "Recursion"
   ],
+  "pascals-triangle-ii": [
+    "Array",
+    "Dynamic Programming"
+  ],
   "remove-duplicates-from-sorted-array": [
     "Array",
     "Two Pointers"
