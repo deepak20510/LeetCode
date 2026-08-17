@@ -8,6 +8,10 @@
     "Memoization",
     "Recursion"
   ],
+  "next-permutation": [
+    "Array",
+    "Two Pointers"
+  ],
   "pascals-triangle": [
     "Array",
     "Dynamic Programming"
