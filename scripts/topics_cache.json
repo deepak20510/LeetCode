@@ -1,4 +1,8 @@
 {
+  "best-time-to-buy-and-sell-stock": [
+    "Array",
+    "Dynamic Programming"
+  ],
   "check-if-array-is-sorted-and-rotated": [
     "Array"
   ],
