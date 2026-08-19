@@ -29,6 +29,13 @@
     "Hash Table",
     "Matrix"
   ],
+  "sort-colors": [
+    "Array",
+    "Bubble Sort",
+    "Quicksort",
+    "Sorting",
+    "Two Pointers"
+  ],
   "valid-palindrome": [
     "String",
     "Two Pointers"
