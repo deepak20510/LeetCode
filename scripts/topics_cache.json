@@ -28,6 +28,11 @@
     "Array",
     "Two Pointers"
   ],
+  "rotate-image": [
+    "Array",
+    "Math",
+    "Matrix"
+  ],
   "set-matrix-zeroes": [
     "Array",
     "Hash Table",
