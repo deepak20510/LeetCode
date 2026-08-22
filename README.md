@@ -2,25 +2,25 @@
 
 A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 and tracked with GitHub Actions.
 
-![Solved](https://img.shields.io/badge/Solved-11-blue) ![Easy](https://img.shields.io/badge/Easy-7-brightgreen) ![Medium](https://img.shields.io/badge/Medium-4-yellow) ![Hard](https://img.shields.io/badge/Hard-0-red)
+![Solved](https://img.shields.io/badge/Solved-12-blue) ![Easy](https://img.shields.io/badge/Easy-7-brightgreen) ![Medium](https://img.shields.io/badge/Medium-5-yellow) ![Hard](https://img.shields.io/badge/Hard-0-red)
 
-![Current Streak](https://img.shields.io/badge/Current%20Streak-2%20days-orange) ![Longest Streak](https://img.shields.io/badge/Longest%20Streak-2%20days-purple)
+![Current Streak](https://img.shields.io/badge/Current%20Streak-1%20days-orange) ![Longest Streak](https://img.shields.io/badge/Longest%20Streak-2%20days-purple)
 
 ## 📊 Progress
 
-**Goal: 11 / 150 problems (7.3%)**
+**Goal: 12 / 150 problems (8.0%)**
 
-`█░░░░░░░░░░░░░░░░░░░`
+`██░░░░░░░░░░░░░░░░░░`
 
 | Difficulty | Solved |
 |---|---:|
 | 🟢 Easy | 7 |
-| 🟡 Medium | 4 |
+| 🟡 Medium | 5 |
 | 🔴 Hard | 0 |
 
 ## 🔥 Solution Streak
 
-- **Current streak:** 2 days
+- **Current streak:** 1 day
 - **Longest streak:** 2 days
 
 > Streaks are calculated from Git commit dates associated with problem folders.
@@ -29,6 +29,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 
 | # | Problem | Difficulty | Language | Solution | Solved |
 |---:|---|---|---|---|---|
+| 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0056-merge-intervals) | Aug 22, 2026 |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0048-rotate-image) | Aug 20, 2026 |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0075-sort-colors) | Aug 19, 2026 |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock) | Aug 19, 2026 |
@@ -38,13 +39,12 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0073-set-matrix-zeroes) | Jul 31, 2026 |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array) | Jul 14, 2026 |
 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated) | Jul 13, 2026 |
-| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0125-valid-palindrome) | Feb 01, 2026 |
 
 ## 📅 Monthly Progress
 
 | Month | Problems Solved |
 |---|---:|
-| August 2026 | 6 |
+| August 2026 | 7 |
 | July 2026 | 3 |
 | February 2026 | 2 |
 
@@ -55,6 +55,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array) |
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0031-next-permutation) |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0048-rotate-image) |
+| 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0056-merge-intervals) |
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0073-set-matrix-zeroes) |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0075-sort-colors) |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0118-pascals-triangle) |
@@ -82,18 +83,20 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 |---:|---|---|---|---|
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0031-next-permutation) |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0048-rotate-image) |
+| 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0056-merge-intervals) |
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0073-set-matrix-zeroes) |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0075-sort-colors) |
 
 ## 🏷️ Topics
 
-### Array (9)
+### Array (10)
 
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array) |
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0031-next-permutation) |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0048-rotate-image) |
+| 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0056-merge-intervals) |
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0073-set-matrix-zeroes) |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0075-sort-colors) |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0118-pascals-triangle) |
@@ -133,6 +136,20 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0048-rotate-image) |
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0073-set-matrix-zeroes) |
 
+### Quicksort (2)
+
+| # | Problem | Difficulty | Language | Solution |
+|---:|---|---|---|---|
+| 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0056-merge-intervals) |
+| 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0075-sort-colors) |
+
+### Sorting (2)
+
+| # | Problem | Difficulty | Language | Solution |
+|---:|---|---|---|---|
+| 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0056-merge-intervals) |
+| 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0075-sort-colors) |
+
 ### Bubble Sort (1)
 
 | # | Problem | Difficulty | Language | Solution |
@@ -151,23 +168,11 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 |---:|---|---|---|---|
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0509-fibonacci-number) |
 
-### Quicksort (1)
-
-| # | Problem | Difficulty | Language | Solution |
-|---:|---|---|---|---|
-| 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0075-sort-colors) |
-
 ### Recursion (1)
 
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0509-fibonacci-number) |
-
-### Sorting (1)
-
-| # | Problem | Difficulty | Language | Solution |
-|---:|---|---|---|---|
-| 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0075-sort-colors) |
 
 ### String (1)
 

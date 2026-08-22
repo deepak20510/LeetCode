@@ -12,6 +12,11 @@
     "Memoization",
     "Recursion"
   ],
+  "merge-intervals": [
+    "Array",
+    "Quicksort",
+    "Sorting"
+  ],
   "next-permutation": [
     "Array",
     "Two Pointers"
