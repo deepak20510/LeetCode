@@ -17,6 +17,11 @@
     "Quicksort",
     "Sorting"
   ],
+  "merge-sorted-array": [
+    "Array",
+    "Sorting",
+    "Two Pointers"
+  ],
   "next-permutation": [
     "Array",
     "Two Pointers"
