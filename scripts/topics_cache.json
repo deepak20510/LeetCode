@@ -12,6 +12,14 @@
     "Memoization",
     "Recursion"
   ],
+  "find-the-duplicate-number": [
+    "Array",
+    "Binary Search",
+    "Bit Manipulation",
+    "Floyd's Cycle Finding Algorithm",
+    "Pigeonhole Principle",
+    "Two Pointers"
+  ],
   "merge-intervals": [
     "Array",
     "Quicksort",
