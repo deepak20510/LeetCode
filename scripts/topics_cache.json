@@ -42,6 +42,10 @@
     "Array",
     "Dynamic Programming"
   ],
+  "powx-n": [
+    "Math",
+    "Recursion"
+  ],
   "remove-duplicates-from-sorted-array": [
     "Array",
     "Two Pointers"
