@@ -20,6 +20,14 @@
     "Pigeonhole Principle",
     "Two Pointers"
   ],
+  "majority-element": [
+    "Array",
+    "Boyer–Moore Majority Vote Algorithm",
+    "Counting",
+    "Divide and Conquer",
+    "Hash Table",
+    "Sorting"
+  ],
   "merge-intervals": [
     "Array",
     "Quicksort",
