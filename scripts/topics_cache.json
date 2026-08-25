@@ -28,6 +28,13 @@
     "Hash Table",
     "Sorting"
   ],
+  "majority-element-ii": [
+    "Array",
+    "Boyer–Moore Majority Vote Algorithm",
+    "Counting",
+    "Hash Table",
+    "Sorting"
+  ],
   "merge-intervals": [
     "Array",
     "Quicksort",
