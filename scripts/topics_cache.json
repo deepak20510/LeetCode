@@ -87,6 +87,10 @@
     "Sorting",
     "Two Pointers"
   ],
+  "two-sum": [
+    "Array",
+    "Hash Table"
+  ],
   "valid-palindrome": [
     "String",
     "Two Pointers"
