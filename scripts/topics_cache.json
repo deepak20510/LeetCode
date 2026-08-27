@@ -35,6 +35,11 @@
     "Hash Table",
     "Union-Find"
   ],
+  "longest-substring-without-repeating-characters": [
+    "Hash Table",
+    "Sliding Window",
+    "String"
+  ],
   "majority-element": [
     "Array",
     "Boyer–Moore Majority Vote Algorithm",
