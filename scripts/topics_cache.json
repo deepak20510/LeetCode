@@ -30,6 +30,11 @@
     "Pigeonhole Principle",
     "Two Pointers"
   ],
+  "longest-consecutive-sequence": [
+    "Array",
+    "Hash Table",
+    "Union-Find"
+  ],
   "majority-element": [
     "Array",
     "Boyer–Moore Majority Vote Algorithm",
