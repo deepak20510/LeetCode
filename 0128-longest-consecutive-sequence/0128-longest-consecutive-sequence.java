@@ -5,18 +5,21 @@ class Solution {
             return 0;
         }
         Arrays.sort(nums);
-        int last_longest = Integer.MIN_VALUE;
+        HashSet<Integer> set = new HashSet<>();
         int longest = 1;
-        int count = 0;
         for(int i = 0;i < n;i++){
-            if(nums[i] - 1 == last_longest){
-                count = count + 1;
-                last_longest = nums[i];
-            }else if(nums[i] != last_longest){
-                count = 1;
-                last_longest = nums[i];
+            set.add(nums[i]);
+        }
+        for(int num: set){
+            if (!set.contains(num - 1)){
+                int count = 1;
+                int x =  num;
+                while(set.contains(x+1)){
+                    x = x + 1;
+                    count++;
+                }
+                longest = Math.max(longest,count);
             }
-            longest = Math.max(longest,count);
         }
         return longest;
     }
