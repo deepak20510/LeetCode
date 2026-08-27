@@ -4,7 +4,6 @@ class Solution {
         if (n == 0) {
             return 0;
         }
-        Arrays.sort(nums);
         HashSet<Integer> set = new HashSet<>();
         int longest = 1;
         for(int i = 0;i < n;i++){
