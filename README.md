@@ -289,3 +289,11 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 ---
 
 _README automatically updated with LeetHub-3.0 and GitHub Actions._
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/deepak20510/LeetCode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+<!---LeetCode Topics End-->
