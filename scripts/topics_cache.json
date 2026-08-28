@@ -16,6 +16,9 @@
   "check-if-array-is-sorted-and-rotated": [
     "Array"
   ],
+  "delete-node-in-a-linked-list": [
+    "Linked List"
+  ],
   "fibonacci-number": [
     "Dynamic Programming",
     "Math",

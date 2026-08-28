@@ -2,26 +2,26 @@
 
 A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 and tracked with GitHub Actions.
 
-![Solved](https://img.shields.io/badge/Solved-23-blue) ![Easy](https://img.shields.io/badge/Easy-10-brightgreen) ![Medium](https://img.shields.io/badge/Medium-13-yellow) ![Hard](https://img.shields.io/badge/Hard-0-red)
+![Solved](https://img.shields.io/badge/Solved-24-blue) ![Easy](https://img.shields.io/badge/Easy-10-brightgreen) ![Medium](https://img.shields.io/badge/Medium-14-yellow) ![Hard](https://img.shields.io/badge/Hard-0-red)
 
-![Current Streak](https://img.shields.io/badge/Current%20Streak-6%20days-orange) ![Longest Streak](https://img.shields.io/badge/Longest%20Streak-6%20days-purple)
+![Current Streak](https://img.shields.io/badge/Current%20Streak-7%20days-orange) ![Longest Streak](https://img.shields.io/badge/Longest%20Streak-7%20days-purple)
 
 ## 📊 Progress
 
-**Goal: 23 / 150 problems (15.3%)**
+**Goal: 24 / 150 problems (16.0%)**
 
 `███░░░░░░░░░░░░░░░░░`
 
 | Difficulty | Solved |
 |---|---:|
 | 🟢 Easy | 10 |
-| 🟡 Medium | 13 |
+| 🟡 Medium | 14 |
 | 🔴 Hard | 0 |
 
 ## 🔥 Solution Streak
 
-- **Current streak:** 6 days
-- **Longest streak:** 6 days
+- **Current streak:** 7 days
+- **Longest streak:** 7 days
 
 > Streaks are calculated from Git commit dates associated with problem folders.
 
@@ -29,6 +29,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 
 | # | Problem | Difficulty | Language | Solution | Solved |
 |---:|---|---|---|---|---|
+| 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0237-delete-node-in-a-linked-list) | Aug 28, 2026 |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0003-longest-substring-without-repeating-characters) | Aug 27, 2026 |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0128-longest-consecutive-sequence) | Aug 27, 2026 |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0001-two-sum) | Aug 26, 2026 |
@@ -38,13 +39,12 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0074-search-a-2d-matrix) | Aug 25, 2026 |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0169-majority-element) | Aug 25, 2026 |
 | 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0229-majority-element-ii) | Aug 25, 2026 |
-| 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0287-find-the-duplicate-number) | Aug 24, 2026 |
 
 ## 📅 Monthly Progress
 
 | Month | Problems Solved |
 |---|---:|
-| August 2026 | 18 |
+| August 2026 | 19 |
 | July 2026 | 3 |
 | February 2026 | 2 |
 
@@ -72,6 +72,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0128-longest-consecutive-sequence) |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0169-majority-element) |
 | 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0229-majority-element-ii) |
+| 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0237-delete-node-in-a-linked-list) |
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0287-find-the-duplicate-number) |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0509-fibonacci-number) |
 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated) |
@@ -107,6 +108,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0075-sort-colors) |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0128-longest-consecutive-sequence) |
 | 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0229-majority-element-ii) |
+| 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0237-delete-node-in-a-linked-list) |
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0287-find-the-duplicate-number) |
 
 ## 🏷️ Topics
@@ -262,6 +264,12 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 |---:|---|---|---|---|
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0287-find-the-duplicate-number) |
 
+### Linked List (1)
+
+| # | Problem | Difficulty | Language | Solution |
+|---:|---|---|---|---|
+| 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0237-delete-node-in-a-linked-list) |
+
 ### Memoization (1)
 
 | # | Problem | Difficulty | Language | Solution |
@@ -289,11 +297,3 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 ---
 
 _README automatically updated with LeetHub-3.0 and GitHub Actions._
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0237-delete-node-in-a-linked-list](https://github.com/deepak20510/LeetCode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
-<!---LeetCode Topics End-->
