@@ -4,7 +4,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 
 ![Solved](https://img.shields.io/badge/Solved-25-blue) ![Easy](https://img.shields.io/badge/Easy-11-brightgreen) ![Medium](https://img.shields.io/badge/Medium-14-yellow) ![Hard](https://img.shields.io/badge/Hard-0-red)
 
-![Current Streak](https://img.shields.io/badge/Current%20Streak-0%20days-orange) ![Longest Streak](https://img.shields.io/badge/Longest%20Streak-7%20days-purple)
+![Current Streak](https://img.shields.io/badge/Current%20Streak-1%20days-orange) ![Longest Streak](https://img.shields.io/badge/Longest%20Streak-7%20days-purple)
 
 ## 📊 Progress
 
@@ -20,7 +20,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 
 ## 🔥 Solution Streak
 
-- **Current streak:** 0 days
+- **Current streak:** 1 day
 - **Longest streak:** 7 days
 
 > Streaks are calculated from Git commit dates associated with problem folders.
