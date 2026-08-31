@@ -101,6 +101,10 @@
     "Array",
     "Two Pointers"
   ],
+  "remove-nth-node-from-end-of-list": [
+    "Linked List",
+    "Two Pointers"
+  ],
   "reverse-linked-list": [
     "Linked List",
     "Recursion"
