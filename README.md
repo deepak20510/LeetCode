@@ -2,20 +2,20 @@
 
 A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 and tracked with GitHub Actions.
 
-![Solved](https://img.shields.io/badge/Solved-27-blue) ![Easy](https://img.shields.io/badge/Easy-13-brightgreen) ![Medium](https://img.shields.io/badge/Medium-14-yellow) ![Hard](https://img.shields.io/badge/Hard-0-red)
+![Solved](https://img.shields.io/badge/Solved-28-blue) ![Easy](https://img.shields.io/badge/Easy-13-brightgreen) ![Medium](https://img.shields.io/badge/Medium-15-yellow) ![Hard](https://img.shields.io/badge/Hard-0-red)
 
 ![Current Streak](https://img.shields.io/badge/Current%20Streak-2%20days-orange) ![Longest Streak](https://img.shields.io/badge/Longest%20Streak-7%20days-purple)
 
 ## 📊 Progress
 
-**Goal: 27 / 150 problems (18.0%)**
+**Goal: 28 / 150 problems (18.7%)**
 
 `████░░░░░░░░░░░░░░░░`
 
 | Difficulty | Solved |
 |---|---:|
 | 🟢 Easy | 13 |
-| 🟡 Medium | 14 |
+| 🟡 Medium | 15 |
 | 🔴 Hard | 0 |
 
 ## 🔥 Solution Streak
@@ -29,6 +29,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 
 | # | Problem | Difficulty | Language | Solution | Solved |
 |---:|---|---|---|---|---|
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0002-add-two-numbers) | Aug 31, 2026 |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0021-merge-two-sorted-lists) | Aug 31, 2026 |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0206-reverse-linked-list) | Aug 30, 2026 |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0876-middle-of-the-linked-list) | Aug 30, 2026 |
@@ -38,13 +39,12 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0001-two-sum) | Aug 26, 2026 |
 | 15 | [3Sum](https://leetcode.com/problems/3sum) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0015-3sum) | Aug 26, 2026 |
 | 18 | [4Sum](https://leetcode.com/problems/4sum) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0018-4sum) | Aug 26, 2026 |
-| 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0050-powx-n) | Aug 25, 2026 |
 
 ## 📅 Monthly Progress
 
 | Month | Problems Solved |
 |---|---:|
-| August 2026 | 22 |
+| August 2026 | 23 |
 | July 2026 | 3 |
 | February 2026 | 2 |
 
@@ -53,6 +53,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0001-two-sum) |
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0002-add-two-numbers) |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0003-longest-substring-without-repeating-characters) |
 | 15 | [3Sum](https://leetcode.com/problems/3sum) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0015-3sum) |
 | 18 | [4Sum](https://leetcode.com/problems/4sum) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0018-4sum) |
@@ -102,6 +103,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0002-add-two-numbers) |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0003-longest-substring-without-repeating-characters) |
 | 15 | [3Sum](https://leetcode.com/problems/3sum) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0015-3sum) |
 | 18 | [4Sum](https://leetcode.com/problems/4sum) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0018-4sum) |
@@ -180,6 +182,26 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0169-majority-element) |
 | 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0229-majority-element-ii) |
 
+### Linked List (5)
+
+| # | Problem | Difficulty | Language | Solution |
+|---:|---|---|---|---|
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0002-add-two-numbers) |
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0021-merge-two-sorted-lists) |
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0206-reverse-linked-list) |
+| 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0237-delete-node-in-a-linked-list) |
+| 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0876-middle-of-the-linked-list) |
+
+### Recursion (5)
+
+| # | Problem | Difficulty | Language | Solution |
+|---:|---|---|---|---|
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0002-add-two-numbers) |
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0021-merge-two-sorted-lists) |
+| 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0050-powx-n) |
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0206-reverse-linked-list) |
+| 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0509-fibonacci-number) |
+
 ### Dynamic Programming (4)
 
 | # | Problem | Difficulty | Language | Solution |
@@ -189,28 +211,11 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock) |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0509-fibonacci-number) |
 
-### Linked List (4)
+### Math (4)
 
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
-| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0021-merge-two-sorted-lists) |
-| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0206-reverse-linked-list) |
-| 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0237-delete-node-in-a-linked-list) |
-| 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0876-middle-of-the-linked-list) |
-
-### Recursion (4)
-
-| # | Problem | Difficulty | Language | Solution |
-|---:|---|---|---|---|
-| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0021-merge-two-sorted-lists) |
-| 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0050-powx-n) |
-| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0206-reverse-linked-list) |
-| 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0509-fibonacci-number) |
-
-### Math (3)
-
-| # | Problem | Difficulty | Language | Solution |
-|---:|---|---|---|---|
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0002-add-two-numbers) |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0048-rotate-image) |
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0050-powx-n) |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0509-fibonacci-number) |
