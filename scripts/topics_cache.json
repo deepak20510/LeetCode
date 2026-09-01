@@ -120,6 +120,10 @@
     "Linked List",
     "Recursion"
   ],
+  "reverse-nodes-in-k-group": [
+    "Linked List",
+    "Recursion"
+  ],
   "rotate-image": [
     "Array",
     "Math",
