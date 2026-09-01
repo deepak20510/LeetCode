@@ -38,6 +38,11 @@
     "Pigeonhole Principle",
     "Two Pointers"
   ],
+  "intersection-of-two-linked-lists": [
+    "Hash Table",
+    "Linked List",
+    "Two Pointers"
+  ],
   "longest-consecutive-sequence": [
     "Array",
     "Hash Table",
