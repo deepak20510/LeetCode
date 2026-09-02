@@ -96,6 +96,12 @@
     "Array",
     "Two Pointers"
   ],
+  "palindrome-linked-list": [
+    "Linked List",
+    "Recursion",
+    "Stack",
+    "Two Pointers"
+  ],
   "pascals-triangle": [
     "Array",
     "Dynamic Programming"
