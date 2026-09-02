@@ -9,21 +9,35 @@
  * }
  */
 class Solution {
+    ListNode reverse(ListNode head) {
+        if (head == null || head.next == null)
+            return head;
+        ListNode newHead = reverse(head.next);
+        ListNode front = head.next;
+        front.next = head;
+        head.next = null;
+        return newHead;
+    }
+
     public boolean isPalindrome(ListNode head) {
-        Stack<Integer> stack = new Stack<>();
-        ListNode temp = head;
-        while(temp != null){
-            stack.push(temp.val);
-            temp = temp.next;
+        ListNode slow = head;
+        ListNode fast = head;
+        while (fast.next != null && fast.next.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
         }
-        temp = head;
-        while(temp != null){
-            if(temp.val != stack.peek()){
+        ListNode newHead = reverse(slow.next);
+        ListNode first = head;
+        ListNode second = newHead;
+        while (second != null) {
+            if (first.val != second.val) {
+                reverse(newHead);
                 return false;
             }
-            temp = temp.next;
-            stack.pop();
+            first = first.next;
+            second = second.next;
         }
+        slow.next = reverse(newHead);
         return true;
     }
 }
