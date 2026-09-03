@@ -80,6 +80,9 @@
     "Hash Table",
     "Sorting"
   ],
+  "max-consecutive-ones": [
+    "Array"
+  ],
   "merge-intervals": [
     "Array",
     "Quicksort",
