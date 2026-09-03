@@ -2,25 +2,25 @@
 
 A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 and tracked with GitHub Actions.
 
-![Solved](https://img.shields.io/badge/Solved-34-blue) ![Easy](https://img.shields.io/badge/Easy-16-brightgreen) ![Medium](https://img.shields.io/badge/Medium-17-yellow) ![Hard](https://img.shields.io/badge/Hard-1-red)
+![Solved](https://img.shields.io/badge/Solved-35-blue) ![Easy](https://img.shields.io/badge/Easy-16-brightgreen) ![Medium](https://img.shields.io/badge/Medium-18-yellow) ![Hard](https://img.shields.io/badge/Hard-1-red)
 
-![Current Streak](https://img.shields.io/badge/Current%20Streak-4%20days-orange) ![Longest Streak](https://img.shields.io/badge/Longest%20Streak-7%20days-purple)
+![Current Streak](https://img.shields.io/badge/Current%20Streak-5%20days-orange) ![Longest Streak](https://img.shields.io/badge/Longest%20Streak-7%20days-purple)
 
 ## 📊 Progress
 
-**Goal: 34 / 150 problems (22.7%)**
+**Goal: 35 / 150 problems (23.3%)**
 
 `█████░░░░░░░░░░░░░░░`
 
 | Difficulty | Solved |
 |---|---:|
 | 🟢 Easy | 16 |
-| 🟡 Medium | 17 |
+| 🟡 Medium | 18 |
 | 🔴 Hard | 1 |
 
 ## 🔥 Solution Streak
 
-- **Current streak:** 4 days
+- **Current streak:** 5 days
 - **Longest streak:** 7 days
 
 > Streaks are calculated from Git commit dates associated with problem folders.
@@ -29,6 +29,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 
 | # | Problem | Difficulty | Language | Solution | Solved |
 |---:|---|---|---|---|---|
+| 61 | [Rotate List](https://leetcode.com/problems/rotate-list) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0061-rotate-list) | Sep 03, 2026 |
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0142-linked-list-cycle-ii) | Sep 02, 2026 |
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0234-palindrome-linked-list) | Sep 02, 2026 |
 | 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0025-reverse-nodes-in-k-group) | Sep 01, 2026 |
@@ -38,13 +39,12 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list) | Aug 31, 2026 |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0021-merge-two-sorted-lists) | Aug 31, 2026 |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0206-reverse-linked-list) | Aug 30, 2026 |
-| 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0876-middle-of-the-linked-list) | Aug 30, 2026 |
 
 ## 📅 Monthly Progress
 
 | Month | Problems Solved |
 |---|---:|
-| September 2026 | 5 |
+| September 2026 | 6 |
 | August 2026 | 24 |
 | July 2026 | 3 |
 | February 2026 | 2 |
@@ -66,6 +66,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0048-rotate-image) |
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0050-powx-n) |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0056-merge-intervals) |
+| 61 | [Rotate List](https://leetcode.com/problems/rotate-list) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0061-rotate-list) |
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0073-set-matrix-zeroes) |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0074-search-a-2d-matrix) |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0075-sort-colors) |
@@ -122,6 +123,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0048-rotate-image) |
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0050-powx-n) |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0056-merge-intervals) |
+| 61 | [Rotate List](https://leetcode.com/problems/rotate-list) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0061-rotate-list) |
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0073-set-matrix-zeroes) |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0074-search-a-2d-matrix) |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0075-sort-colors) |
@@ -163,7 +165,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0287-find-the-duplicate-number) |
 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated) |
 
-### Two Pointers (14)
+### Two Pointers (15)
 
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
@@ -172,6 +174,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list) |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array) |
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0031-next-permutation) |
+| 61 | [Rotate List](https://leetcode.com/problems/rotate-list) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0061-rotate-list) |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0075-sort-colors) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0088-merge-sorted-array) |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0125-valid-palindrome) |
@@ -182,7 +185,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0287-find-the-duplicate-number) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0876-middle-of-the-linked-list) |
 
-### Linked List (11)
+### Linked List (12)
 
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
@@ -190,6 +193,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list) |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0021-merge-two-sorted-lists) |
 | 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0025-reverse-nodes-in-k-group) |
+| 61 | [Rotate List](https://leetcode.com/problems/rotate-list) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0061-rotate-list) |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0141-linked-list-cycle) |
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0142-linked-list-cycle-ii) |
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0160-intersection-of-two-linked-lists) |

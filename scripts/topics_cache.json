@@ -141,6 +141,10 @@
     "Math",
     "Matrix"
   ],
+  "rotate-list": [
+    "Linked List",
+    "Two Pointers"
+  ],
   "search-a-2d-matrix": [
     "Array",
     "Binary Search",
