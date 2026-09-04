@@ -173,6 +173,13 @@
     "Sorting",
     "Two Pointers"
   ],
+  "trapping-rain-water": [
+    "Array",
+    "Dynamic Programming",
+    "Monotonic Stack",
+    "Stack",
+    "Two Pointers"
+  ],
   "two-sum": [
     "Array",
     "Hash Table"
