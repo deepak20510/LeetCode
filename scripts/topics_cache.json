@@ -25,6 +25,10 @@
     "Array",
     "Math"
   ],
+  "copy-list-with-random-pointer": [
+    "Hash Table",
+    "Linked List"
+  ],
   "delete-node-in-a-linked-list": [
     "Linked List"
   ],
