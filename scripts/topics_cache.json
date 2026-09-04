@@ -21,6 +21,10 @@
   "check-if-array-is-sorted-and-rotated": [
     "Array"
   ],
+  "construct-uniform-parity-array-i": [
+    "Array",
+    "Math"
+  ],
   "delete-node-in-a-linked-list": [
     "Linked List"
   ],
