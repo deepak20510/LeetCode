@@ -165,6 +165,10 @@
     "Binary Search",
     "Matrix"
   ],
+  "search-insert-position": [
+    "Array",
+    "Binary Search"
+  ],
   "set-matrix-zeroes": [
     "Array",
     "Hash Table",
