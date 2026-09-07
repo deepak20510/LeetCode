@@ -169,6 +169,10 @@
     "Binary Search",
     "Matrix"
   ],
+  "search-in-rotated-sorted-array": [
+    "Array",
+    "Binary Search"
+  ],
   "search-insert-position": [
     "Array",
     "Binary Search"
