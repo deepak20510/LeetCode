@@ -42,6 +42,10 @@
     "Memoization",
     "Recursion"
   ],
+  "find-first-and-last-position-of-element-in-sorted-array": [
+    "Array",
+    "Binary Search"
+  ],
   "find-the-duplicate-number": [
     "Array",
     "Binary Search",

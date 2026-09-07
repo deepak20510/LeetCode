@@ -2,26 +2,26 @@
 
 A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 and tracked with GitHub Actions.
 
-![Solved](https://img.shields.io/badge/Solved-41-blue) ![Easy](https://img.shields.io/badge/Easy-20-brightgreen) ![Medium](https://img.shields.io/badge/Medium-19-yellow) ![Hard](https://img.shields.io/badge/Hard-2-red)
+![Solved](https://img.shields.io/badge/Solved-42-blue) ![Easy](https://img.shields.io/badge/Easy-20-brightgreen) ![Medium](https://img.shields.io/badge/Medium-20-yellow) ![Hard](https://img.shields.io/badge/Hard-2-red)
 
-![Current Streak](https://img.shields.io/badge/Current%20Streak-8%20days-orange) ![Longest Streak](https://img.shields.io/badge/Longest%20Streak-8%20days-purple)
+![Current Streak](https://img.shields.io/badge/Current%20Streak-9%20days-orange) ![Longest Streak](https://img.shields.io/badge/Longest%20Streak-9%20days-purple)
 
 ## 📊 Progress
 
-**Goal: 41 / 150 problems (27.3%)**
+**Goal: 42 / 150 problems (28.0%)**
 
-`█████░░░░░░░░░░░░░░░`
+`██████░░░░░░░░░░░░░░`
 
 | Difficulty | Solved |
 |---|---:|
 | 🟢 Easy | 20 |
-| 🟡 Medium | 19 |
+| 🟡 Medium | 20 |
 | 🔴 Hard | 2 |
 
 ## 🔥 Solution Streak
 
-- **Current streak:** 8 days
-- **Longest streak:** 8 days
+- **Current streak:** 9 days
+- **Longest streak:** 9 days
 
 > Streaks are calculated from Git commit dates associated with problem folders.
 
@@ -29,6 +29,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 
 | # | Problem | Difficulty | Language | Solution | Solved |
 |---:|---|---|---|---|---|
+| 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array) | Sep 07, 2026 |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0035-search-insert-position) | Sep 06, 2026 |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0704-binary-search) | Sep 05, 2026 |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0042-trapping-rain-water) | Sep 04, 2026 |
@@ -38,13 +39,12 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0485-max-consecutive-ones) | Sep 03, 2026 |
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0142-linked-list-cycle-ii) | Sep 02, 2026 |
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0234-palindrome-linked-list) | Sep 02, 2026 |
-| 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0025-reverse-nodes-in-k-group) | Sep 01, 2026 |
 
 ## 📅 Monthly Progress
 
 | Month | Problems Solved |
 |---|---:|
-| September 2026 | 12 |
+| September 2026 | 13 |
 | August 2026 | 24 |
 | July 2026 | 3 |
 | February 2026 | 2 |
@@ -63,6 +63,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0025-reverse-nodes-in-k-group) |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array) |
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0031-next-permutation) |
+| 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0035-search-insert-position) |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0042-trapping-rain-water) |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0048-rotate-image) |
@@ -130,6 +131,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 18 | [4Sum](https://leetcode.com/problems/4sum) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0018-4sum) |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list) |
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0031-next-permutation) |
+| 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0048-rotate-image) |
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0050-powx-n) |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0056-merge-intervals) |
@@ -153,7 +155,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 
 ## 🏷️ Topics
 
-### Array (24)
+### Array (25)
 
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
@@ -162,6 +164,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 18 | [4Sum](https://leetcode.com/problems/4sum) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0018-4sum) |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array) |
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0031-next-permutation) |
+| 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0035-search-insert-position) |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0042-trapping-rain-water) |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0048-rotate-image) |
@@ -260,6 +263,16 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0169-majority-element) |
 | 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0229-majority-element-ii) |
 
+### Binary Search (5)
+
+| # | Problem | Difficulty | Language | Solution |
+|---:|---|---|---|---|
+| 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0035-search-insert-position) |
+| 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0074-search-a-2d-matrix) |
+| 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0287-find-the-duplicate-number) |
+| 704 | [Binary Search](https://leetcode.com/problems/binary-search) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0704-binary-search) |
+
 ### Dynamic Programming (5)
 
 | # | Problem | Difficulty | Language | Solution |
@@ -279,15 +292,6 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0050-powx-n) |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0509-fibonacci-number) |
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3875-construct-uniform-parity-array-i) |
-
-### Binary Search (4)
-
-| # | Problem | Difficulty | Language | Solution |
-|---:|---|---|---|---|
-| 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0035-search-insert-position) |
-| 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0074-search-a-2d-matrix) |
-| 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0287-find-the-duplicate-number) |
-| 704 | [Binary Search](https://leetcode.com/problems/binary-search) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0704-binary-search) |
 
 ### Floyd's Cycle Finding Algorithm (3)
 
