@@ -2,26 +2,26 @@
 
 A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 and tracked with GitHub Actions.
 
-![Solved](https://img.shields.io/badge/Solved-44-blue) ![Easy](https://img.shields.io/badge/Easy-20-brightgreen) ![Medium](https://img.shields.io/badge/Medium-22-yellow) ![Hard](https://img.shields.io/badge/Hard-2-red)
+![Solved](https://img.shields.io/badge/Solved-45-blue) ![Easy](https://img.shields.io/badge/Easy-21-brightgreen) ![Medium](https://img.shields.io/badge/Medium-22-yellow) ![Hard](https://img.shields.io/badge/Hard-2-red)
 
-![Current Streak](https://img.shields.io/badge/Current%20Streak-9%20days-orange) ![Longest Streak](https://img.shields.io/badge/Longest%20Streak-9%20days-purple)
+![Current Streak](https://img.shields.io/badge/Current%20Streak-10%20days-orange) ![Longest Streak](https://img.shields.io/badge/Longest%20Streak-10%20days-purple)
 
 ## 📊 Progress
 
-**Goal: 44 / 150 problems (29.3%)**
+**Goal: 45 / 150 problems (30.0%)**
 
 `██████░░░░░░░░░░░░░░`
 
 | Difficulty | Solved |
 |---|---:|
-| 🟢 Easy | 20 |
+| 🟢 Easy | 21 |
 | 🟡 Medium | 22 |
 | 🔴 Hard | 2 |
 
 ## 🔥 Solution Streak
 
-- **Current streak:** 9 days
-- **Longest streak:** 9 days
+- **Current streak:** 10 days
+- **Longest streak:** 10 days
 
 > Streaks are calculated from Git commit dates associated with problem folders.
 
@@ -29,6 +29,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 
 | # | Problem | Difficulty | Language | Solution | Solved |
 |---:|---|---|---|---|---|
+| 3870 | [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3870-count-commas-in-range) | Sep 08, 2026 |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0033-search-in-rotated-sorted-array) | Sep 07, 2026 |
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array) | Sep 07, 2026 |
 | 81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii) | Sep 07, 2026 |
@@ -38,13 +39,12 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0138-copy-list-with-random-pointer) | Sep 04, 2026 |
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3875-construct-uniform-parity-array-i) | Sep 04, 2026 |
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0061-rotate-list) | Sep 03, 2026 |
-| 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0485-max-consecutive-ones) | Sep 03, 2026 |
 
 ## 📅 Monthly Progress
 
 | Month | Problems Solved |
 |---|---:|
-| September 2026 | 15 |
+| September 2026 | 16 |
 | August 2026 | 24 |
 | July 2026 | 3 |
 | February 2026 | 2 |
@@ -96,6 +96,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0704-binary-search) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0876-middle-of-the-linked-list) |
 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated) |
+| 3870 | [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3870-count-commas-in-range) |
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3875-construct-uniform-parity-array-i) |
 
 ## 🟢 Easy Problems
@@ -121,6 +122,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0704-binary-search) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0876-middle-of-the-linked-list) |
 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated) |
+| 3870 | [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3870-count-commas-in-range) |
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3875-construct-uniform-parity-array-i) |
 
 ## 🟡 Medium Problems
@@ -281,6 +283,17 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0169-majority-element) |
 | 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0229-majority-element-ii) |
 
+### Math (6)
+
+| # | Problem | Difficulty | Language | Solution |
+|---:|---|---|---|---|
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0002-add-two-numbers) |
+| 48 | [Rotate Image](https://leetcode.com/problems/rotate-image) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0048-rotate-image) |
+| 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0050-powx-n) |
+| 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0509-fibonacci-number) |
+| 3870 | [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3870-count-commas-in-range) |
+| 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3875-construct-uniform-parity-array-i) |
+
 ### Dynamic Programming (5)
 
 | # | Problem | Difficulty | Language | Solution |
@@ -290,16 +303,6 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0119-pascals-triangle-ii) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock) |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0509-fibonacci-number) |
-
-### Math (5)
-
-| # | Problem | Difficulty | Language | Solution |
-|---:|---|---|---|---|
-| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0002-add-two-numbers) |
-| 48 | [Rotate Image](https://leetcode.com/problems/rotate-image) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0048-rotate-image) |
-| 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0050-powx-n) |
-| 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0509-fibonacci-number) |
-| 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3875-construct-uniform-parity-array-i) |
 
 ### Floyd's Cycle Finding Algorithm (3)
 
