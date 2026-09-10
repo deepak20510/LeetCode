@@ -25,6 +25,13 @@
   "check-if-array-is-sorted-and-rotated": [
     "Array"
   ],
+  "coin-change": [
+    "Array",
+    "Breadth-First Search",
+    "Complete Knapsack",
+    "Dynamic Programming",
+    "Knapsack Problem"
+  ],
   "construct-uniform-parity-array-i": [
     "Array",
     "Math"
