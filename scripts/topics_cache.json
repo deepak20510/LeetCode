@@ -196,6 +196,10 @@
     "Hash Table",
     "Matrix"
   ],
+  "single-element-in-a-sorted-array": [
+    "Array",
+    "Binary Search"
+  ],
   "sort-colors": [
     "Array",
     "Bubble Sort",
