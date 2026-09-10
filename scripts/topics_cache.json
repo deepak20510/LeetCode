@@ -39,6 +39,11 @@
   "count-commas-in-range-ii": [
     "Math"
   ],
+  "count-nodes-equal-to-average-of-subtree": [
+    "Binary Tree",
+    "Depth-First Search",
+    "Tree"
+  ],
   "delete-node-in-a-linked-list": [
     "Linked List"
   ],
