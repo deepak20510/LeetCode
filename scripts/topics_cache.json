@@ -76,6 +76,11 @@
     "Pigeonhole Principle",
     "Two Pointers"
   ],
+  "implement-stack-using-queues": [
+    "Design",
+    "Queue",
+    "Stack"
+  ],
   "intersection-of-two-linked-lists": [
     "Hash Table",
     "Linked List",
