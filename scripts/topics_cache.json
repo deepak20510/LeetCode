@@ -230,6 +230,12 @@
     "Array",
     "Hash Table"
   ],
+  "unique-3-digit-even-numbers": [
+    "Array",
+    "Enumeration",
+    "Hash Table",
+    "Recursion"
+  ],
   "valid-palindrome": [
     "String",
     "Two Pointers"
