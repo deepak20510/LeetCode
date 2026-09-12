@@ -131,6 +131,12 @@
   "max-consecutive-ones": [
     "Array"
   ],
+  "maximum-score-of-non-overlapping-intervals": [
+    "Array",
+    "Binary Search",
+    "Dynamic Programming",
+    "Sorting"
+  ],
   "merge-intervals": [
     "Array",
     "Quicksort",
