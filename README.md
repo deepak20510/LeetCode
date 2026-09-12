@@ -2,19 +2,19 @@
 
 A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 and tracked with GitHub Actions.
 
-![Solved](https://img.shields.io/badge/Solved-54-blue) ![Easy](https://img.shields.io/badge/Easy-24-brightgreen) ![Medium](https://img.shields.io/badge/Medium-27-yellow) ![Hard](https://img.shields.io/badge/Hard-3-red)
+![Solved](https://img.shields.io/badge/Solved-55-blue) ![Easy](https://img.shields.io/badge/Easy-25-brightgreen) ![Medium](https://img.shields.io/badge/Medium-27-yellow) ![Hard](https://img.shields.io/badge/Hard-3-red)
 
 ![Current Streak](https://img.shields.io/badge/Current%20Streak-14%20days-orange) ![Longest Streak](https://img.shields.io/badge/Longest%20Streak-14%20days-purple)
 
 ## 📊 Progress
 
-**Goal: 54 / 150 problems (36.0%)**
+**Goal: 55 / 150 problems (36.7%)**
 
 `███████░░░░░░░░░░░░░`
 
 | Difficulty | Solved |
 |---|---:|
-| 🟢 Easy | 24 |
+| 🟢 Easy | 25 |
 | 🟡 Medium | 27 |
 | 🔴 Hard | 3 |
 
@@ -29,6 +29,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 
 | # | Problem | Difficulty | Language | Solution | Solved |
 |---:|---|---|---|---|---|
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0020-valid-parentheses) | Sep 12, 2026 |
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0232-implement-queue-using-stacks) | Sep 12, 2026 |
 | 3414 | [Maximum Score of Non-overlapping Intervals](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals) | Sep 12, 2026 |
 | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0225-implement-stack-using-queues) | Sep 11, 2026 |
@@ -38,13 +39,12 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 2265 | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree) | Sep 10, 2026 |
 | 3871 | [Count Commas in Range II](https://leetcode.com/problems/count-commas-in-range-ii) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3871-count-commas-in-range-ii) | Sep 09, 2026 |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array) | Sep 08, 2026 |
-| 3870 | [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3870-count-commas-in-range) | Sep 08, 2026 |
 
 ## 📅 Monthly Progress
 
 | Month | Problems Solved |
 |---|---:|
-| September 2026 | 25 |
+| September 2026 | 26 |
 | August 2026 | 24 |
 | July 2026 | 3 |
 | February 2026 | 2 |
@@ -59,6 +59,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 15 | [3Sum](https://leetcode.com/problems/3sum) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0015-3sum) |
 | 18 | [4Sum](https://leetcode.com/problems/4sum) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0018-4sum) |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list) |
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0020-valid-parentheses) |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0021-merge-two-sorted-lists) |
 | 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0025-reverse-nodes-in-k-group) |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array) |
@@ -113,6 +114,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0001-two-sum) |
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0020-valid-parentheses) |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0021-merge-two-sorted-lists) |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array) |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0035-search-insert-position) |
@@ -336,10 +338,11 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 3871 | [Count Commas in Range II](https://leetcode.com/problems/count-commas-in-range-ii) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3871-count-commas-in-range-ii) |
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3875-construct-uniform-parity-array-i) |
 
-### Stack (4)
+### Stack (5)
 
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0020-valid-parentheses) |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0042-trapping-rain-water) |
 | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0225-implement-stack-using-queues) |
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0232-implement-queue-using-stacks) |
@@ -360,6 +363,14 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0048-rotate-image) |
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0073-set-matrix-zeroes) |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0074-search-a-2d-matrix) |
+
+### String (3)
+
+| # | Problem | Difficulty | Language | Solution |
+|---:|---|---|---|---|
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0003-longest-substring-without-repeating-characters) |
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0020-valid-parentheses) |
+| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0125-valid-palindrome) |
 
 ### Boyer–Moore Majority Vote Algorithm (2)
 
@@ -396,13 +407,6 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0056-merge-intervals) |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0075-sort-colors) |
 
-### String (2)
-
-| # | Problem | Difficulty | Language | Solution |
-|---:|---|---|---|---|
-| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0003-longest-substring-without-repeating-characters) |
-| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0125-valid-palindrome) |
-
 ### Binary Tree (1)
 
 | # | Problem | Difficulty | Language | Solution |
@@ -414,6 +418,12 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0287-find-the-duplicate-number) |
+
+### Bracket Sequences (1)
+
+| # | Problem | Difficulty | Language | Solution |
+|---:|---|---|---|---|
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0020-valid-parentheses) |
 
 ### Breadth-First Search (1)
 

@@ -255,5 +255,10 @@
   "valid-palindrome": [
     "String",
     "Two Pointers"
+  ],
+  "valid-parentheses": [
+    "Bracket Sequences",
+    "Stack",
+    "String"
   ]
 }
