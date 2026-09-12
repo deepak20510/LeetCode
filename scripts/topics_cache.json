@@ -76,6 +76,11 @@
     "Pigeonhole Principle",
     "Two Pointers"
   ],
+  "implement-queue-using-stacks": [
+    "Design",
+    "Queue",
+    "Stack"
+  ],
   "implement-stack-using-queues": [
     "Design",
     "Queue",
