@@ -155,6 +155,10 @@
     "Linked List",
     "Two Pointers"
   ],
+  "min-stack": [
+    "Design",
+    "Stack"
+  ],
   "next-permutation": [
     "Array",
     "Two Pointers"
