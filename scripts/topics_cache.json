@@ -181,6 +181,10 @@
     "Math",
     "Recursion"
   ],
+  "rectangle-overlap": [
+    "Geometry",
+    "Math"
+  ],
   "remove-duplicates-from-sorted-array": [
     "Array",
     "Two Pointers"
