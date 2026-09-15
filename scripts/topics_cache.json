@@ -260,6 +260,11 @@
     "Monotonic Stack",
     "Stack"
   ],
+  "sum-of-subarray-ranges": [
+    "Array",
+    "Monotonic Stack",
+    "Stack"
+  ],
   "trapping-rain-water": [
     "Array",
     "Dynamic Programming",
