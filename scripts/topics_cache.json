@@ -159,6 +159,12 @@
     "Design",
     "Stack"
   ],
+  "next-greater-element-i": [
+    "Array",
+    "Hash Table",
+    "Monotonic Stack",
+    "Stack"
+  ],
   "next-permutation": [
     "Array",
     "Two Pointers"
