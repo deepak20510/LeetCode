@@ -131,6 +131,12 @@
   "max-consecutive-ones": [
     "Array"
   ],
+  "maximum-number-of-non-overlapping-palindrome-substrings": [
+    "Dynamic Programming",
+    "Greedy",
+    "String",
+    "Two Pointers"
+  ],
   "maximum-score-of-non-overlapping-intervals": [
     "Array",
     "Binary Search",
