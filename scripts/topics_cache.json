@@ -254,6 +254,12 @@
     "Sorting",
     "Two Pointers"
   ],
+  "sum-of-subarray-minimums": [
+    "Array",
+    "Dynamic Programming",
+    "Monotonic Stack",
+    "Stack"
+  ],
   "trapping-rain-water": [
     "Array",
     "Dynamic Programming",
