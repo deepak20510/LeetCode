@@ -2,21 +2,21 @@
 
 A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 and tracked with GitHub Actions.
 
-![Solved](https://img.shields.io/badge/Solved-63-blue) ![Easy](https://img.shields.io/badge/Easy-27-brightgreen) ![Medium](https://img.shields.io/badge/Medium-32-yellow) ![Hard](https://img.shields.io/badge/Hard-4-red)
+![Solved](https://img.shields.io/badge/Solved-64-blue) ![Easy](https://img.shields.io/badge/Easy-27-brightgreen) ![Medium](https://img.shields.io/badge/Medium-32-yellow) ![Hard](https://img.shields.io/badge/Hard-5-red)
 
 ![Current Streak](https://img.shields.io/badge/Current%20Streak-18%20days-orange) ![Longest Streak](https://img.shields.io/badge/Longest%20Streak-18%20days-purple)
 
 ## 📊 Progress
 
-**Goal: 63 / 150 problems (42.0%)**
+**Goal: 64 / 150 problems (42.7%)**
 
-`████████░░░░░░░░░░░░`
+`█████████░░░░░░░░░░░`
 
 | Difficulty | Solved |
 |---|---:|
 | 🟢 Easy | 27 |
 | 🟡 Medium | 32 |
-| 🔴 Hard | 4 |
+| 🔴 Hard | 5 |
 
 ## 🔥 Solution Streak
 
@@ -29,6 +29,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 
 | # | Problem | Difficulty | Language | Solution | Solved |
 |---:|---|---|---|---|---|
+| 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0084-largest-rectangle-in-histogram) | Sep 16, 2026 |
 | 735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0735-asteroid-collision) | Sep 16, 2026 |
 | 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0496-next-greater-element-i) | Sep 15, 2026 |
 | 503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0503-next-greater-element-ii) | Sep 15, 2026 |
@@ -38,13 +39,12 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 836 | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0836-rectangle-overlap) | Sep 14, 2026 |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0155-min-stack) | Sep 13, 2026 |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0020-valid-parentheses) | Sep 12, 2026 |
-| 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0232-implement-queue-using-stacks) | Sep 12, 2026 |
 
 ## 📅 Monthly Progress
 
 | Month | Problems Solved |
 |---|---:|
-| September 2026 | 34 |
+| September 2026 | 35 |
 | August 2026 | 24 |
 | July 2026 | 3 |
 | February 2026 | 2 |
@@ -76,6 +76,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0074-search-a-2d-matrix) |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0075-sort-colors) |
 | 81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii) |
+| 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0084-largest-rectangle-in-histogram) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0088-merge-sorted-array) |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0118-pascals-triangle) |
 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0119-pascals-triangle-ii) |
@@ -192,12 +193,13 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 |---:|---|---|---|---|
 | 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0025-reverse-nodes-in-k-group) |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0042-trapping-rain-water) |
+| 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0084-largest-rectangle-in-histogram) |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | 3414 | [Maximum Score of Non-overlapping Intervals](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals) |
 
 ## 🏷️ Topics
 
-### Array (37)
+### Array (38)
 
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
@@ -216,6 +218,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0074-search-a-2d-matrix) |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0075-sort-colors) |
 | 81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii) |
+| 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0084-largest-rectangle-in-histogram) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0088-merge-sorted-array) |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0118-pascals-triangle) |
 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0119-pascals-triangle-ii) |
@@ -296,12 +299,13 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0496-next-greater-element-i) |
 | 3483 | [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3483-unique-3-digit-even-numbers) |
 
-### Stack (11)
+### Stack (12)
 
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0020-valid-parentheses) |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0042-trapping-rain-water) |
+| 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0084-largest-rectangle-in-histogram) |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0155-min-stack) |
 | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0225-implement-stack-using-queues) |
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0232-implement-queue-using-stacks) |
@@ -380,11 +384,12 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0229-majority-element-ii) |
 | 3414 | [Maximum Score of Non-overlapping Intervals](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals) |
 
-### Monotonic Stack (5)
+### Monotonic Stack (6)
 
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0042-trapping-rain-water) |
+| 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0084-largest-rectangle-in-histogram) |
 | 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0496-next-greater-element-i) |
 | 503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0503-next-greater-element-ii) |
 | 907 | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0907-sum-of-subarray-minimums) |
@@ -534,6 +539,12 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0287-find-the-duplicate-number) |
+
+### Range Minimum/Maximum Query (1)
+
+| # | Problem | Difficulty | Language | Solution |
+|---:|---|---|---|---|
+| 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0084-largest-rectangle-in-histogram) |
 
 ### Simulation (1)
 

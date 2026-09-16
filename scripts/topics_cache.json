@@ -96,6 +96,12 @@
     "Linked List",
     "Two Pointers"
   ],
+  "largest-rectangle-in-histogram": [
+    "Array",
+    "Monotonic Stack",
+    "Range Minimum/Maximum Query",
+    "Stack"
+  ],
   "linked-list-cycle": [
     "Floyd's Cycle Finding Algorithm",
     "Hash Table",
