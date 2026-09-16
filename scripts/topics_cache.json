@@ -14,6 +14,11 @@
     "Math",
     "Recursion"
   ],
+  "asteroid-collision": [
+    "Array",
+    "Simulation",
+    "Stack"
+  ],
   "best-time-to-buy-and-sell-stock": [
     "Array",
     "Dynamic Programming"
