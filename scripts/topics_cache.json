@@ -142,6 +142,13 @@
   "max-consecutive-ones": [
     "Array"
   ],
+  "maximal-rectangle": [
+    "Array",
+    "Dynamic Programming",
+    "Matrix",
+    "Monotonic Stack",
+    "Stack"
+  ],
   "maximum-number-of-non-overlapping-palindrome-substrings": [
     "Dynamic Programming",
     "Greedy",
