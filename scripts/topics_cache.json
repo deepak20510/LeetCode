@@ -191,6 +191,12 @@
     "Array",
     "Two Pointers"
   ],
+  "number-of-sets-of-k-non-overlapping-line-segments": [
+    "Combinatorics",
+    "Dynamic Programming",
+    "Math",
+    "Prefix Sum"
+  ],
   "palindrome-linked-list": [
     "Linked List",
     "Recursion",
