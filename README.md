@@ -2,20 +2,20 @@
 
 A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 and tracked with GitHub Actions.
 
-![Solved](https://img.shields.io/badge/Solved-66-blue) ![Easy](https://img.shields.io/badge/Easy-27-brightgreen) ![Medium](https://img.shields.io/badge/Medium-33-yellow) ![Hard](https://img.shields.io/badge/Hard-6-red)
+![Solved](https://img.shields.io/badge/Solved-67-blue) ![Easy](https://img.shields.io/badge/Easy-27-brightgreen) ![Medium](https://img.shields.io/badge/Medium-34-yellow) ![Hard](https://img.shields.io/badge/Hard-6-red)
 
 ![Current Streak](https://img.shields.io/badge/Current%20Streak-19%20days-orange) ![Longest Streak](https://img.shields.io/badge/Longest%20Streak-19%20days-purple)
 
 ## 📊 Progress
 
-**Goal: 66 / 150 problems (44.0%)**
+**Goal: 67 / 150 problems (44.7%)**
 
 `█████████░░░░░░░░░░░`
 
 | Difficulty | Solved |
 |---|---:|
 | 🟢 Easy | 27 |
-| 🟡 Medium | 33 |
+| 🟡 Medium | 34 |
 | 🔴 Hard | 6 |
 
 ## 🔥 Solution Streak
@@ -30,6 +30,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | # | Problem | Difficulty | Language | Solution | Solved |
 |---:|---|---|---|---|---|
 | 85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0085-maximal-rectangle) | Sep 17, 2026 |
+| 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) | Sep 17, 2026 |
 | 1621 | [Number of Sets of K Non-Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments) | Sep 17, 2026 |
 | 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0084-largest-rectangle-in-histogram) | Sep 16, 2026 |
 | 735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0735-asteroid-collision) | Sep 16, 2026 |
@@ -38,13 +39,12 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 907 | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0907-sum-of-subarray-minimums) | Sep 15, 2026 |
 | 2104 | [Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2104-sum-of-subarray-ranges) | Sep 15, 2026 |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings) | Sep 15, 2026 |
-| 836 | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0836-rectangle-overlap) | Sep 14, 2026 |
 
 ## 📅 Monthly Progress
 
 | Month | Problems Solved |
 |---|---:|
-| September 2026 | 37 |
+| September 2026 | 38 |
 | August 2026 | 24 |
 | July 2026 | 3 |
 | February 2026 | 2 |
@@ -109,6 +109,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 836 | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0836-rectangle-overlap) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0876-middle-of-the-linked-list) |
 | 907 | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0907-sum-of-subarray-minimums) |
+| 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | 1621 | [Number of Sets of K Non-Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated) |
 | 2104 | [Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2104-sum-of-subarray-ranges) |
@@ -185,6 +186,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0540-single-element-in-a-sorted-array) |
 | 735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0735-asteroid-collision) |
 | 907 | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0907-sum-of-subarray-minimums) |
+| 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | 1621 | [Number of Sets of K Non-Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | 2104 | [Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2104-sum-of-subarray-ranges) |
 | 2265 | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree) |
@@ -203,7 +205,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 
 ## 🏷️ Topics
 
-### Array (39)
+### Array (40)
 
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
@@ -241,6 +243,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0704-binary-search) |
 | 735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0735-asteroid-collision) |
 | 907 | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0907-sum-of-subarray-minimums) |
+| 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated) |
 | 2104 | [Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2104-sum-of-subarray-ranges) |
 | 3414 | [Maximum Score of Non-overlapping Intervals](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals) |
@@ -268,6 +271,24 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0287-find-the-duplicate-number) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0876-middle-of-the-linked-list) |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+
+### Hash Table (13)
+
+| # | Problem | Difficulty | Language | Solution |
+|---:|---|---|---|---|
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0001-two-sum) |
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0003-longest-substring-without-repeating-characters) |
+| 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0073-set-matrix-zeroes) |
+| 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0128-longest-consecutive-sequence) |
+| 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0138-copy-list-with-random-pointer) |
+| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0141-linked-list-cycle) |
+| 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0142-linked-list-cycle-ii) |
+| 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0160-intersection-of-two-linked-lists) |
+| 169 | [Majority Element](https://leetcode.com/problems/majority-element) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0169-majority-element) |
+| 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0229-majority-element-ii) |
+| 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0496-next-greater-element-i) |
+| 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| 3483 | [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3483-unique-3-digit-even-numbers) |
 
 ### Linked List (13)
 
@@ -305,24 +326,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 907 | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0907-sum-of-subarray-minimums) |
 | 2104 | [Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2104-sum-of-subarray-ranges) |
 
-### Hash Table (12)
-
-| # | Problem | Difficulty | Language | Solution |
-|---:|---|---|---|---|
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0001-two-sum) |
-| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0003-longest-substring-without-repeating-characters) |
-| 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0073-set-matrix-zeroes) |
-| 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0128-longest-consecutive-sequence) |
-| 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0138-copy-list-with-random-pointer) |
-| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0141-linked-list-cycle) |
-| 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0142-linked-list-cycle-ii) |
-| 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0160-intersection-of-two-linked-lists) |
-| 169 | [Majority Element](https://leetcode.com/problems/majority-element) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0169-majority-element) |
-| 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0229-majority-element-ii) |
-| 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0496-next-greater-element-i) |
-| 3483 | [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3483-unique-3-digit-even-numbers) |
-
-### Dynamic Programming (11)
+### Dynamic Programming (12)
 
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
@@ -334,11 +338,12 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 322 | [Coin Change](https://leetcode.com/problems/coin-change) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0322-coin-change) |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0509-fibonacci-number) |
 | 907 | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0907-sum-of-subarray-minimums) |
+| 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | 1621 | [Number of Sets of K Non-Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | 3414 | [Maximum Score of Non-overlapping Intervals](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals) |
 
-### Binary Search (10)
+### Binary Search (11)
 
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
@@ -351,6 +356,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0287-find-the-duplicate-number) |
 | 540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0540-single-element-in-a-sorted-array) |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0704-binary-search) |
+| 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | 3414 | [Maximum Score of Non-overlapping Intervals](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals) |
 
 ### Math (9)
@@ -467,6 +473,13 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0056-merge-intervals) |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0075-sort-colors) |
 
+### Sliding Window (2)
+
+| # | Problem | Difficulty | Language | Solution |
+|---:|---|---|---|---|
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0003-longest-substring-without-repeating-characters) |
+| 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+
 ### Binary Tree (1)
 
 | # | Problem | Difficulty | Language | Solution |
@@ -574,12 +587,6 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
 | 735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0735-asteroid-collision) |
-
-### Sliding Window (1)
-
-| # | Problem | Difficulty | Language | Solution |
-|---:|---|---|---|---|
-| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0003-longest-substring-without-repeating-characters) |
 
 ### Tree (1)
 

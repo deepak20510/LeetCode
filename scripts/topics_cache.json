@@ -81,6 +81,13 @@
     "Pigeonhole Principle",
     "Two Pointers"
   ],
+  "find-two-non-overlapping-sub-arrays-each-with-target-sum": [
+    "Array",
+    "Binary Search",
+    "Dynamic Programming",
+    "Hash Table",
+    "Sliding Window"
+  ],
   "implement-queue-using-stacks": [
     "Design",
     "Queue",
