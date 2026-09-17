@@ -284,6 +284,14 @@
     "Array",
     "Binary Search"
   ],
+  "sliding-window-maximum": [
+    "Array",
+    "Heap (Priority Queue)",
+    "Monotonic Queue",
+    "Queue",
+    "Range Minimum/Maximum Query",
+    "Sliding Window"
+  ],
   "sort-colors": [
     "Array",
     "Bubble Sort",
