@@ -162,6 +162,12 @@
     "String",
     "Two Pointers"
   ],
+  "maximum-number-of-non-overlapping-substrings": [
+    "Greedy",
+    "Hash Table",
+    "Sorting",
+    "String"
+  ],
   "maximum-score-of-non-overlapping-intervals": [
     "Array",
     "Binary Search",
