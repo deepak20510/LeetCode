@@ -30,6 +30,10 @@
   "check-if-array-is-sorted-and-rotated": [
     "Array"
   ],
+  "circle-and-rectangle-overlapping": [
+    "Geometry",
+    "Math"
+  ],
   "coin-change": [
     "Array",
     "Breadth-First Search",
