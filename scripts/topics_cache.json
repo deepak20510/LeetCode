@@ -92,6 +92,11 @@
     "Hash Table",
     "Sliding Window"
   ],
+  "find-x-value-of-array-i": [
+    "Array",
+    "Dynamic Programming",
+    "Math"
+  ],
   "implement-queue-using-stacks": [
     "Design",
     "Queue",
