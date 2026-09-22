@@ -97,6 +97,11 @@
     "Dynamic Programming",
     "Math"
   ],
+  "find-x-value-of-array-ii": [
+    "Array",
+    "Math",
+    "Segment Tree"
+  ],
   "implement-queue-using-stacks": [
     "Design",
     "Queue",
