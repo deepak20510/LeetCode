@@ -231,6 +231,12 @@
     "Math",
     "Prefix Sum"
   ],
+  "online-stock-span": [
+    "Data Stream",
+    "Design",
+    "Monotonic Stack",
+    "Stack"
+  ],
   "palindrome-linked-list": [
     "Linked List",
     "Recursion",
