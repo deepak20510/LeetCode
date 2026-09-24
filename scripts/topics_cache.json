@@ -325,6 +325,10 @@
     "Range Minimum/Maximum Query",
     "Sliding Window"
   ],
+  "smallest-index-with-digit-sum-equal-to-index": [
+    "Array",
+    "Math"
+  ],
   "sort-colors": [
     "Array",
     "Bubble Sort",
