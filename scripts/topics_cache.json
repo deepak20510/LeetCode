@@ -182,6 +182,11 @@
     "Sorting",
     "String"
   ],
+  "maximum-points-you-can-obtain-from-cards": [
+    "Array",
+    "Prefix Sum",
+    "Sliding Window"
+  ],
   "maximum-score-of-non-overlapping-intervals": [
     "Array",
     "Binary Search",
