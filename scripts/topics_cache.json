@@ -176,6 +176,12 @@
   "max-consecutive-ones": [
     "Array"
   ],
+  "max-consecutive-ones-iii": [
+    "Array",
+    "Binary Search",
+    "Prefix Sum",
+    "Sliding Window"
+  ],
   "maximal-rectangle": [
     "Array",
     "Dynamic Programming",
