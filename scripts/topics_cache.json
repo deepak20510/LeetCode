@@ -71,6 +71,11 @@
   "delete-node-in-a-linked-list": [
     "Linked List"
   ],
+  "evaluate-the-bracket-pairs-of-a-string": [
+    "Array",
+    "Hash Table",
+    "String"
+  ],
   "fibonacci-number": [
     "Dynamic Programming",
     "Math",
