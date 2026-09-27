@@ -306,6 +306,11 @@
     "Linked List",
     "Recursion"
   ],
+  "reverse-substrings-between-each-pair-of-parentheses": [
+    "Bracket Sequences",
+    "Stack",
+    "String"
+  ],
   "rotate-image": [
     "Array",
     "Math",
