@@ -189,6 +189,11 @@
     "Monotonic Stack",
     "Stack"
   ],
+  "maximum-nesting-depth-of-the-parentheses": [
+    "Bracket Sequences",
+    "Stack",
+    "String"
+  ],
   "maximum-number-of-non-overlapping-palindrome-substrings": [
     "Dynamic Programming",
     "Greedy",
