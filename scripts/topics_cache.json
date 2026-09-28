@@ -115,6 +115,11 @@
     "Math",
     "Segment Tree"
   ],
+  "fruit-into-baskets": [
+    "Array",
+    "Hash Table",
+    "Sliding Window"
+  ],
   "implement-queue-using-stacks": [
     "Design",
     "Queue",
