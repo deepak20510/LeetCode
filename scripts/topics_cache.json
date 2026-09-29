@@ -288,6 +288,11 @@
     "Math",
     "Prefix Sum"
   ],
+  "number-of-substrings-containing-all-three-characters": [
+    "Hash Table",
+    "Sliding Window",
+    "String"
+  ],
   "online-stock-span": [
     "Data Stream",
     "Design",
