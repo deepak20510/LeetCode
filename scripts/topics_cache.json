@@ -38,6 +38,12 @@
   "check-if-array-is-sorted-and-rotated": [
     "Array"
   ],
+  "check-if-there-is-a-valid-parentheses-string-path": [
+    "Array",
+    "Bracket Sequences",
+    "Dynamic Programming",
+    "Matrix"
+  ],
   "circle-and-rectangle-overlapping": [
     "Geometry",
     "Math"
