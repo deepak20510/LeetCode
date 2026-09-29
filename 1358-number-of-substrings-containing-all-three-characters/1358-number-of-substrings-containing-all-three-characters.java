@@ -1,12 +1,15 @@
 class Solution {
     public int numberOfSubstrings(String s) {
         int n = s.length();
-        int [] lastseen = {-1,-1,-1};
+        int[] hash = new int[3];
+        int l = 0;
         int cnt = 0;
-        for(int i = 0;i <= n-1; i++){
-            lastseen[s.charAt(i) - 'a'] = i;
-            if(lastseen[0] != -1 && lastseen[1] != -1 && lastseen[2] != -1){
-                cnt = cnt + (1 + Math.min(lastseen[0], Math.min(lastseen[1], lastseen[2])));
+        for (int r = 0; r < n; r++) {
+            hash[s.charAt(r) - 'a']++;
+            while (hash[0] > 0 && hash[1] > 0 && hash[2] > 0) {
+                cnt += n - r;
+                hash[s.charAt(l) - 'a']--;
+                l++;
             }
         }
         return cnt;
