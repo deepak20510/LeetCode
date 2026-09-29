@@ -262,6 +262,11 @@
     "Prefix Sum",
     "Sliding Window"
   ],
+  "minimum-window-substring": [
+    "Hash Table",
+    "Sliding Window",
+    "String"
+  ],
   "next-greater-element-i": [
     "Array",
     "Hash Table",

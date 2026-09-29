@@ -2,13 +2,13 @@
 
 A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 and tracked with GitHub Actions.
 
-![Solved](https://img.shields.io/badge/Solved-84-blue) ![Easy](https://img.shields.io/badge/Easy-29-brightgreen) ![Medium](https://img.shields.io/badge/Medium-44-yellow) ![Hard](https://img.shields.io/badge/Hard-11-red)
+![Solved](https://img.shields.io/badge/Solved-85-blue) ![Easy](https://img.shields.io/badge/Easy-29-brightgreen) ![Medium](https://img.shields.io/badge/Medium-44-yellow) ![Hard](https://img.shields.io/badge/Hard-12-red)
 
 ![Current Streak](https://img.shields.io/badge/Current%20Streak-9%20days-orange) ![Longest Streak](https://img.shields.io/badge/Longest%20Streak-21%20days-purple)
 
 ## 📊 Progress
 
-**Goal: 84 / 150 problems (56.0%)**
+**Goal: 85 / 150 problems (56.7%)**
 
 `███████████░░░░░░░░░`
 
@@ -16,7 +16,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 |---|---:|
 | 🟢 Easy | 29 |
 | 🟡 Medium | 44 |
-| 🔴 Hard | 11 |
+| 🔴 Hard | 12 |
 
 ## 🔥 Solution Streak
 
@@ -29,6 +29,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 
 | # | Problem | Difficulty | Language | Solution | Solved |
 |---:|---|---|---|---|---|
+| 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0076-minimum-window-substring) | Sep 29, 2026 |
 | 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0424-longest-repeating-character-replacement) | Sep 29, 2026 |
 | 2267 | [Check if There Is a Valid Parentheses String Path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path) | Sep 29, 2026 |
 | 904 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0904-fruit-into-baskets) | Sep 28, 2026 |
@@ -38,13 +39,12 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 1807 | [Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string) | Sep 26, 2026 |
 | 1096 | [Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1096-brace-expansion-ii) | Sep 25, 2026 |
 | 1423 | [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards) | Sep 24, 2026 |
-| 3550 | [Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/solutions/8537026/100-beats-easy-approach-less-theory-pook-7t9f/?envType=daily-question&envId=2026-09-24) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index) | Sep 24, 2026 |
 
 ## 📅 Monthly Progress
 
 | Month | Problems Solved |
 |---|---:|
-| September 2026 | 55 |
+| September 2026 | 56 |
 | August 2026 | 24 |
 | July 2026 | 3 |
 | February 2026 | 2 |
@@ -75,6 +75,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0073-set-matrix-zeroes) |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0074-search-a-2d-matrix) |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0075-sort-colors) |
+| 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0076-minimum-window-substring) |
 | 81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii) |
 | 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0084-largest-rectangle-in-histogram) |
 | 85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0085-maximal-rectangle) |
@@ -227,6 +228,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 |---:|---|---|---|---|
 | 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0025-reverse-nodes-in-k-group) |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0042-trapping-rain-water) |
+| 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0076-minimum-window-substring) |
 | 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0084-largest-rectangle-in-histogram) |
 | 85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0085-maximal-rectangle) |
 | 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0239-sliding-window-maximum) |
@@ -294,13 +296,14 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 3550 | [Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/solutions/8537026/100-beats-easy-approach-less-theory-pook-7t9f/?envType=daily-question&envId=2026-09-24) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index) |
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3875-construct-uniform-parity-array-i) |
 
-### Hash Table (19)
+### Hash Table (20)
 
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0001-two-sum) |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0003-longest-substring-without-repeating-characters) |
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0073-set-matrix-zeroes) |
+| 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0076-minimum-window-substring) |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0128-longest-consecutive-sequence) |
 | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0138-copy-list-with-random-pointer) |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0141-linked-list-cycle) |
@@ -435,6 +438,22 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 3871 | [Count Commas in Range II](https://leetcode.com/problems/count-commas-in-range-ii) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3871-count-commas-in-range-ii) |
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3875-construct-uniform-parity-array-i) |
 
+### String (11)
+
+| # | Problem | Difficulty | Language | Solution |
+|---:|---|---|---|---|
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0003-longest-substring-without-repeating-characters) |
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0020-valid-parentheses) |
+| 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0076-minimum-window-substring) |
+| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0125-valid-palindrome) |
+| 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0424-longest-repeating-character-replacement) |
+| 1096 | [Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1096-brace-expansion-ii) |
+| 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| 1520 | [Maximum Number of Non-Overlapping Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings) |
+| 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses) |
+| 1807 | [Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string) |
+| 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+
 ### Sorting (10)
 
 | # | Problem | Difficulty | Language | Solution |
@@ -450,20 +469,19 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 1520 | [Maximum Number of Non-Overlapping Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings) |
 | 3414 | [Maximum Score of Non-overlapping Intervals](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals) |
 
-### String (10)
+### Sliding Window (9)
 
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0003-longest-substring-without-repeating-characters) |
-| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0020-valid-parentheses) |
-| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0125-valid-palindrome) |
+| 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0076-minimum-window-substring) |
+| 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0239-sliding-window-maximum) |
 | 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0424-longest-repeating-character-replacement) |
-| 1096 | [Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1096-brace-expansion-ii) |
-| 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses) |
-| 1520 | [Maximum Number of Non-Overlapping Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings) |
-| 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses) |
-| 1807 | [Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string) |
-| 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| 904 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0904-fruit-into-baskets) |
+| 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1004-max-consecutive-ones-iii) |
+| 1423 | [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards) |
+| 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero) |
 
 ### Monotonic Stack (8)
 
@@ -490,19 +508,6 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0234-palindrome-linked-list) |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0509-fibonacci-number) |
 | 3483 | [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3483-unique-3-digit-even-numbers) |
-
-### Sliding Window (8)
-
-| # | Problem | Difficulty | Language | Solution |
-|---:|---|---|---|---|
-| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0003-longest-substring-without-repeating-characters) |
-| 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0239-sliding-window-maximum) |
-| 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0424-longest-repeating-character-replacement) |
-| 904 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0904-fruit-into-baskets) |
-| 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1004-max-consecutive-ones-iii) |
-| 1423 | [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards) |
-| 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
-| 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero) |
 
 ### Matrix (5)
 
