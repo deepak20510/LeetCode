@@ -158,6 +158,11 @@
     "Hash Table",
     "Union-Find"
   ],
+  "longest-repeating-character-replacement": [
+    "Hash Table",
+    "Sliding Window",
+    "String"
+  ],
   "longest-substring-without-repeating-characters": [
     "Hash Table",
     "Sliding Window",
