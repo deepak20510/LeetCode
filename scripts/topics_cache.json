@@ -80,6 +80,13 @@
     "Depth-First Search",
     "Tree"
   ],
+  "count-number-of-nice-subarrays": [
+    "Array",
+    "Hash Table",
+    "Math",
+    "Prefix Sum",
+    "Sliding Window"
+  ],
   "delete-node-in-a-linked-list": [
     "Linked List"
   ],
