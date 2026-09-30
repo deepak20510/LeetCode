@@ -414,6 +414,12 @@
     "Sorting",
     "Two Pointers"
   ],
+  "subarrays-with-k-different-integers": [
+    "Array",
+    "Counting",
+    "Hash Table",
+    "Sliding Window"
+  ],
   "sum-of-subarray-minimums": [
     "Array",
     "Dynamic Programming",
