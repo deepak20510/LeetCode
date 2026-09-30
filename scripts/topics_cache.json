@@ -27,6 +27,12 @@
     "Array",
     "Binary Search"
   ],
+  "binary-subarrays-with-sum": [
+    "Array",
+    "Hash Table",
+    "Prefix Sum",
+    "Sliding Window"
+  ],
   "brace-expansion-ii": [
     "Backtracking",
     "Breadth-First Search",
