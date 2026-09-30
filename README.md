@@ -2,25 +2,25 @@
 
 A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 and tracked with GitHub Actions.
 
-![Solved](https://img.shields.io/badge/Solved-86-blue) ![Easy](https://img.shields.io/badge/Easy-29-brightgreen) ![Medium](https://img.shields.io/badge/Medium-45-yellow) ![Hard](https://img.shields.io/badge/Hard-12-red)
+![Solved](https://img.shields.io/badge/Solved-87-blue) ![Easy](https://img.shields.io/badge/Easy-29-brightgreen) ![Medium](https://img.shields.io/badge/Medium-46-yellow) ![Hard](https://img.shields.io/badge/Hard-12-red)
 
-![Current Streak](https://img.shields.io/badge/Current%20Streak-9%20days-orange) ![Longest Streak](https://img.shields.io/badge/Longest%20Streak-21%20days-purple)
+![Current Streak](https://img.shields.io/badge/Current%20Streak-10%20days-orange) ![Longest Streak](https://img.shields.io/badge/Longest%20Streak-21%20days-purple)
 
 ## 📊 Progress
 
-**Goal: 86 / 150 problems (57.3%)**
+**Goal: 87 / 150 problems (58.0%)**
 
-`███████████░░░░░░░░░`
+`████████████░░░░░░░░`
 
 | Difficulty | Solved |
 |---|---:|
 | 🟢 Easy | 29 |
-| 🟡 Medium | 45 |
+| 🟡 Medium | 46 |
 | 🔴 Hard | 12 |
 
 ## 🔥 Solution Streak
 
-- **Current streak:** 9 days
+- **Current streak:** 10 days
 - **Longest streak:** 21 days
 
 > Streaks are calculated from Git commit dates associated with problem folders.
@@ -29,6 +29,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 
 | # | Problem | Difficulty | Language | Solution | Solved |
 |---:|---|---|---|---|---|
+| 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) | Sep 30, 2026 |
 | 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0076-minimum-window-substring) | Sep 29, 2026 |
 | 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0424-longest-repeating-character-replacement) | Sep 29, 2026 |
 | 1358 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters) | Sep 29, 2026 |
@@ -38,13 +39,12 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses) | Sep 27, 2026 |
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1004-max-consecutive-ones-iii) | Sep 26, 2026 |
 | 1807 | [Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string) | Sep 26, 2026 |
-| 1096 | [Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1096-brace-expansion-ii) | Sep 25, 2026 |
 
 ## 📅 Monthly Progress
 
 | Month | Problems Solved |
 |---|---:|
-| September 2026 | 57 |
+| September 2026 | 58 |
 | August 2026 | 24 |
 | July 2026 | 3 |
 | February 2026 | 2 |
@@ -116,6 +116,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 907 | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0907-sum-of-subarray-minimums) |
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1004-max-consecutive-ones-iii) |
 | 1096 | [Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1096-brace-expansion-ii) |
+| 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | 1358 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters) |
 | 1401 | [Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1401-circle-and-rectangle-overlapping) |
@@ -211,6 +212,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 904 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0904-fruit-into-baskets) |
 | 907 | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0907-sum-of-subarray-minimums) |
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1004-max-consecutive-ones-iii) |
+| 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | 1358 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters) |
 | 1401 | [Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1401-circle-and-rectangle-overlapping) |
@@ -324,7 +326,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 1807 | [Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string) |
 | 3483 | [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3483-unique-3-digit-even-numbers) |
 
-### Stack (17)
+### Stack (18)
 
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
@@ -342,6 +344,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0901-online-stock-span) |
 | 907 | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0907-sum-of-subarray-minimums) |
 | 1096 | [Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1096-brace-expansion-ii) |
+| 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses) |
 | 2104 | [Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2104-sum-of-subarray-ranges) |
@@ -441,7 +444,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 3871 | [Count Commas in Range II](https://leetcode.com/problems/count-commas-in-range-ii) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3871-count-commas-in-range-ii) |
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3875-construct-uniform-parity-array-i) |
 
-### String (12)
+### String (13)
 
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
@@ -451,6 +454,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0125-valid-palindrome) |
 | 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0424-longest-repeating-character-replacement) |
 | 1096 | [Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1096-brace-expansion-ii) |
+| 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | 1358 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters) |
 | 1520 | [Maximum Number of Non-Overlapping Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings) |
@@ -514,6 +518,16 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0509-fibonacci-number) |
 | 3483 | [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3483-unique-3-digit-even-numbers) |
 
+### Bracket Sequences (5)
+
+| # | Problem | Difficulty | Language | Solution |
+|---:|---|---|---|---|
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0020-valid-parentheses) |
+| 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses) |
+| 2267 | [Check if There Is a Valid Parentheses String Path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path) |
+
 ### Matrix (5)
 
 | # | Problem | Difficulty | Language | Solution |
@@ -522,15 +536,6 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0073-set-matrix-zeroes) |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0074-search-a-2d-matrix) |
 | 85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0085-maximal-rectangle) |
-| 2267 | [Check if There Is a Valid Parentheses String Path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path) |
-
-### Bracket Sequences (4)
-
-| # | Problem | Difficulty | Language | Solution |
-|---:|---|---|---|---|
-| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0020-valid-parentheses) |
-| 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses) |
-| 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses) |
 | 2267 | [Check if There Is a Valid Parentheses String Path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path) |
 
 ### Design (4)

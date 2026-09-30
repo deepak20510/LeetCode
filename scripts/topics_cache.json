@@ -210,6 +210,11 @@
     "Stack",
     "String"
   ],
+  "maximum-nesting-depth-of-two-valid-parentheses-strings": [
+    "Bracket Sequences",
+    "Stack",
+    "String"
+  ],
   "maximum-number-of-non-overlapping-palindrome-substrings": [
     "Dynamic Programming",
     "Greedy",
