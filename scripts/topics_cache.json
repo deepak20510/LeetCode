@@ -167,6 +167,10 @@
     "Range Minimum/Maximum Query",
     "Stack"
   ],
+  "lemonade-change": [
+    "Array",
+    "Greedy"
+  ],
   "linked-list-cycle": [
     "Floyd's Cycle Finding Algorithm",
     "Hash Table",
