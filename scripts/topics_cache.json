@@ -14,6 +14,13 @@
     "Math",
     "Recursion"
   ],
+  "assign-cookies": [
+    "Array",
+    "Greedy",
+    "Quicksort",
+    "Sorting",
+    "Two Pointers"
+  ],
   "asteroid-collision": [
     "Array",
     "Simulation",
