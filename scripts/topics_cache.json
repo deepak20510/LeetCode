@@ -161,6 +161,11 @@
     "Linked List",
     "Two Pointers"
   ],
+  "jump-game": [
+    "Array",
+    "Dynamic Programming",
+    "Greedy"
+  ],
   "largest-rectangle-in-histogram": [
     "Array",
     "Monotonic Stack",
