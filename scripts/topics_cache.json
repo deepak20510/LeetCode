@@ -146,6 +146,12 @@
     "Hash Table",
     "Sliding Window"
   ],
+  "generate-parentheses": [
+    "Backtracking",
+    "Bracket Sequences",
+    "Dynamic Programming",
+    "String"
+  ],
   "implement-queue-using-stacks": [
     "Design",
     "Queue",
