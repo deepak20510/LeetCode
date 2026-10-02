@@ -152,6 +152,12 @@
     "Dynamic Programming",
     "String"
   ],
+  "group-anagrams": [
+    "Array",
+    "Hash Table",
+    "Sorting",
+    "String"
+  ],
   "implement-queue-using-stacks": [
     "Design",
     "Queue",
