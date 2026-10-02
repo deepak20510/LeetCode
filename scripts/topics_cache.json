@@ -162,6 +162,9 @@
     "Queue",
     "Stack"
   ],
+  "insert-interval": [
+    "Array"
+  ],
   "intersection-of-two-linked-lists": [
     "Hash Table",
     "Linked List",

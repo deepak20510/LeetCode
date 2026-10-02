@@ -2,20 +2,20 @@
 
 A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 and tracked with GitHub Actions.
 
-![Solved](https://img.shields.io/badge/Solved-95-blue) ![Easy](https://img.shields.io/badge/Easy-31-brightgreen) ![Medium](https://img.shields.io/badge/Medium-51-yellow) ![Hard](https://img.shields.io/badge/Hard-13-red)
+![Solved](https://img.shields.io/badge/Solved-96-blue) ![Easy](https://img.shields.io/badge/Easy-31-brightgreen) ![Medium](https://img.shields.io/badge/Medium-52-yellow) ![Hard](https://img.shields.io/badge/Hard-13-red)
 
 ![Current Streak](https://img.shields.io/badge/Current%20Streak-12%20days-orange) ![Longest Streak](https://img.shields.io/badge/Longest%20Streak-21%20days-purple)
 
 ## 📊 Progress
 
-**Goal: 95 / 150 problems (63.3%)**
+**Goal: 96 / 150 problems (64.0%)**
 
 `█████████████░░░░░░░`
 
 | Difficulty | Solved |
 |---|---:|
 | 🟢 Easy | 31 |
-| 🟡 Medium | 51 |
+| 🟡 Medium | 52 |
 | 🔴 Hard | 13 |
 
 ## 🔥 Solution Streak
@@ -30,6 +30,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | # | Problem | Difficulty | Language | Solution | Solved |
 |---:|---|---|---|---|---|
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0022-generate-parentheses) | Oct 02, 2026 |
+| 57 | [Insert Interval](https://leetcode.com/problems/insert-interval) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0057-insert-interval) | Oct 02, 2026 |
 | 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0435-non-overlapping-intervals) | Oct 02, 2026 |
 | 55 | [Jump Game](https://leetcode.com/problems/jump-game) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0055-jump-game) | Oct 01, 2026 |
 | 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0455-assign-cookies) | Oct 01, 2026 |
@@ -38,13 +39,12 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 992 | [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0992-subarrays-with-k-different-integers) | Sep 30, 2026 |
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) | Sep 30, 2026 |
 | 1248 | [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1248-count-number-of-nice-subarrays) | Sep 30, 2026 |
-| 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0076-minimum-window-substring) | Sep 29, 2026 |
 
 ## 📅 Monthly Progress
 
 | Month | Problems Solved |
 |---|---:|
-| October 2026 | 5 |
+| October 2026 | 6 |
 | September 2026 | 61 |
 | August 2026 | 24 |
 | July 2026 | 3 |
@@ -74,6 +74,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0050-powx-n) |
 | 55 | [Jump Game](https://leetcode.com/problems/jump-game) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0055-jump-game) |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0056-merge-intervals) |
+| 57 | [Insert Interval](https://leetcode.com/problems/insert-interval) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0057-insert-interval) |
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0061-rotate-list) |
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0073-set-matrix-zeroes) |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0074-search-a-2d-matrix) |
@@ -203,6 +204,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0050-powx-n) |
 | 55 | [Jump Game](https://leetcode.com/problems/jump-game) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0055-jump-game) |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0056-merge-intervals) |
+| 57 | [Insert Interval](https://leetcode.com/problems/insert-interval) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0057-insert-interval) |
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0061-rotate-list) |
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0073-set-matrix-zeroes) |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0074-search-a-2d-matrix) |
@@ -262,7 +264,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 
 ## 🏷️ Topics
 
-### Array (57)
+### Array (58)
 
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
@@ -278,6 +280,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0048-rotate-image) |
 | 55 | [Jump Game](https://leetcode.com/problems/jump-game) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0055-jump-game) |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0056-merge-intervals) |
+| 57 | [Insert Interval](https://leetcode.com/problems/insert-interval) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0057-insert-interval) |
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0073-set-matrix-zeroes) |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0074-search-a-2d-matrix) |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0075-sort-colors) |
