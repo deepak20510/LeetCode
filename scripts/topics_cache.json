@@ -354,6 +354,9 @@
     "Stack",
     "Two Pointers"
   ],
+  "palindrome-number": [
+    "Math"
+  ],
   "pascals-triangle": [
     "Array",
     "Dynamic Programming"
