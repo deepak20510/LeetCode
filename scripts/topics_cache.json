@@ -322,6 +322,12 @@
     "Array",
     "Two Pointers"
   ],
+  "non-overlapping-intervals": [
+    "Array",
+    "Dynamic Programming",
+    "Greedy",
+    "Sorting"
+  ],
   "number-of-sets-of-k-non-overlapping-line-segments": [
     "Combinatorics",
     "Dynamic Programming",
