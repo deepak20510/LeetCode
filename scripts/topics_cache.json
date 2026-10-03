@@ -218,6 +218,12 @@
     "Sliding Window",
     "String"
   ],
+  "longest-valid-parentheses": [
+    "Bracket Sequences",
+    "Dynamic Programming",
+    "Stack",
+    "String"
+  ],
   "majority-element": [
     "Array",
     "Boyer–Moore Majority Vote Algorithm",
