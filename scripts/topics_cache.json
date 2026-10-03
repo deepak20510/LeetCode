@@ -77,6 +77,11 @@
     "Array",
     "Math"
   ],
+  "contains-duplicate": [
+    "Array",
+    "Hash Table",
+    "Sorting"
+  ],
   "copy-list-with-random-pointer": [
     "Hash Table",
     "Linked List"
