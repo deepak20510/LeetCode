@@ -381,6 +381,10 @@
     "Math",
     "Recursion"
   ],
+  "product-of-array-except-self": [
+    "Array",
+    "Prefix Sum"
+  ],
   "rectangle-overlap": [
     "Geometry",
     "Math"
