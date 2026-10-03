@@ -30,6 +30,11 @@
     "Array",
     "Dynamic Programming"
   ],
+  "best-time-to-buy-and-sell-stock-ii": [
+    "Array",
+    "Dynamic Programming",
+    "Greedy"
+  ],
   "binary-search": [
     "Array",
     "Binary Search"
