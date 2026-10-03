@@ -327,6 +327,10 @@
     "Sliding Window",
     "String"
   ],
+  "move-zeroes": [
+    "Array",
+    "Two Pointers"
+  ],
   "next-greater-element-i": [
     "Array",
     "Hash Table",
