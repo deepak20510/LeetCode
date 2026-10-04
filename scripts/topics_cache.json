@@ -45,6 +45,13 @@
     "Prefix Sum",
     "Sliding Window"
   ],
+  "boats-to-save-people": [
+    "Array",
+    "Greedy",
+    "Sorting",
+    "Timsort",
+    "Two Pointers"
+  ],
   "brace-expansion-ii": [
     "Backtracking",
     "Breadth-First Search",

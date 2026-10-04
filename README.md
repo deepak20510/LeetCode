@@ -2,20 +2,20 @@
 
 A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 and tracked with GitHub Actions.
 
-![Solved](https://img.shields.io/badge/Solved-104-blue) ![Easy](https://img.shields.io/badge/Easy-34-brightgreen) ![Medium](https://img.shields.io/badge/Medium-56-yellow) ![Hard](https://img.shields.io/badge/Hard-14-red)
+![Solved](https://img.shields.io/badge/Solved-105-blue) ![Easy](https://img.shields.io/badge/Easy-34-brightgreen) ![Medium](https://img.shields.io/badge/Medium-57-yellow) ![Hard](https://img.shields.io/badge/Hard-14-red)
 
 ![Current Streak](https://img.shields.io/badge/Current%20Streak-14%20days-orange) ![Longest Streak](https://img.shields.io/badge/Longest%20Streak-21%20days-purple)
 
 ## 📊 Progress
 
-**Goal: 104 / 150 problems (69.3%)**
+**Goal: 105 / 150 problems (70.0%)**
 
 `██████████████░░░░░░`
 
 | Difficulty | Solved |
 |---|---:|
 | 🟢 Easy | 34 |
-| 🟡 Medium | 56 |
+| 🟡 Medium | 57 |
 | 🔴 Hard | 14 |
 
 ## 🔥 Solution Streak
@@ -30,6 +30,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | # | Problem | Difficulty | Language | Solution | Solved |
 |---:|---|---|---|---|---|
 | 678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0678-valid-parenthesis-string) | Oct 04, 2026 |
+| 881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0881-boats-to-save-people) | Oct 04, 2026 |
 | 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0032-longest-valid-parentheses) | Oct 03, 2026 |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/solutions/8540055/beginner-freindlyjavacpython-by-ashokvar-14l3/) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0049-group-anagrams) | Oct 03, 2026 |
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii) | Oct 03, 2026 |
@@ -38,13 +39,12 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0283-move-zeroes) | Oct 03, 2026 |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0009-palindrome-number) | Oct 02, 2026 |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0022-generate-parentheses) | Oct 02, 2026 |
-| 57 | [Insert Interval](https://leetcode.com/problems/insert-interval) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0057-insert-interval) | Oct 02, 2026 |
 
 ## 📅 Monthly Progress
 
 | Month | Problems Solved |
 |---|---:|
-| October 2026 | 14 |
+| October 2026 | 15 |
 | September 2026 | 61 |
 | August 2026 | 24 |
 | July 2026 | 3 |
@@ -126,6 +126,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 836 | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0836-rectangle-overlap) |
 | 860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0860-lemonade-change) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0876-middle-of-the-linked-list) |
+| 881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0881-boats-to-save-people) |
 | 901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0901-online-stock-span) |
 | 904 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0904-fruit-into-baskets) |
 | 907 | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0907-sum-of-subarray-minimums) |
@@ -239,6 +240,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0540-single-element-in-a-sorted-array) |
 | 678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0678-valid-parenthesis-string) |
 | 735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0735-asteroid-collision) |
+| 881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0881-boats-to-save-people) |
 | 901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0901-online-stock-span) |
 | 904 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0904-fruit-into-baskets) |
 | 907 | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0907-sum-of-subarray-minimums) |
@@ -280,7 +282,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 
 ## 🏷️ Topics
 
-### Array (63)
+### Array (64)
 
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
@@ -328,6 +330,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0704-binary-search) |
 | 735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0735-asteroid-collision) |
 | 860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0860-lemonade-change) |
+| 881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0881-boats-to-save-people) |
 | 904 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0904-fruit-into-baskets) |
 | 907 | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0907-sum-of-subarray-minimums) |
 | 930 | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0930-binary-subarrays-with-sum) |
@@ -429,7 +432,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses) |
 | 2104 | [Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2104-sum-of-subarray-ranges) |
 
-### Two Pointers (19)
+### Two Pointers (20)
 
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
@@ -451,6 +454,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0287-find-the-duplicate-number) |
 | 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0455-assign-cookies) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0876-middle-of-the-linked-list) |
+| 881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0881-boats-to-save-people) |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 
 ### String (17)
@@ -495,7 +499,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 3871 | [Count Commas in Range II](https://leetcode.com/problems/count-commas-in-range-ii) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3871-count-commas-in-range-ii) |
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3875-construct-uniform-parity-array-i) |
 
-### Sorting (14)
+### Sorting (15)
 
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
@@ -510,6 +514,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0229-majority-element-ii) |
 | 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0435-non-overlapping-intervals) |
 | 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0455-assign-cookies) |
+| 881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0881-boats-to-save-people) |
 | 1096 | [Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1096-brace-expansion-ii) |
 | 1520 | [Maximum Number of Non-Overlapping Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings) |
 | 3414 | [Maximum Score of Non-overlapping Intervals](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals) |
@@ -568,6 +573,20 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero) |
 
+### Greedy (9)
+
+| # | Problem | Difficulty | Language | Solution |
+|---:|---|---|---|---|
+| 55 | [Jump Game](https://leetcode.com/problems/jump-game) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0055-jump-game) |
+| 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii) |
+| 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0435-non-overlapping-intervals) |
+| 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0455-assign-cookies) |
+| 678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0678-valid-parenthesis-string) |
+| 860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0860-lemonade-change) |
+| 881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0881-boats-to-save-people) |
+| 1520 | [Maximum Number of Non-Overlapping Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings) |
+| 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+
 ### Bracket Sequences (8)
 
 | # | Problem | Difficulty | Language | Solution |
@@ -580,19 +599,6 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses) |
 | 2267 | [Check if There Is a Valid Parentheses String Path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path) |
-
-### Greedy (8)
-
-| # | Problem | Difficulty | Language | Solution |
-|---:|---|---|---|---|
-| 55 | [Jump Game](https://leetcode.com/problems/jump-game) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0055-jump-game) |
-| 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii) |
-| 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0435-non-overlapping-intervals) |
-| 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0455-assign-cookies) |
-| 678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0678-valid-parenthesis-string) |
-| 860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0860-lemonade-change) |
-| 1520 | [Maximum Number of Non-Overlapping Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings) |
-| 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 
 ### Monotonic Stack (8)
 
@@ -813,6 +819,12 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
 | 735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0735-asteroid-collision) |
+
+### Timsort (1)
+
+| # | Problem | Difficulty | Language | Solution |
+|---:|---|---|---|---|
+| 881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0881-boats-to-save-people) |
 
 ### Tree (1)
 
