@@ -520,5 +520,12 @@
     "Bracket Sequences",
     "Stack",
     "String"
+  ],
+  "valid-parenthesis-string": [
+    "Bracket Sequences",
+    "Dynamic Programming",
+    "Greedy",
+    "Stack",
+    "String"
   ]
 }
