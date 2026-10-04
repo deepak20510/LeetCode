@@ -1,12 +1,20 @@
 class Solution {
     public boolean checkValidString(String s) {
-        int l = 0,h = 0;
-        for(int i= 0; i < s.length(); i++){
-            l += s.charAt(i) == '(' ? 1 : -1;
-            h += s.charAt(i) == ')' ? -1 : 1;
-            if(h < 0)   return false;
-            l = Math.max(l,0);
+        int low = 0, high = 0;
+        for (char c : s.toCharArray()) {
+            if (c == '(') {
+                low++;
+                high++;
+            } else if (c == ')') {
+                low--;
+                high--;
+            } else {
+                low--;
+                high++;
+            }
+            if (high < 0) return false;
+            if (low < 0) low = 0;
         }
-        return l == 0;
+        return low == 0;
     }
 }
