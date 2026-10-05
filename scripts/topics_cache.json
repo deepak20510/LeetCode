@@ -440,6 +440,11 @@
     "Linked List",
     "Two Pointers"
   ],
+  "score-of-parentheses": [
+    "Bracket Sequences",
+    "Stack",
+    "String"
+  ],
   "search-a-2d-matrix": [
     "Array",
     "Binary Search",
