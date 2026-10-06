@@ -89,6 +89,11 @@
     "Hash Table",
     "Sorting"
   ],
+  "contains-duplicate-ii": [
+    "Array",
+    "Hash Table",
+    "Sliding Window"
+  ],
   "copy-list-with-random-pointer": [
     "Hash Table",
     "Linked List"
