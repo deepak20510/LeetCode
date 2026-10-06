@@ -327,6 +327,12 @@
     "Design",
     "Stack"
   ],
+  "minimum-add-to-make-parentheses-valid": [
+    "Bracket Sequences",
+    "Greedy",
+    "Stack",
+    "String"
+  ],
   "minimum-operations-to-reduce-x-to-zero": [
     "Array",
     "Binary Search",
