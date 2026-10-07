@@ -425,6 +425,11 @@
     "Array",
     "Two Pointers"
   ],
+  "remove-invalid-parentheses": [
+    "Backtracking",
+    "Breadth-First Search",
+    "String"
+  ],
   "remove-nth-node-from-end-of-list": [
     "Linked List",
     "Two Pointers"
