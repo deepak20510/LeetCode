@@ -434,6 +434,11 @@
     "Linked List",
     "Two Pointers"
   ],
+  "remove-outermost-parentheses": [
+    "Bracket Sequences",
+    "Stack",
+    "String"
+  ],
   "reverse-linked-list": [
     "Linked List",
     "Recursion"
