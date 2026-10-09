@@ -338,6 +338,12 @@
     "Stack",
     "String"
   ],
+  "minimum-insertions-to-balance-a-parentheses-string": [
+    "Bracket Sequences",
+    "Greedy",
+    "Stack",
+    "String"
+  ],
   "minimum-operations-to-reduce-x-to-zero": [
     "Array",
     "Binary Search",
