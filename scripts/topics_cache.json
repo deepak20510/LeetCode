@@ -351,6 +351,13 @@
     "Prefix Sum",
     "Sliding Window"
   ],
+  "minimum-sum-of-squared-difference": [
+    "Array",
+    "Binary Search",
+    "Greedy",
+    "Heap (Priority Queue)",
+    "Sorting"
+  ],
   "minimum-window-substring": [
     "Hash Table",
     "Sliding Window",
