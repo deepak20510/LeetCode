@@ -530,6 +530,10 @@
     "Hash Table",
     "Sliding Window"
   ],
+  "sum-of-squares-of-special-elements": [
+    "Array",
+    "Enumeration"
+  ],
   "sum-of-subarray-minimums": [
     "Array",
     "Dynamic Programming",
