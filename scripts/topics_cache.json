@@ -14,6 +14,12 @@
     "Math",
     "Recursion"
   ],
+  "apply-operations-on-array-to-maximize-sum-of-squares": [
+    "Array",
+    "Bit Manipulation",
+    "Greedy",
+    "Hash Table"
+  ],
   "assign-cookies": [
     "Array",
     "Greedy",
