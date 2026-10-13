@@ -283,6 +283,11 @@
     "Monotonic Stack",
     "Stack"
   ],
+  "maximum-alternating-sum-of-squares": [
+    "Array",
+    "Greedy",
+    "Sorting"
+  ],
   "maximum-nesting-depth-of-the-parentheses": [
     "Bracket Sequences",
     "Stack",
