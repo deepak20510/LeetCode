@@ -283,6 +283,10 @@
     "Monotonic Stack",
     "Stack"
   ],
+  "maximize-sum-of-squares-of-digits": [
+    "Greedy",
+    "Math"
+  ],
   "maximum-alternating-sum-of-squares": [
     "Array",
     "Greedy",
