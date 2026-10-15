@@ -539,6 +539,12 @@
     "Sorting",
     "Two Pointers"
   ],
+  "subarrays-distinct-element-sum-of-squares-i": [
+    "Array",
+    "Binary Indexed Tree",
+    "Hash Table",
+    "Segment Tree"
+  ],
   "subarrays-with-k-different-integers": [
     "Array",
     "Counting",
