@@ -545,6 +545,12 @@
     "Hash Table",
     "Segment Tree"
   ],
+  "subarrays-distinct-element-sum-of-squares-ii": [
+    "Array",
+    "Binary Indexed Tree",
+    "Hash Table",
+    "Segment Tree"
+  ],
   "subarrays-with-k-different-integers": [
     "Array",
     "Counting",
