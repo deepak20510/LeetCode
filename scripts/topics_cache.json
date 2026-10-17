@@ -373,6 +373,11 @@
     "Heap (Priority Queue)",
     "Sorting"
   ],
+  "minimum-swaps-to-sort-by-digit-sum": [
+    "Array",
+    "Hash Table",
+    "Sorting"
+  ],
   "minimum-window-substring": [
     "Hash Table",
     "Sliding Window",
