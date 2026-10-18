@@ -419,6 +419,19 @@
     "Sliding Window",
     "String"
   ],
+  "number-of-ways-to-reorder-array-to-get-same-bst": [
+    "Array",
+    "Binary Search Tree",
+    "Binary Tree",
+    "Combinatorics",
+    "Divide and Conquer",
+    "Dynamic Programming",
+    "Fermat's Little Theorem",
+    "Math",
+    "Memoization",
+    "Tree",
+    "Union-Find"
+  ],
   "online-stock-span": [
     "Data Stream",
     "Design",
