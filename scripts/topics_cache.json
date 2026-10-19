@@ -144,6 +144,11 @@
     "Array",
     "Binary Search"
   ],
+  "find-target-indices-after-sorting-array": [
+    "Array",
+    "Binary Search",
+    "Sorting"
+  ],
   "find-the-duplicate-number": [
     "Array",
     "Binary Search",
