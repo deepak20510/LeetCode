@@ -580,6 +580,12 @@
     "Hash Table",
     "Sliding Window"
   ],
+  "sum-of-sortable-integers": [
+    "Array",
+    "Enumeration",
+    "Math",
+    "Sorting"
+  ],
   "sum-of-squares-of-special-elements": [
     "Array",
     "Enumeration"
