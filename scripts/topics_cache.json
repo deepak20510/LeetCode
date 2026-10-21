@@ -371,6 +371,9 @@
     "Prefix Sum",
     "Sliding Window"
   ],
+  "minimum-operations-to-sort-a-string": [
+    "String"
+  ],
   "minimum-sum-of-squared-difference": [
     "Array",
     "Binary Search",
