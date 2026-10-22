@@ -371,6 +371,9 @@
     "Prefix Sum",
     "Sliding Window"
   ],
+  "minimum-operations-to-sort-a-permutation": [
+    "Array"
+  ],
   "minimum-operations-to-sort-a-string": [
     "String"
   ],
