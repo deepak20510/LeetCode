@@ -297,6 +297,10 @@
     "Greedy",
     "Sorting"
   ],
+  "maximum-k-to-sort-a-permutation": [
+    "Array",
+    "Bit Manipulation"
+  ],
   "maximum-nesting-depth-of-the-parentheses": [
     "Bracket Sequences",
     "Stack",
