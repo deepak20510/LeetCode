@@ -191,6 +191,12 @@
     "Sorting",
     "String"
   ],
+  "happy-number": [
+    "Floyd's Cycle Finding Algorithm",
+    "Hash Table",
+    "Math",
+    "Two Pointers"
+  ],
   "implement-queue-using-stacks": [
     "Design",
     "Queue",
