@@ -110,6 +110,10 @@
   "count-commas-in-range-ii": [
     "Math"
   ],
+  "count-days-spent-together": [
+    "Math",
+    "String"
+  ],
   "count-nodes-equal-to-average-of-subtree": [
     "Binary Tree",
     "Depth-First Search",
