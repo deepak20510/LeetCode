@@ -2,26 +2,26 @@
 
 A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 and tracked with GitHub Actions.
 
-![Solved](https://img.shields.io/badge/Solved-127-blue) ![Easy](https://img.shields.io/badge/Easy-41-brightgreen) ![Medium](https://img.shields.io/badge/Medium-67-yellow) ![Hard](https://img.shields.io/badge/Hard-19-red)
+![Solved](https://img.shields.io/badge/Solved-128-blue) ![Easy](https://img.shields.io/badge/Easy-41-brightgreen) ![Medium](https://img.shields.io/badge/Medium-68-yellow) ![Hard](https://img.shields.io/badge/Hard-19-red)
 
-![Current Streak](https://img.shields.io/badge/Current%20Streak-34%20days-orange) ![Longest Streak](https://img.shields.io/badge/Longest%20Streak-34%20days-purple)
+![Current Streak](https://img.shields.io/badge/Current%20Streak-35%20days-orange) ![Longest Streak](https://img.shields.io/badge/Longest%20Streak-35%20days-purple)
 
 ## 📊 Progress
 
-**Goal: 127 / 150 problems (84.7%)**
+**Goal: 128 / 150 problems (85.3%)**
 
 `█████████████████░░░`
 
 | Difficulty | Solved |
 |---|---:|
 | 🟢 Easy | 41 |
-| 🟡 Medium | 67 |
+| 🟡 Medium | 68 |
 | 🔴 Hard | 19 |
 
 ## 🔥 Solution Streak
 
-- **Current streak:** 34 days
-- **Longest streak:** 34 days
+- **Current streak:** 35 days
+- **Longest streak:** 35 days
 
 > Streaks are calculated from Git commit dates associated with problem folders.
 
@@ -29,6 +29,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 
 | # | Problem | Difficulty | Language | Solution | Solved |
 |---:|---|---|---|---|---|
+| 1254 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1254-number-of-closed-islands) | Oct 25, 2026 |
 | 2409 | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2409-count-days-spent-together) | Oct 24, 2026 |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0202-happy-number) | Oct 23, 2026 |
 | 3644 | [Maximum K to Sort a Permutation](https://leetcode.com/problems/maximum-k-to-sort-a-permutation) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3644-maximum-k-to-sort-a-permutation) | Oct 23, 2026 |
@@ -38,13 +39,12 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2089-find-target-indices-after-sorting-array) | Oct 19, 2026 |
 | 1569 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst) | Oct 18, 2026 |
 | 3551 | [Minimum Swaps to Sort by Digit Sum](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum) | Oct 17, 2026 |
-| 2916 | [Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii) | Oct 16, 2026 |
 
 ## 📅 Monthly Progress
 
 | Month | Problems Solved |
 |---|---:|
-| October 2026 | 37 |
+| October 2026 | 38 |
 | September 2026 | 61 |
 | August 2026 | 24 |
 | July 2026 | 3 |
@@ -143,6 +143,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | 1248 | [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1248-count-number-of-nice-subarrays) |
+| 1254 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1254-number-of-closed-islands) |
 | 1358 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters) |
 | 1401 | [Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1401-circle-and-rectangle-overlapping) |
 | 1423 | [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards) |
@@ -280,6 +281,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | 1248 | [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1248-count-number-of-nice-subarrays) |
+| 1254 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1254-number-of-closed-islands) |
 | 1358 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters) |
 | 1401 | [Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1401-circle-and-rectangle-overlapping) |
 | 1423 | [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards) |
@@ -326,7 +328,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 
 ## 🏷️ Topics
 
-### Array (77)
+### Array (78)
 
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
@@ -382,6 +384,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 992 | [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0992-subarrays-with-k-different-integers) |
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1004-max-consecutive-ones-iii) |
 | 1248 | [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1248-count-number-of-nice-subarrays) |
+| 1254 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1254-number-of-closed-islands) |
 | 1423 | [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards) |
 | 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | 1569 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -737,7 +740,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 1621 | [Number of Sets of K Non-Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero) |
 
-### Matrix (5)
+### Matrix (6)
 
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
@@ -745,7 +748,17 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0073-set-matrix-zeroes) |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0074-search-a-2d-matrix) |
 | 85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0085-maximal-rectangle) |
+| 1254 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1254-number-of-closed-islands) |
 | 2267 | [Check if There Is a Valid Parentheses String Path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path) |
+
+### Breadth-First Search (4)
+
+| # | Problem | Difficulty | Language | Solution |
+|---:|---|---|---|---|
+| 301 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0301-remove-invalid-parentheses) |
+| 322 | [Coin Change](https://leetcode.com/problems/coin-change) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0322-coin-change) |
+| 1096 | [Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1096-brace-expansion-ii) |
+| 1254 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1254-number-of-closed-islands) |
 
 ### Design (4)
 
@@ -780,14 +793,6 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0287-find-the-duplicate-number) |
 | 2897 | [Apply Operations on Array to Maximize Sum of Squares](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | 3644 | [Maximum K to Sort a Permutation](https://leetcode.com/problems/maximum-k-to-sort-a-permutation) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3644-maximum-k-to-sort-a-permutation) |
-
-### Breadth-First Search (3)
-
-| # | Problem | Difficulty | Language | Solution |
-|---:|---|---|---|---|
-| 301 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0301-remove-invalid-parentheses) |
-| 322 | [Coin Change](https://leetcode.com/problems/coin-change) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0322-coin-change) |
-| 1096 | [Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1096-brace-expansion-ii) |
 
 ### Counting (3)
 
@@ -829,6 +834,14 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 2916 | [Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | 3525 | [Find X Value of Array II](https://leetcode.com/problems/find-x-value-of-array-ii) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3525-find-x-value-of-array-ii) |
 
+### Union-Find (3)
+
+| # | Problem | Difficulty | Language | Solution |
+|---:|---|---|---|---|
+| 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0128-longest-consecutive-sequence) |
+| 1254 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1254-number-of-closed-islands) |
+| 1569 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+
 ### Binary Indexed Tree (2)
 
 | # | Problem | Difficulty | Language | Solution |
@@ -856,6 +869,13 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 |---:|---|---|---|---|
 | 1569 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | 1621 | [Number of Sets of K Non-Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+
+### Depth-First Search (2)
+
+| # | Problem | Difficulty | Language | Solution |
+|---:|---|---|---|---|
+| 1254 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1254-number-of-closed-islands) |
+| 2265 | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree) |
 
 ### Divide and Conquer (2)
 
@@ -899,13 +919,6 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 1569 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | 2265 | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree) |
 
-### Union-Find (2)
-
-| # | Problem | Difficulty | Language | Solution |
-|---:|---|---|---|---|
-| 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0128-longest-consecutive-sequence) |
-| 1569 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
-
 ### Binary Search Tree (1)
 
 | # | Problem | Difficulty | Language | Solution |
@@ -929,12 +942,6 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
 | 901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0901-online-stock-span) |
-
-### Depth-First Search (1)
-
-| # | Problem | Difficulty | Language | Solution |
-|---:|---|---|---|---|
-| 2265 | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree) |
 
 ### Fermat's Little Theorem (1)
 

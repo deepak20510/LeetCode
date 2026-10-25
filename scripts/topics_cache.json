@@ -433,6 +433,13 @@
     "Greedy",
     "Sorting"
   ],
+  "number-of-closed-islands": [
+    "Array",
+    "Breadth-First Search",
+    "Depth-First Search",
+    "Matrix",
+    "Union-Find"
+  ],
   "number-of-sets-of-k-non-overlapping-line-segments": [
     "Combinatorics",
     "Dynamic Programming",
