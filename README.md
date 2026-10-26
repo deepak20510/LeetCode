@@ -2,20 +2,20 @@
 
 A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 and tracked with GitHub Actions.
 
-![Solved](https://img.shields.io/badge/Solved-129-blue) ![Easy](https://img.shields.io/badge/Easy-41-brightgreen) ![Medium](https://img.shields.io/badge/Medium-69-yellow) ![Hard](https://img.shields.io/badge/Hard-19-red)
+![Solved](https://img.shields.io/badge/Solved-130-blue) ![Easy](https://img.shields.io/badge/Easy-41-brightgreen) ![Medium](https://img.shields.io/badge/Medium-70-yellow) ![Hard](https://img.shields.io/badge/Hard-19-red)
 
 ![Current Streak](https://img.shields.io/badge/Current%20Streak-36%20days-orange) ![Longest Streak](https://img.shields.io/badge/Longest%20Streak-36%20days-purple)
 
 ## 📊 Progress
 
-**Goal: 129 / 150 problems (86.0%)**
+**Goal: 130 / 150 problems (86.7%)**
 
 `█████████████████░░░`
 
 | Difficulty | Solved |
 |---|---:|
 | 🟢 Easy | 41 |
-| 🟡 Medium | 69 |
+| 🟡 Medium | 70 |
 | 🔴 Hard | 19 |
 
 ## 🔥 Solution Streak
@@ -29,6 +29,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 
 | # | Problem | Difficulty | Language | Solution | Solved |
 |---:|---|---|---|---|---|
+| 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0162-find-peak-element) | Oct 26, 2026 |
 | 3619 | [Count Islands With Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k) | Oct 26, 2026 |
 | 1254 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1254-number-of-closed-islands) | Oct 25, 2026 |
 | 2409 | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2409-count-days-spent-together) | Oct 24, 2026 |
@@ -38,13 +39,12 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 3863 | [Minimum Operations to Sort a String](https://leetcode.com/problems/minimum-operations-to-sort-a-string) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3863-minimum-operations-to-sort-a-string) | Oct 21, 2026 |
 | 3886 | [Sum of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3886-sum-of-sortable-integers) | Oct 20, 2026 |
 | 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2089-find-target-indices-after-sorting-array) | Oct 19, 2026 |
-| 1569 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst) | Oct 18, 2026 |
 
 ## 📅 Monthly Progress
 
 | Month | Problems Solved |
 |---|---:|
-| October 2026 | 39 |
+| October 2026 | 40 |
 | September 2026 | 61 |
 | August 2026 | 24 |
 | July 2026 | 3 |
@@ -99,6 +99,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array) |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0155-min-stack) |
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0160-intersection-of-two-linked-lists) |
+| 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0162-find-peak-element) |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0169-majority-element) |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0202-happy-number) |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0206-reverse-linked-list) |
@@ -260,6 +261,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0142-linked-list-cycle-ii) |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array) |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0155-min-stack) |
+| 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0162-find-peak-element) |
 | 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0229-majority-element-ii) |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0237-delete-node-in-a-linked-list) |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0238-product-of-array-except-self) |
@@ -330,7 +332,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 
 ## 🏷️ Topics
 
-### Array (79)
+### Array (80)
 
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
@@ -361,6 +363,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii) |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0128-longest-consecutive-sequence) |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array) |
+| 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0162-find-peak-element) |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0169-majority-element) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0217-contains-duplicate) |
 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0219-contains-duplicate-ii) |
@@ -611,7 +614,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 3727 | [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares) | 🟡 Medium | Unknown | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares) |
 | 3886 | [Sum of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3886-sum-of-sortable-integers) |
 
-### Binary Search (15)
+### Binary Search (16)
 
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
@@ -621,6 +624,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0074-search-a-2d-matrix) |
 | 81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii) |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array) |
+| 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0162-find-peak-element) |
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0287-find-the-duplicate-number) |
 | 540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0540-single-element-in-a-sorted-array) |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0704-binary-search) |
