@@ -114,6 +114,13 @@
     "Math",
     "String"
   ],
+  "count-islands-with-total-value-divisible-by-k": [
+    "Array",
+    "Breadth-First Search",
+    "Depth-First Search",
+    "Matrix",
+    "Union-Find"
+  ],
   "count-nodes-equal-to-average-of-subtree": [
     "Binary Tree",
     "Depth-First Search",
