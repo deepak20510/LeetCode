@@ -600,6 +600,11 @@
     "Sorting",
     "Two Pointers"
   ],
+  "sqrtx": [
+    "Binary Search",
+    "Math",
+    "Newton's Method"
+  ],
   "subarrays-distinct-element-sum-of-squares-i": [
     "Array",
     "Binary Indexed Tree",
