@@ -397,6 +397,10 @@
     "Stack",
     "String"
   ],
+  "minimum-number-of-days-to-make-m-bouquets": [
+    "Array",
+    "Binary Search"
+  ],
   "minimum-operations-to-reduce-x-to-zero": [
     "Array",
     "Binary Search",
