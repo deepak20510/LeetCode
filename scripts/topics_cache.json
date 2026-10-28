@@ -423,6 +423,12 @@
     "Sliding Window",
     "String"
   ],
+  "minimum-xor-path-in-a-grid": [
+    "Array",
+    "Bit Manipulation",
+    "Dynamic Programming",
+    "Matrix"
+  ],
   "move-zeroes": [
     "Array",
     "Two Pointers"
