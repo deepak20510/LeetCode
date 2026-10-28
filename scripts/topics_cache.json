@@ -239,6 +239,10 @@
     "Dynamic Programming",
     "Greedy"
   ],
+  "koko-eating-bananas": [
+    "Array",
+    "Binary Search"
+  ],
   "largest-rectangle-in-histogram": [
     "Array",
     "Monotonic Stack",
