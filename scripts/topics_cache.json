@@ -508,6 +508,16 @@
   "palindrome-number": [
     "Math"
   ],
+  "palindromic-path-queries-in-a-tree": [
+    "Array",
+    "Binary Indexed Tree",
+    "Bit Manipulation",
+    "Depth-First Search",
+    "Divide and Conquer",
+    "Segment Tree",
+    "String",
+    "Tree"
+  ],
   "pascals-triangle": [
     "Array",
     "Dynamic Programming"
