@@ -66,6 +66,10 @@
     "Stack",
     "String"
   ],
+  "capacity-to-ship-packages-within-d-days": [
+    "Array",
+    "Binary Search"
+  ],
   "check-if-array-is-sorted-and-rotated": [
     "Array"
   ],
