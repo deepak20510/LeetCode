@@ -247,6 +247,10 @@
     "Array",
     "Binary Search"
   ],
+  "kth-missing-positive-number": [
+    "Array",
+    "Binary Search"
+  ],
   "largest-rectangle-in-histogram": [
     "Array",
     "Monotonic Stack",
