@@ -613,6 +613,12 @@
     "Hash Table",
     "Matrix"
   ],
+  "shortest-path-with-at-most-k-consecutive-identical-characters": [
+    "Graph Theory",
+    "Heap (Priority Queue)",
+    "Shortest Path",
+    "String"
+  ],
   "single-element-in-a-sorted-array": [
     "Array",
     "Binary Search"
