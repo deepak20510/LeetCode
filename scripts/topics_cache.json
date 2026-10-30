@@ -464,6 +464,14 @@
     "Array",
     "Two Pointers"
   ],
+  "nim-game": [
+    "Brainteaser",
+    "Game Theory",
+    "Impartial Game",
+    "Math",
+    "Minimax",
+    "Nim Game"
+  ],
   "non-overlapping-intervals": [
     "Array",
     "Dynamic Programming",

@@ -2,19 +2,19 @@
 
 A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 and tracked with GitHub Actions.
 
-![Solved](https://img.shields.io/badge/Solved-140-blue) ![Easy](https://img.shields.io/badge/Easy-44-brightgreen) ![Medium](https://img.shields.io/badge/Medium-76-yellow) ![Hard](https://img.shields.io/badge/Hard-20-red)
+![Solved](https://img.shields.io/badge/Solved-141-blue) ![Easy](https://img.shields.io/badge/Easy-45-brightgreen) ![Medium](https://img.shields.io/badge/Medium-76-yellow) ![Hard](https://img.shields.io/badge/Hard-20-red)
 
 ![Current Streak](https://img.shields.io/badge/Current%20Streak-40%20days-orange) ![Longest Streak](https://img.shields.io/badge/Longest%20Streak-40%20days-purple)
 
 ## 📊 Progress
 
-**Goal: 140 / 150 problems (93.3%)**
+**Goal: 141 / 150 problems (94.0%)**
 
 `███████████████████░`
 
 | Difficulty | Solved |
 |---|---:|
-| 🟢 Easy | 44 |
+| 🟢 Easy | 45 |
 | 🟡 Medium | 76 |
 | 🔴 Hard | 20 |
 
@@ -29,6 +29,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 
 | # | Problem | Difficulty | Language | Solution | Solved |
 |---:|---|---|---|---|---|
+| 292 | [Nim Game](https://leetcode.com/problems/nim-game) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0292-nim-game) | Oct 30, 2026 |
 | 3970 | [Shortest Path With At Most K Consecutive Identical Characters](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters) | Oct 30, 2026 |
 | 1011 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days) | Oct 29, 2026 |
 | 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1539-kth-missing-positive-number) | Oct 29, 2026 |
@@ -38,13 +39,12 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 3882 | [Minimum XOR Path in a Grid](https://leetcode.com/problems/minimum-xor-path-in-a-grid/?envType=daily-question&envId=2026-10-28) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid) | Oct 28, 2026 |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0069-sqrtx) | Oct 27, 2026 |
 | 1283 | [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/solutions/) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1283-find-the-smallest-divisor-given-a-threshold) | Oct 27, 2026 |
-| 3963 | [Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/solutions/8590472/1-by-galac79155-vqw4/?envType=daily-question&envId=2026-10-27) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3963-create-grid-with-exactly-one-path) | Oct 27, 2026 |
 
 ## 📅 Monthly Progress
 
 | Month | Problems Solved |
 |---|---:|
-| October 2026 | 50 |
+| October 2026 | 51 |
 | September 2026 | 61 |
 | August 2026 | 24 |
 | July 2026 | 3 |
@@ -115,6 +115,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0239-sliding-window-maximum) |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0283-move-zeroes) |
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0287-find-the-duplicate-number) |
+| 292 | [Nim Game](https://leetcode.com/problems/nim-game) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0292-nim-game) |
 | 301 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0301-remove-invalid-parentheses) |
 | 322 | [Coin Change](https://leetcode.com/problems/coin-change) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0322-coin-change) |
 | 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0424-longest-repeating-character-replacement) |
@@ -222,6 +223,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0232-implement-queue-using-stacks) |
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0234-palindrome-linked-list) |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0283-move-zeroes) |
+| 292 | [Nim Game](https://leetcode.com/problems/nim-game) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0292-nim-game) |
 | 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0455-assign-cookies) |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0485-max-consecutive-ones) |
 | 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0496-next-greater-element-i) |
@@ -595,7 +597,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 3524 | [Find X Value of Array I](https://leetcode.com/problems/find-x-value-of-array-i) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3524-find-x-value-of-array-i) |
 | 3882 | [Minimum XOR Path in a Grid](https://leetcode.com/problems/minimum-xor-path-in-a-grid/?envType=daily-question&envId=2026-10-28) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid) |
 
-### Math (21)
+### Math (22)
 
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
@@ -605,6 +607,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0050-powx-n) |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0069-sqrtx) |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0202-happy-number) |
+| 292 | [Nim Game](https://leetcode.com/problems/nim-game) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0292-nim-game) |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0509-fibonacci-number) |
 | 836 | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0836-rectangle-overlap) |
 | 1248 | [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1248-count-number-of-nice-subarrays) |
@@ -982,6 +985,12 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 |---:|---|---|---|---|
 | 1569 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 
+### Brainteaser (1)
+
+| # | Problem | Difficulty | Language | Solution |
+|---:|---|---|---|---|
+| 292 | [Nim Game](https://leetcode.com/problems/nim-game) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0292-nim-game) |
+
 ### Bubble Sort (1)
 
 | # | Problem | Difficulty | Language | Solution |
@@ -1006,17 +1015,35 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 |---:|---|---|---|---|
 | 1569 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 
+### Game Theory (1)
+
+| # | Problem | Difficulty | Language | Solution |
+|---:|---|---|---|---|
+| 292 | [Nim Game](https://leetcode.com/problems/nim-game) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0292-nim-game) |
+
 ### Graph Theory (1)
 
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
 | 3970 | [Shortest Path With At Most K Consecutive Identical Characters](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 
+### Impartial Game (1)
+
+| # | Problem | Difficulty | Language | Solution |
+|---:|---|---|---|---|
+| 292 | [Nim Game](https://leetcode.com/problems/nim-game) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0292-nim-game) |
+
 ### Knapsack Problem (1)
 
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
 | 322 | [Coin Change](https://leetcode.com/problems/coin-change) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0322-coin-change) |
+
+### Minimax (1)
+
+| # | Problem | Difficulty | Language | Solution |
+|---:|---|---|---|---|
+| 292 | [Nim Game](https://leetcode.com/problems/nim-game) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0292-nim-game) |
 
 ### Monotonic Queue (1)
 
@@ -1029,6 +1056,12 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0069-sqrtx) |
+
+### Nim Game (1)
+
+| # | Problem | Difficulty | Language | Solution |
+|---:|---|---|---|---|
+| 292 | [Nim Game](https://leetcode.com/problems/nim-game) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0292-nim-game) |
 
 ### Pigeonhole Principle (1)
 
