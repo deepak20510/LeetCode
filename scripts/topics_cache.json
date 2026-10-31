@@ -701,6 +701,11 @@
     "Stack",
     "Two Pointers"
   ],
+  "twisted-mirror-path-count": [
+    "Array",
+    "Dynamic Programming",
+    "Matrix"
+  ],
   "two-sum": [
     "Array",
     "Hash Table"
