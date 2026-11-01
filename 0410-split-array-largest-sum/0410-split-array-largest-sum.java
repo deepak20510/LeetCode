@@ -13,6 +13,7 @@ class Solution {
         return student;
     }
     public int splitArray(int[] nums, int k) {
+        if(k > nums.length) return -1;
         int max = 0;
         for(int i = 0; i < nums.length; i++){
             max = Math.max(nums[i], max);
