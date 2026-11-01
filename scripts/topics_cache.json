@@ -654,6 +654,13 @@
     "Sorting",
     "Two Pointers"
   ],
+  "split-array-largest-sum": [
+    "Array",
+    "Binary Search",
+    "Dynamic Programming",
+    "Greedy",
+    "Prefix Sum"
+  ],
   "sqrtx": [
     "Binary Search",
     "Math",
