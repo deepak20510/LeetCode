@@ -405,6 +405,10 @@
     "Stack",
     "String"
   ],
+  "minimum-moves-to-equal-array-elements": [
+    "Array",
+    "Math"
+  ],
   "minimum-number-of-days-to-make-m-bouquets": [
     "Array",
     "Binary Search"
