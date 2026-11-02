@@ -409,6 +409,11 @@
     "Array",
     "Math"
   ],
+  "minimum-moves-to-equal-array-elements-ii": [
+    "Array",
+    "Math",
+    "Sorting"
+  ],
   "minimum-number-of-days-to-make-m-bouquets": [
     "Array",
     "Binary Search"
