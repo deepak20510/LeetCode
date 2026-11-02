@@ -371,6 +371,11 @@
     "Dynamic Programming",
     "Sorting"
   ],
+  "median-of-two-sorted-arrays": [
+    "Array",
+    "Binary Search",
+    "Divide and Conquer"
+  ],
   "merge-intervals": [
     "Array",
     "Quicksort",
