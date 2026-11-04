@@ -427,6 +427,14 @@
     "Array",
     "Binary Search"
   ],
+  "minimum-operations-to-make-elements-within-k-subarrays-equal": [
+    "Array",
+    "Dynamic Programming",
+    "Hash Table",
+    "Heap (Priority Queue)",
+    "Math",
+    "Sliding Window"
+  ],
   "minimum-operations-to-reduce-x-to-zero": [
     "Array",
     "Binary Search",
