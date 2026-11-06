@@ -137,6 +137,12 @@
     "Prefix Sum",
     "Sliding Window"
   ],
+  "count-zero-request-servers": [
+    "Array",
+    "Hash Table",
+    "Sliding Window",
+    "Sorting"
+  ],
   "delete-node-in-a-linked-list": [
     "Linked List"
   ],
