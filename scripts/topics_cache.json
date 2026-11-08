@@ -143,6 +143,14 @@
     "Prefix Sum",
     "Sliding Window"
   ],
+  "count-servers-that-communicate": [
+    "Array",
+    "Breadth-First Search",
+    "Counting",
+    "Depth-First Search",
+    "Matrix",
+    "Union-Find"
+  ],
   "count-zero-request-servers": [
     "Array",
     "Hash Table",
