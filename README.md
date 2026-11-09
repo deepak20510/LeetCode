@@ -2,20 +2,20 @@
 
 A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 and tracked with GitHub Actions.
 
-![Solved](https://img.shields.io/badge/Solved-157-blue) ![Easy](https://img.shields.io/badge/Easy-50-brightgreen) ![Medium](https://img.shields.io/badge/Medium-83-yellow) ![Hard](https://img.shields.io/badge/Hard-24-red)
+![Solved](https://img.shields.io/badge/Solved-158-blue) ![Easy](https://img.shields.io/badge/Easy-50-brightgreen) ![Medium](https://img.shields.io/badge/Medium-84-yellow) ![Hard](https://img.shields.io/badge/Hard-24-red)
 
 ![Current Streak](https://img.shields.io/badge/Current%20Streak-50%20days-orange) ![Longest Streak](https://img.shields.io/badge/Longest%20Streak-50%20days-purple)
 
 ## 📊 Progress
 
-**Goal: 157 / 150 problems (100%)**
+**Goal: 158 / 150 problems (100%)**
 
 `████████████████████`
 
 | Difficulty | Solved |
 |---|---:|
 | 🟢 Easy | 50 |
-| 🟡 Medium | 83 |
+| 🟡 Medium | 84 |
 | 🔴 Hard | 24 |
 
 ## 🔥 Solution Streak
@@ -30,6 +30,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | # | Problem | Difficulty | Language | Solution | Solved |
 |---:|---|---|---|---|---|
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0094-binary-tree-inorder-traversal) | Nov 09, 2026 |
+| 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0102-binary-tree-level-order-traversal) | Nov 09, 2026 |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0145-binary-tree-postorder-traversal) | Nov 09, 2026 |
 | 1606 | [Find Servers That Handled Most Number of Requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1606-find-servers-that-handled-most-number-of-requests) | Nov 09, 2026 |
 | 1267 | [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1267-count-servers-that-communicate) | Nov 08, 2026 |
@@ -38,13 +39,12 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0240-search-a-2d-matrix-ii) | Nov 06, 2026 |
 | 2747 | [Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2747-count-zero-request-servers) | Nov 06, 2026 |
 | 1385 | [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays) | Nov 05, 2026 |
-| 3505 | [Minimum Operations to Make Elements Within K Subarrays Equal](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) | Nov 04, 2026 |
 
 ## 📅 Monthly Progress
 
 | Month | Problems Solved |
 |---|---:|
-| November 2026 | 15 |
+| November 2026 | 16 |
 | October 2026 | 52 |
 | September 2026 | 61 |
 | August 2026 | 24 |
@@ -91,6 +91,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0085-maximal-rectangle) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0088-merge-sorted-array) |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0094-binary-tree-inorder-traversal) |
+| 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0102-binary-tree-level-order-traversal) |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0118-pascals-triangle) |
 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0119-pascals-triangle-ii) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock) |
@@ -292,6 +293,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0074-search-a-2d-matrix) |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0075-sort-colors) |
 | 81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii) |
+| 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0102-binary-tree-level-order-traversal) |
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii) |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0128-longest-consecutive-sequence) |
 | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0138-copy-list-with-random-pointer) |
@@ -886,16 +888,40 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0509-fibonacci-number) |
 | 3483 | [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3483-unique-3-digit-even-numbers) |
 
-### Breadth-First Search (6)
+### Breadth-First Search (7)
 
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
+| 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0102-binary-tree-level-order-traversal) |
 | 301 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0301-remove-invalid-parentheses) |
 | 322 | [Coin Change](https://leetcode.com/problems/coin-change) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0322-coin-change) |
 | 1096 | [Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1096-brace-expansion-ii) |
 | 1254 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1254-number-of-closed-islands) |
 | 1267 | [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1267-count-servers-that-communicate) |
 | 3619 | [Count Islands With Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k) |
+
+### Tree (7)
+
+| # | Problem | Difficulty | Language | Solution |
+|---:|---|---|---|---|
+| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0094-binary-tree-inorder-traversal) |
+| 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0102-binary-tree-level-order-traversal) |
+| 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0144-binary-tree-preorder-traversal) |
+| 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0145-binary-tree-postorder-traversal) |
+| 1569 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| 2265 | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree) |
+| 3841 | [Palindromic Path Queries in a Tree](https://leetcode.com/problems/palindromic-path-queries-in-a-tree) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree) |
+
+### Binary Tree (6)
+
+| # | Problem | Difficulty | Language | Solution |
+|---:|---|---|---|---|
+| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0094-binary-tree-inorder-traversal) |
+| 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0102-binary-tree-level-order-traversal) |
+| 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0144-binary-tree-preorder-traversal) |
+| 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0145-binary-tree-postorder-traversal) |
+| 1569 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| 2265 | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree) |
 
 ### Heap (Priority Queue) (6)
 
@@ -907,27 +933,6 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 2333 | [Minimum Sum of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2333-minimum-sum-of-squared-difference) |
 | 3505 | [Minimum Operations to Make Elements Within K Subarrays Equal](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | 3970 | [Shortest Path With At Most K Consecutive Identical Characters](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
-
-### Tree (6)
-
-| # | Problem | Difficulty | Language | Solution |
-|---:|---|---|---|---|
-| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0094-binary-tree-inorder-traversal) |
-| 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0144-binary-tree-preorder-traversal) |
-| 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0145-binary-tree-postorder-traversal) |
-| 1569 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
-| 2265 | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree) |
-| 3841 | [Palindromic Path Queries in a Tree](https://leetcode.com/problems/palindromic-path-queries-in-a-tree) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree) |
-
-### Binary Tree (5)
-
-| # | Problem | Difficulty | Language | Solution |
-|---:|---|---|---|---|
-| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0094-binary-tree-inorder-traversal) |
-| 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0144-binary-tree-preorder-traversal) |
-| 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0145-binary-tree-postorder-traversal) |
-| 1569 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
-| 2265 | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree) |
 
 ### Bit Manipulation (5)
 

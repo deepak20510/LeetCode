@@ -57,6 +57,11 @@
     "Stack",
     "Tree"
   ],
+  "binary-tree-level-order-traversal": [
+    "Binary Tree",
+    "Breadth-First Search",
+    "Tree"
+  ],
   "binary-tree-postorder-traversal": [
     "Binary Tree",
     "Depth-First Search",
