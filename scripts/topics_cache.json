@@ -183,6 +183,12 @@
     "Array",
     "Binary Search"
   ],
+  "find-servers-that-handled-most-number-of-requests": [
+    "Array",
+    "Heap (Priority Queue)",
+    "Ordered Set",
+    "Simulation"
+  ],
   "find-target-indices-after-sorting-array": [
     "Array",
     "Binary Search",

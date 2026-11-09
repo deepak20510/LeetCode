@@ -2,13 +2,13 @@
 
 A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 and tracked with GitHub Actions.
 
-![Solved](https://img.shields.io/badge/Solved-154-blue) ![Easy](https://img.shields.io/badge/Easy-48-brightgreen) ![Medium](https://img.shields.io/badge/Medium-83-yellow) ![Hard](https://img.shields.io/badge/Hard-23-red)
+![Solved](https://img.shields.io/badge/Solved-155-blue) ![Easy](https://img.shields.io/badge/Easy-48-brightgreen) ![Medium](https://img.shields.io/badge/Medium-83-yellow) ![Hard](https://img.shields.io/badge/Hard-24-red)
 
-![Current Streak](https://img.shields.io/badge/Current%20Streak-49%20days-orange) ![Longest Streak](https://img.shields.io/badge/Longest%20Streak-49%20days-purple)
+![Current Streak](https://img.shields.io/badge/Current%20Streak-50%20days-orange) ![Longest Streak](https://img.shields.io/badge/Longest%20Streak-50%20days-purple)
 
 ## 📊 Progress
 
-**Goal: 154 / 150 problems (100%)**
+**Goal: 155 / 150 problems (100%)**
 
 `████████████████████`
 
@@ -16,12 +16,12 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 |---|---:|
 | 🟢 Easy | 48 |
 | 🟡 Medium | 83 |
-| 🔴 Hard | 23 |
+| 🔴 Hard | 24 |
 
 ## 🔥 Solution Streak
 
-- **Current streak:** 49 days
-- **Longest streak:** 49 days
+- **Current streak:** 50 days
+- **Longest streak:** 50 days
 
 > Streaks are calculated from Git commit dates associated with problem folders.
 
@@ -29,6 +29,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 
 | # | Problem | Difficulty | Language | Solution | Solved |
 |---:|---|---|---|---|---|
+| 1606 | [Find Servers That Handled Most Number of Requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1606-find-servers-that-handled-most-number-of-requests) | Nov 09, 2026 |
 | 1267 | [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1267-count-servers-that-communicate) | Nov 08, 2026 |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0144-binary-tree-preorder-traversal) | Nov 07, 2026 |
 | 1882 | [Process Tasks Using Servers](https://leetcode.com/problems/process-tasks-using-servers) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1882-process-tasks-using-servers) | Nov 07, 2026 |
@@ -38,13 +39,12 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 3505 | [Minimum Operations to Make Elements Within K Subarrays Equal](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) | Nov 04, 2026 |
 | 3736 | [Minimum Moves to Equal Array Elements III](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3736-minimum-moves-to-equal-array-elements-iii) | Nov 03, 2026 |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0004-median-of-two-sorted-arrays) | Nov 02, 2026 |
-| 462 | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii) | Nov 02, 2026 |
 
 ## 📅 Monthly Progress
 
 | Month | Problems Solved |
 |---|---:|
-| November 2026 | 12 |
+| November 2026 | 13 |
 | October 2026 | 52 |
 | September 2026 | 61 |
 | August 2026 | 24 |
@@ -168,6 +168,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1539-kth-missing-positive-number) |
 | 1541 | [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | 1569 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| 1606 | [Find Servers That Handled Most Number of Requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1606-find-servers-that-handled-most-number-of-requests) |
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses) |
 | 1621 | [Number of Sets of K Non-Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -369,6 +370,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 1096 | [Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1096-brace-expansion-ii) |
 | 1520 | [Maximum Number of Non-Overlapping Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings) |
 | 1569 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| 1606 | [Find Servers That Handled Most Number of Requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1606-find-servers-that-handled-most-number-of-requests) |
 | 2267 | [Check if There Is a Valid Parentheses String Path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | 2897 | [Apply Operations on Array to Maximize Sum of Squares](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -381,7 +383,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 
 ## 🏷️ Topics
 
-### Array (99)
+### Array (100)
 
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
@@ -454,6 +456,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 1482 | [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets) |
 | 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1539-kth-missing-positive-number) |
 | 1569 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| 1606 | [Find Servers That Handled Most Number of Requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1606-find-servers-that-handled-most-number-of-requests) |
 | 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero) |
 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated) |
 | 1807 | [Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -886,6 +889,17 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 3619 | [Count Islands With Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k) |
 | 3841 | [Palindromic Path Queries in a Tree](https://leetcode.com/problems/palindromic-path-queries-in-a-tree) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree) |
 
+### Heap (Priority Queue) (6)
+
+| # | Problem | Difficulty | Language | Solution |
+|---:|---|---|---|---|
+| 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0239-sliding-window-maximum) |
+| 1606 | [Find Servers That Handled Most Number of Requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1606-find-servers-that-handled-most-number-of-requests) |
+| 1882 | [Process Tasks Using Servers](https://leetcode.com/problems/process-tasks-using-servers) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1882-process-tasks-using-servers) |
+| 2333 | [Minimum Sum of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2333-minimum-sum-of-squared-difference) |
+| 3505 | [Minimum Operations to Make Elements Within K Subarrays Equal](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| 3970 | [Shortest Path With At Most K Consecutive Identical Characters](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+
 ### Bit Manipulation (5)
 
 | # | Problem | Difficulty | Language | Solution |
@@ -905,16 +919,6 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0240-search-a-2d-matrix-ii) |
 | 1569 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | 3841 | [Palindromic Path Queries in a Tree](https://leetcode.com/problems/palindromic-path-queries-in-a-tree) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree) |
-
-### Heap (Priority Queue) (5)
-
-| # | Problem | Difficulty | Language | Solution |
-|---:|---|---|---|---|
-| 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0239-sliding-window-maximum) |
-| 1882 | [Process Tasks Using Servers](https://leetcode.com/problems/process-tasks-using-servers) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1882-process-tasks-using-servers) |
-| 2333 | [Minimum Sum of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2333-minimum-sum-of-squared-difference) |
-| 3505 | [Minimum Operations to Make Elements Within K Subarrays Equal](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
-| 3970 | [Shortest Path With At Most K Consecutive Identical Characters](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 
 ### Union-Find (5)
 
@@ -1054,6 +1058,13 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0084-largest-rectangle-in-histogram) |
 | 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0239-sliding-window-maximum) |
 
+### Simulation (2)
+
+| # | Problem | Difficulty | Language | Solution |
+|---:|---|---|---|---|
+| 735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0735-asteroid-collision) |
+| 1606 | [Find Servers That Handled Most Number of Requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1606-find-servers-that-handled-most-number-of-requests) |
+
 ### Binary Search Tree (1)
 
 | # | Problem | Difficulty | Language | Solution |
@@ -1138,6 +1149,12 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 |---:|---|---|---|---|
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0292-nim-game) |
 
+### Ordered Set (1)
+
+| # | Problem | Difficulty | Language | Solution |
+|---:|---|---|---|---|
+| 1606 | [Find Servers That Handled Most Number of Requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1606-find-servers-that-handled-most-number-of-requests) |
+
 ### Pigeonhole Principle (1)
 
 | # | Problem | Difficulty | Language | Solution |
@@ -1149,12 +1166,6 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
 | 3970 | [Shortest Path With At Most K Consecutive Identical Characters](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
-
-### Simulation (1)
-
-| # | Problem | Difficulty | Language | Solution |
-|---:|---|---|---|---|
-| 735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0735-asteroid-collision) |
 
 ### Timsort (1)
 
