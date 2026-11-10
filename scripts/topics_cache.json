@@ -106,6 +106,10 @@
     "Geometry",
     "Math"
   ],
+  "climbing-stairs-ii": [
+    "Array",
+    "Dynamic Programming"
+  ],
   "coin-change": [
     "Array",
     "Breadth-First Search",
