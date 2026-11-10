@@ -387,6 +387,12 @@
     "Greedy",
     "Sorting"
   ],
+  "maximum-depth-of-binary-tree": [
+    "Binary Tree",
+    "Breadth-First Search",
+    "Depth-First Search",
+    "Tree"
+  ],
   "maximum-k-to-sort-a-permutation": [
     "Array",
     "Bit Manipulation"
