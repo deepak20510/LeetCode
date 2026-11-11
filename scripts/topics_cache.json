@@ -687,6 +687,12 @@
     "Linked List",
     "Two Pointers"
   ],
+  "same-tree": [
+    "Binary Tree",
+    "Breadth-First Search",
+    "Depth-First Search",
+    "Tree"
+  ],
   "score-of-parentheses": [
     "Bracket Sequences",
     "Stack",
