@@ -463,6 +463,10 @@
     "Stack",
     "String"
   ],
+  "minimum-cost-to-acquire-required-items": [
+    "Greedy",
+    "Math"
+  ],
   "minimum-insertions-to-balance-a-parentheses-string": [
     "Bracket Sequences",
     "Greedy",
