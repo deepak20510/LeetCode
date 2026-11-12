@@ -2,19 +2,19 @@
 
 A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 and tracked with GitHub Actions.
 
-![Solved](https://img.shields.io/badge/Solved-163-blue) ![Easy](https://img.shields.io/badge/Easy-53-brightgreen) ![Medium](https://img.shields.io/badge/Medium-86-yellow) ![Hard](https://img.shields.io/badge/Hard-24-red)
+![Solved](https://img.shields.io/badge/Solved-164-blue) ![Easy](https://img.shields.io/badge/Easy-54-brightgreen) ![Medium](https://img.shields.io/badge/Medium-86-yellow) ![Hard](https://img.shields.io/badge/Hard-24-red)
 
 ![Current Streak](https://img.shields.io/badge/Current%20Streak-53%20days-orange) ![Longest Streak](https://img.shields.io/badge/Longest%20Streak-53%20days-purple)
 
 ## 📊 Progress
 
-**Goal: 163 / 150 problems (100%)**
+**Goal: 164 / 150 problems (100%)**
 
 `████████████████████`
 
 | Difficulty | Solved |
 |---|---:|
-| 🟢 Easy | 53 |
+| 🟢 Easy | 54 |
 | 🟡 Medium | 86 |
 | 🔴 Hard | 24 |
 
@@ -29,6 +29,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 
 | # | Problem | Difficulty | Language | Solution | Solved |
 |---:|---|---|---|---|---|
+| 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0110-balanced-binary-tree) | Nov 12, 2026 |
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) | Nov 12, 2026 |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0100-same-tree) | Nov 11, 2026 |
 | 3789 | [Minimum Cost to Acquire Required Items](https://leetcode.com/problems/minimum-cost-to-acquire-required-items) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3789-minimum-cost-to-acquire-required-items) | Nov 11, 2026 |
@@ -38,13 +39,12 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0102-binary-tree-level-order-traversal) | Nov 09, 2026 |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0145-binary-tree-postorder-traversal) | Nov 09, 2026 |
 | 1606 | [Find Servers That Handled Most Number of Requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1606-find-servers-that-handled-most-number-of-requests) | Nov 09, 2026 |
-| 1267 | [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1267-count-servers-that-communicate) | Nov 08, 2026 |
 
 ## 📅 Monthly Progress
 
 | Month | Problems Solved |
 |---|---:|
-| November 2026 | 21 |
+| November 2026 | 22 |
 | October 2026 | 52 |
 | September 2026 | 61 |
 | August 2026 | 24 |
@@ -94,6 +94,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0100-same-tree) |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0102-binary-tree-level-order-traversal) |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0104-maximum-depth-of-binary-tree) |
+| 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0110-balanced-binary-tree) |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0118-pascals-triangle) |
 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0119-pascals-triangle-ii) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock) |
@@ -234,6 +235,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0094-binary-tree-inorder-traversal) |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0100-same-tree) |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0104-maximum-depth-of-binary-tree) |
+| 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0110-balanced-binary-tree) |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0118-pascals-triangle) |
 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0119-pascals-triangle-ii) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock) |
@@ -835,6 +837,22 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses) |
 | 2267 | [Check if There Is a Valid Parentheses String Path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path) |
 
+### Depth-First Search (11)
+
+| # | Problem | Difficulty | Language | Solution |
+|---:|---|---|---|---|
+| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0094-binary-tree-inorder-traversal) |
+| 100 | [Same Tree](https://leetcode.com/problems/same-tree) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0100-same-tree) |
+| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0104-maximum-depth-of-binary-tree) |
+| 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0110-balanced-binary-tree) |
+| 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0144-binary-tree-preorder-traversal) |
+| 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0145-binary-tree-postorder-traversal) |
+| 1254 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1254-number-of-closed-islands) |
+| 1267 | [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1267-count-servers-that-communicate) |
+| 2265 | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree) |
+| 3619 | [Count Islands With Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k) |
+| 3841 | [Palindromic Path Queries in a Tree](https://leetcode.com/problems/palindromic-path-queries-in-a-tree) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree) |
+
 ### Matrix (11)
 
 | # | Problem | Difficulty | Language | Solution |
@@ -851,20 +869,34 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 3665 | [Twisted Mirror Path Count](https://leetcode.com/problems/twisted-mirror-path-count) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3665-twisted-mirror-path-count) |
 | 3882 | [Minimum XOR Path in a Grid](https://leetcode.com/problems/minimum-xor-path-in-a-grid/?envType=daily-question&envId=2026-10-28) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid) |
 
-### Depth-First Search (10)
+### Tree (10)
 
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0094-binary-tree-inorder-traversal) |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0100-same-tree) |
+| 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0102-binary-tree-level-order-traversal) |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0104-maximum-depth-of-binary-tree) |
+| 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0110-balanced-binary-tree) |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0144-binary-tree-preorder-traversal) |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0145-binary-tree-postorder-traversal) |
-| 1254 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1254-number-of-closed-islands) |
-| 1267 | [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1267-count-servers-that-communicate) |
+| 1569 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | 2265 | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree) |
-| 3619 | [Count Islands With Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k) |
 | 3841 | [Palindromic Path Queries in a Tree](https://leetcode.com/problems/palindromic-path-queries-in-a-tree) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree) |
+
+### Binary Tree (9)
+
+| # | Problem | Difficulty | Language | Solution |
+|---:|---|---|---|---|
+| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0094-binary-tree-inorder-traversal) |
+| 100 | [Same Tree](https://leetcode.com/problems/same-tree) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0100-same-tree) |
+| 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0102-binary-tree-level-order-traversal) |
+| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0104-maximum-depth-of-binary-tree) |
+| 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0110-balanced-binary-tree) |
+| 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0144-binary-tree-preorder-traversal) |
+| 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0145-binary-tree-postorder-traversal) |
+| 1569 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| 2265 | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree) |
 
 ### Breadth-First Search (9)
 
@@ -879,33 +911,6 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 1254 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1254-number-of-closed-islands) |
 | 1267 | [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1267-count-servers-that-communicate) |
 | 3619 | [Count Islands With Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k) |
-
-### Tree (9)
-
-| # | Problem | Difficulty | Language | Solution |
-|---:|---|---|---|---|
-| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0094-binary-tree-inorder-traversal) |
-| 100 | [Same Tree](https://leetcode.com/problems/same-tree) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0100-same-tree) |
-| 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0102-binary-tree-level-order-traversal) |
-| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0104-maximum-depth-of-binary-tree) |
-| 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0144-binary-tree-preorder-traversal) |
-| 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0145-binary-tree-postorder-traversal) |
-| 1569 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
-| 2265 | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree) |
-| 3841 | [Palindromic Path Queries in a Tree](https://leetcode.com/problems/palindromic-path-queries-in-a-tree) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree) |
-
-### Binary Tree (8)
-
-| # | Problem | Difficulty | Language | Solution |
-|---:|---|---|---|---|
-| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0094-binary-tree-inorder-traversal) |
-| 100 | [Same Tree](https://leetcode.com/problems/same-tree) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0100-same-tree) |
-| 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0102-binary-tree-level-order-traversal) |
-| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0104-maximum-depth-of-binary-tree) |
-| 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0144-binary-tree-preorder-traversal) |
-| 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0145-binary-tree-postorder-traversal) |
-| 1569 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
-| 2265 | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree) |
 
 ### Monotonic Stack (8)
 
