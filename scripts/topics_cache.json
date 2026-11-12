@@ -186,6 +186,12 @@
   "delete-node-in-a-linked-list": [
     "Linked List"
   ],
+  "diameter-of-binary-tree": [
+    "Binary Tree",
+    "DP on Trees",
+    "Depth-First Search",
+    "Tree"
+  ],
   "evaluate-the-bracket-pairs-of-a-string": [
     "Array",
     "Hash Table",
