@@ -2,26 +2,26 @@
 
 A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 and tracked with GitHub Actions.
 
-![Solved](https://img.shields.io/badge/Solved-162-blue) ![Easy](https://img.shields.io/badge/Easy-52-brightgreen) ![Medium](https://img.shields.io/badge/Medium-86-yellow) ![Hard](https://img.shields.io/badge/Hard-24-red)
+![Solved](https://img.shields.io/badge/Solved-163-blue) ![Easy](https://img.shields.io/badge/Easy-53-brightgreen) ![Medium](https://img.shields.io/badge/Medium-86-yellow) ![Hard](https://img.shields.io/badge/Hard-24-red)
 
-![Current Streak](https://img.shields.io/badge/Current%20Streak-52%20days-orange) ![Longest Streak](https://img.shields.io/badge/Longest%20Streak-52%20days-purple)
+![Current Streak](https://img.shields.io/badge/Current%20Streak-53%20days-orange) ![Longest Streak](https://img.shields.io/badge/Longest%20Streak-53%20days-purple)
 
 ## 📊 Progress
 
-**Goal: 162 / 150 problems (100%)**
+**Goal: 163 / 150 problems (100%)**
 
 `████████████████████`
 
 | Difficulty | Solved |
 |---|---:|
-| 🟢 Easy | 52 |
+| 🟢 Easy | 53 |
 | 🟡 Medium | 86 |
 | 🔴 Hard | 24 |
 
 ## 🔥 Solution Streak
 
-- **Current streak:** 52 days
-- **Longest streak:** 52 days
+- **Current streak:** 53 days
+- **Longest streak:** 53 days
 
 > Streaks are calculated from Git commit dates associated with problem folders.
 
@@ -29,6 +29,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 
 | # | Problem | Difficulty | Language | Solution | Solved |
 |---:|---|---|---|---|---|
+| 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) | Nov 12, 2026 |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0100-same-tree) | Nov 11, 2026 |
 | 3789 | [Minimum Cost to Acquire Required Items](https://leetcode.com/problems/minimum-cost-to-acquire-required-items) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3789-minimum-cost-to-acquire-required-items) | Nov 11, 2026 |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0104-maximum-depth-of-binary-tree) | Nov 10, 2026 |
@@ -38,13 +39,12 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0145-binary-tree-postorder-traversal) | Nov 09, 2026 |
 | 1606 | [Find Servers That Handled Most Number of Requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1606-find-servers-that-handled-most-number-of-requests) | Nov 09, 2026 |
 | 1267 | [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1267-count-servers-that-communicate) | Nov 08, 2026 |
-| 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0144-binary-tree-preorder-traversal) | Nov 07, 2026 |
 
 ## 📅 Monthly Progress
 
 | Month | Problems Solved |
 |---|---:|
-| November 2026 | 20 |
+| November 2026 | 21 |
 | October 2026 | 52 |
 | September 2026 | 61 |
 | August 2026 | 24 |
@@ -192,6 +192,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 2897 | [Apply Operations on Array to Maximize Sum of Squares](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i) |
 | 2916 | [Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | 3414 | [Maximum Score of Non-overlapping Intervals](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals) |
 | 3483 | [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3483-unique-3-digit-even-numbers) |
 | 3505 | [Minimum Operations to Make Elements Within K Subarrays Equal](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -268,6 +269,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 2409 | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2409-count-days-spent-together) |
 | 2778 | [Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2778-sum-of-squares-of-special-elements) |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i) |
+| 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | 3483 | [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3483-unique-3-digit-even-numbers) |
 | 3550 | [Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/solutions/8537026/100-beats-easy-approach-less-theory-pook-7t9f/?envType=daily-question&envId=2026-09-24) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index) |
 | 3736 | [Minimum Moves to Equal Array Elements III](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -397,7 +399,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 
 ## 🏷️ Topics
 
-### Array (101)
+### Array (102)
 
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
@@ -484,6 +486,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 2897 | [Apply Operations on Array to Maximize Sum of Squares](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i) |
 | 2916 | [Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | 3414 | [Maximum Score of Non-overlapping Intervals](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals) |
 | 3483 | [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3483-unique-3-digit-even-numbers) |
 | 3505 | [Minimum Operations to Make Elements Within K Subarrays Equal](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |

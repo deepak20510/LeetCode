@@ -336,6 +336,9 @@
     "Sliding Window",
     "String"
   ],
+  "longest-strictly-increasing-or-strictly-decreasing-subarray": [
+    "Array"
+  ],
   "longest-substring-without-repeating-characters": [
     "Hash Table",
     "Sliding Window",
