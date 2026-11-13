@@ -2,13 +2,13 @@
 
 A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 and tracked with GitHub Actions.
 
-![Solved](https://img.shields.io/badge/Solved-165-blue) ![Easy](https://img.shields.io/badge/Easy-55-brightgreen) ![Medium](https://img.shields.io/badge/Medium-86-yellow) ![Hard](https://img.shields.io/badge/Hard-24-red)
+![Solved](https://img.shields.io/badge/Solved-166-blue) ![Easy](https://img.shields.io/badge/Easy-55-brightgreen) ![Medium](https://img.shields.io/badge/Medium-86-yellow) ![Hard](https://img.shields.io/badge/Hard-25-red)
 
-![Current Streak](https://img.shields.io/badge/Current%20Streak-53%20days-orange) ![Longest Streak](https://img.shields.io/badge/Longest%20Streak-53%20days-purple)
+![Current Streak](https://img.shields.io/badge/Current%20Streak-54%20days-orange) ![Longest Streak](https://img.shields.io/badge/Longest%20Streak-54%20days-purple)
 
 ## 📊 Progress
 
-**Goal: 165 / 150 problems (100%)**
+**Goal: 166 / 150 problems (100%)**
 
 `████████████████████`
 
@@ -16,12 +16,12 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 |---|---:|
 | 🟢 Easy | 55 |
 | 🟡 Medium | 86 |
-| 🔴 Hard | 24 |
+| 🔴 Hard | 25 |
 
 ## 🔥 Solution Streak
 
-- **Current streak:** 53 days
-- **Longest streak:** 53 days
+- **Current streak:** 54 days
+- **Longest streak:** 54 days
 
 > Streaks are calculated from Git commit dates associated with problem folders.
 
@@ -29,6 +29,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 
 | # | Problem | Difficulty | Language | Solution | Solved |
 |---:|---|---|---|---|---|
+| 3420 | [Count Non-Decreasing Subarrays After K Operations](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations) | Nov 13, 2026 |
 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0110-balanced-binary-tree) | Nov 12, 2026 |
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0543-diameter-of-binary-tree) | Nov 12, 2026 |
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) | Nov 12, 2026 |
@@ -38,13 +39,12 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 3693 | [Climbing Stairs II](https://leetcode.com/problems/climbing-stairs-ii) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3693-climbing-stairs-ii) | Nov 10, 2026 |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0094-binary-tree-inorder-traversal) | Nov 09, 2026 |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0102-binary-tree-level-order-traversal) | Nov 09, 2026 |
-| 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0145-binary-tree-postorder-traversal) | Nov 09, 2026 |
 
 ## 📅 Monthly Progress
 
 | Month | Problems Solved |
 |---|---:|
-| November 2026 | 23 |
+| November 2026 | 24 |
 | October 2026 | 52 |
 | September 2026 | 61 |
 | August 2026 | 24 |
@@ -196,6 +196,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 2916 | [Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | 3414 | [Maximum Score of Non-overlapping Intervals](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals) |
+| 3420 | [Count Non-Decreasing Subarrays After K Operations](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations) |
 | 3483 | [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3483-unique-3-digit-even-numbers) |
 | 3505 | [Minimum Operations to Make Elements Within K Subarrays Equal](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | 3524 | [Find X Value of Array I](https://leetcode.com/problems/find-x-value-of-array-i) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3524-find-x-value-of-array-i) |
@@ -396,6 +397,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 2897 | [Apply Operations on Array to Maximize Sum of Squares](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | 2916 | [Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | 3414 | [Maximum Score of Non-overlapping Intervals](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals) |
+| 3420 | [Count Non-Decreasing Subarrays After K Operations](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations) |
 | 3505 | [Minimum Operations to Make Elements Within K Subarrays Equal](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | 3525 | [Find X Value of Array II](https://leetcode.com/problems/find-x-value-of-array-ii) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3525-find-x-value-of-array-ii) |
 | 3841 | [Palindromic Path Queries in a Tree](https://leetcode.com/problems/palindromic-path-queries-in-a-tree) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree) |
@@ -403,7 +405,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 
 ## 🏷️ Topics
 
-### Array (102)
+### Array (103)
 
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
@@ -492,6 +494,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 2916 | [Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | 3414 | [Maximum Score of Non-overlapping Intervals](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals) |
+| 3420 | [Count Non-Decreasing Subarrays After K Operations](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations) |
 | 3483 | [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3483-unique-3-digit-even-numbers) |
 | 3505 | [Minimum Operations to Make Elements Within K Subarrays Equal](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | 3524 | [Find X Value of Array I](https://leetcode.com/problems/find-x-value-of-array-i) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3524-find-x-value-of-array-i) |
@@ -549,6 +552,39 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 3505 | [Minimum Operations to Make Elements Within K Subarrays Equal](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | 3551 | [Minimum Swaps to Sort by Digit Sum](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum) |
 
+### Stack (28)
+
+| # | Problem | Difficulty | Language | Solution |
+|---:|---|---|---|---|
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0020-valid-parentheses) |
+| 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0032-longest-valid-parentheses) |
+| 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0042-trapping-rain-water) |
+| 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0084-largest-rectangle-in-histogram) |
+| 85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0085-maximal-rectangle) |
+| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0094-binary-tree-inorder-traversal) |
+| 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0144-binary-tree-preorder-traversal) |
+| 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0145-binary-tree-postorder-traversal) |
+| 155 | [Min Stack](https://leetcode.com/problems/min-stack) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0155-min-stack) |
+| 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0225-implement-stack-using-queues) |
+| 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0232-implement-queue-using-stacks) |
+| 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0234-palindrome-linked-list) |
+| 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0496-next-greater-element-i) |
+| 503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0503-next-greater-element-ii) |
+| 678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0678-valid-parenthesis-string) |
+| 735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0735-asteroid-collision) |
+| 856 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0856-score-of-parentheses) |
+| 901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0901-online-stock-span) |
+| 907 | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0907-sum-of-subarray-minimums) |
+| 921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid) |
+| 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1021-remove-outermost-parentheses) |
+| 1096 | [Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1096-brace-expansion-ii) |
+| 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| 1541 | [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses) |
+| 2104 | [Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2104-sum-of-subarray-ranges) |
+| 3420 | [Count Non-Decreasing Subarrays After K Operations](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations) |
+
 ### Math (27)
 
 | # | Problem | Difficulty | Language | Solution |
@@ -580,38 +616,6 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 3871 | [Count Commas in Range II](https://leetcode.com/problems/count-commas-in-range-ii) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3871-count-commas-in-range-ii) |
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3875-construct-uniform-parity-array-i) |
 | 3886 | [Sum of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3886-sum-of-sortable-integers) |
-
-### Stack (27)
-
-| # | Problem | Difficulty | Language | Solution |
-|---:|---|---|---|---|
-| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0020-valid-parentheses) |
-| 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0032-longest-valid-parentheses) |
-| 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0042-trapping-rain-water) |
-| 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0084-largest-rectangle-in-histogram) |
-| 85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0085-maximal-rectangle) |
-| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0094-binary-tree-inorder-traversal) |
-| 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0144-binary-tree-preorder-traversal) |
-| 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0145-binary-tree-postorder-traversal) |
-| 155 | [Min Stack](https://leetcode.com/problems/min-stack) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0155-min-stack) |
-| 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0225-implement-stack-using-queues) |
-| 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0232-implement-queue-using-stacks) |
-| 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0234-palindrome-linked-list) |
-| 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0496-next-greater-element-i) |
-| 503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0503-next-greater-element-ii) |
-| 678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0678-valid-parenthesis-string) |
-| 735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0735-asteroid-collision) |
-| 856 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0856-score-of-parentheses) |
-| 901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0901-online-stock-span) |
-| 907 | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0907-sum-of-subarray-minimums) |
-| 921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid) |
-| 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1021-remove-outermost-parentheses) |
-| 1096 | [Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1096-brace-expansion-ii) |
-| 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
-| 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses) |
-| 1541 | [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string) |
-| 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses) |
-| 2104 | [Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2104-sum-of-subarray-ranges) |
 
 ### Binary Search (26)
 
@@ -783,7 +787,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 3727 | [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares) | 🟡 Medium | Unknown | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares) |
 | 3789 | [Minimum Cost to Acquire Required Items](https://leetcode.com/problems/minimum-cost-to-acquire-required-items) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3789-minimum-cost-to-acquire-required-items) |
 
-### Sliding Window (16)
+### Sliding Window (17)
 
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
@@ -802,6 +806,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero) |
 | 2747 | [Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2747-count-zero-request-servers) |
+| 3420 | [Count Non-Decreasing Subarrays After K Operations](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations) |
 | 3505 | [Minimum Operations to Make Elements Within K Subarrays Equal](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 
 ### Linked List (13)
@@ -917,7 +922,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 1267 | [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1267-count-servers-that-communicate) |
 | 3619 | [Count Islands With Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k) |
 
-### Monotonic Stack (8)
+### Monotonic Stack (9)
 
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
@@ -929,6 +934,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0901-online-stock-span) |
 | 907 | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0907-sum-of-subarray-minimums) |
 | 2104 | [Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2104-sum-of-subarray-ranges) |
+| 3420 | [Count Non-Decreasing Subarrays After K Operations](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations) |
 
 ### Prefix Sum (8)
 
@@ -987,6 +993,16 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 1569 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | 3841 | [Palindromic Path Queries in a Tree](https://leetcode.com/problems/palindromic-path-queries-in-a-tree) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree) |
 
+### Segment Tree (5)
+
+| # | Problem | Difficulty | Language | Solution |
+|---:|---|---|---|---|
+| 2913 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i) |
+| 2916 | [Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| 3420 | [Count Non-Decreasing Subarrays After K Operations](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations) |
+| 3525 | [Find X Value of Array II](https://leetcode.com/problems/find-x-value-of-array-ii) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3525-find-x-value-of-array-ii) |
+| 3841 | [Palindromic Path Queries in a Tree](https://leetcode.com/problems/palindromic-path-queries-in-a-tree) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree) |
+
 ### Union-Find (5)
 
 | # | Problem | Difficulty | Language | Solution |
@@ -1024,14 +1040,14 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0202-happy-number) |
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0287-find-the-duplicate-number) |
 
-### Segment Tree (4)
+### Queue (4)
 
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
-| 2913 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i) |
-| 2916 | [Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii) |
-| 3525 | [Find X Value of Array II](https://leetcode.com/problems/find-x-value-of-array-ii) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3525-find-x-value-of-array-ii) |
-| 3841 | [Palindromic Path Queries in a Tree](https://leetcode.com/problems/palindromic-path-queries-in-a-tree) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree) |
+| 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0225-implement-stack-using-queues) |
+| 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0232-implement-queue-using-stacks) |
+| 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0239-sliding-window-maximum) |
+| 3420 | [Count Non-Decreasing Subarrays After K Operations](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations) |
 
 ### Backtracking (3)
 
@@ -1056,14 +1072,6 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 2778 | [Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2778-sum-of-squares-of-special-elements) |
 | 3483 | [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3483-unique-3-digit-even-numbers) |
 | 3886 | [Sum of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3886-sum-of-sortable-integers) |
-
-### Queue (3)
-
-| # | Problem | Difficulty | Language | Solution |
-|---:|---|---|---|---|
-| 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0225-implement-stack-using-queues) |
-| 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0232-implement-queue-using-stacks) |
-| 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0239-sliding-window-maximum) |
 
 ### Quicksort (3)
 
@@ -1100,6 +1108,13 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 |---:|---|---|---|---|
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0509-fibonacci-number) |
 | 1569 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+
+### Monotonic Queue (2)
+
+| # | Problem | Difficulty | Language | Solution |
+|---:|---|---|---|---|
+| 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0239-sliding-window-maximum) |
+| 3420 | [Count Non-Decreasing Subarrays After K Operations](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations) |
 
 ### Range Minimum/Maximum Query (2)
 
@@ -1186,12 +1201,6 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0292-nim-game) |
-
-### Monotonic Queue (1)
-
-| # | Problem | Difficulty | Language | Solution |
-|---:|---|---|---|---|
-| 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0239-sliding-window-maximum) |
 
 ### Newton's Method (1)
 

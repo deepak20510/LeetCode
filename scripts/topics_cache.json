@@ -162,6 +162,15 @@
     "Depth-First Search",
     "Tree"
   ],
+  "count-non-decreasing-subarrays-after-k-operations": [
+    "Array",
+    "Monotonic Queue",
+    "Monotonic Stack",
+    "Queue",
+    "Segment Tree",
+    "Sliding Window",
+    "Stack"
+  ],
   "count-number-of-nice-subarrays": [
     "Array",
     "Hash Table",
