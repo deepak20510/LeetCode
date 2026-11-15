@@ -608,6 +608,12 @@
     "Math",
     "Prefix Sum"
   ],
+  "number-of-sub-arrays-with-odd-sum": [
+    "Array",
+    "Dynamic Programming",
+    "Math",
+    "Prefix Sum"
+  ],
   "number-of-substrings-containing-all-three-characters": [
     "Hash Table",
     "Sliding Window",
