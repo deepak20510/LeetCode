@@ -67,6 +67,13 @@
     "Breadth-First Search",
     "Tree"
   ],
+  "binary-tree-maximum-path-sum": [
+    "Binary Tree",
+    "DP on Trees",
+    "Depth-First Search",
+    "Dynamic Programming",
+    "Tree"
+  ],
   "binary-tree-postorder-traversal": [
     "Binary Tree",
     "Depth-First Search",
