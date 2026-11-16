@@ -94,6 +94,10 @@
     "Stack",
     "String"
   ],
+  "calculate-digit-sum-of-a-string": [
+    "Simulation",
+    "String"
+  ],
   "capacity-to-ship-packages-within-d-days": [
     "Array",
     "Binary Search"
