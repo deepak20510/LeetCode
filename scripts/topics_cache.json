@@ -497,6 +497,11 @@
     "Stack",
     "String"
   ],
+  "minimum-changes-to-make-k-semi-palindromes": [
+    "Dynamic Programming",
+    "String",
+    "Two Pointers"
+  ],
   "minimum-cost-to-acquire-required-items": [
     "Greedy",
     "Math"
