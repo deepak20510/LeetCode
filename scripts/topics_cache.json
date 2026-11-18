@@ -859,6 +859,12 @@
     "Monotonic Stack",
     "Stack"
   ],
+  "symmetric-tree": [
+    "Binary Tree",
+    "Breadth-First Search",
+    "Depth-First Search",
+    "Tree"
+  ],
   "trapping-rain-water": [
     "Array",
     "Dynamic Programming",
