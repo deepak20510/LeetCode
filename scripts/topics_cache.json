@@ -525,6 +525,9 @@
     "Array",
     "Math"
   ],
+  "minimum-number-of-changes-to-make-binary-string-beautiful": [
+    "String"
+  ],
   "minimum-number-of-days-to-make-m-bouquets": [
     "Array",
     "Binary Search"
