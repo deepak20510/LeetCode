@@ -86,6 +86,11 @@
     "Stack",
     "Tree"
   ],
+  "binary-tree-zigzag-level-order-traversal": [
+    "Binary Tree",
+    "Breadth-First Search",
+    "Tree"
+  ],
   "boats-to-save-people": [
     "Array",
     "Greedy",
