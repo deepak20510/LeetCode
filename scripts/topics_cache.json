@@ -563,6 +563,11 @@
     "Prefix Sum",
     "Sliding Window"
   ],
+  "minimum-score-by-changing-two-elements": [
+    "Array",
+    "Greedy",
+    "Sorting"
+  ],
   "minimum-sum-of-squared-difference": [
     "Array",
     "Binary Search",
