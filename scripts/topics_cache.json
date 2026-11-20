@@ -417,6 +417,11 @@
     "Monotonic Stack",
     "Stack"
   ],
+  "maximize-consecutive-elements-in-an-array-after-modification": [
+    "Array",
+    "Dynamic Programming",
+    "Sorting"
+  ],
   "maximize-sum-of-squares-of-digits": [
     "Greedy",
     "Math"
