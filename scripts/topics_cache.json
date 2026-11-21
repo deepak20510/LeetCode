@@ -246,6 +246,13 @@
     "Ordered Set",
     "Simulation"
   ],
+  "find-subtree-sizes-after-changes": [
+    "Array",
+    "Depth-First Search",
+    "Hash Table",
+    "String",
+    "Tree"
+  ],
   "find-target-indices-after-sorting-array": [
     "Array",
     "Binary Search",
