@@ -114,6 +114,9 @@
     "Array",
     "Binary Search"
   ],
+  "check-if-all-as-appears-before-all-bs": [
+    "String"
+  ],
   "check-if-array-is-sorted-and-rotated": [
     "Array"
   ],
