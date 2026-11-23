@@ -2,26 +2,26 @@
 
 A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 and tracked with GitHub Actions.
 
-![Solved](https://img.shields.io/badge/Solved-178-blue) ![Easy](https://img.shields.io/badge/Easy-59-brightgreen) ![Medium](https://img.shields.io/badge/Medium-91-yellow) ![Hard](https://img.shields.io/badge/Hard-28-red)
+![Solved](https://img.shields.io/badge/Solved-179-blue) ![Easy](https://img.shields.io/badge/Easy-59-brightgreen) ![Medium](https://img.shields.io/badge/Medium-92-yellow) ![Hard](https://img.shields.io/badge/Hard-28-red)
 
-![Current Streak](https://img.shields.io/badge/Current%20Streak-63%20days-orange) ![Longest Streak](https://img.shields.io/badge/Longest%20Streak-63%20days-purple)
+![Current Streak](https://img.shields.io/badge/Current%20Streak-64%20days-orange) ![Longest Streak](https://img.shields.io/badge/Longest%20Streak-64%20days-purple)
 
 ## 📊 Progress
 
-**Goal: 178 / 150 problems (100%)**
+**Goal: 179 / 150 problems (100%)**
 
 `████████████████████`
 
 | Difficulty | Solved |
 |---|---:|
 | 🟢 Easy | 59 |
-| 🟡 Medium | 91 |
+| 🟡 Medium | 92 |
 | 🔴 Hard | 28 |
 
 ## 🔥 Solution Streak
 
-- **Current streak:** 63 days
-- **Longest streak:** 63 days
+- **Current streak:** 64 days
+- **Longest streak:** 64 days
 
 > Streaks are calculated from Git commit dates associated with problem folders.
 
@@ -29,6 +29,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 
 | # | Problem | Difficulty | Language | Solution | Solved |
 |---:|---|---|---|---|---|
+| 1352 | [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1352-product-of-the-last-k-numbers) | Nov 23, 2026 |
 | 2124 | [Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/solutions/8620861/string-forbidden-pattern-ba-brute-force-esmds/?envType=daily-question&envId=2026-11-22) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2124-check-if-all-as-appears-before-all-bs) | Nov 22, 2026 |
 | 3331 | [Find Subtree Sizes After Changes](https://leetcode.com/problems/find-subtree-sizes-after-changes) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3331-find-subtree-sizes-after-changes) | Nov 21, 2026 |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/description/?envType=daily-question&envId=2026-11-20) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification) | Nov 20, 2026 |
@@ -38,13 +39,12 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 2914 | [Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful) | Nov 18, 2026 |
 | 2911 | [Minimum Changes to Make K Semi-palindromes](https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2911-minimum-changes-to-make-k-semi-palindromes) | Nov 17, 2026 |
 | 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0124-binary-tree-maximum-path-sum) | Nov 16, 2026 |
-| 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/solutions/8614022/squeeze-until-it-fits-cut-sum-glue-in-on-tmy1/?envType=daily-question&envId=2026-11-16) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2243-calculate-digit-sum-of-a-string) | Nov 16, 2026 |
 
 ## 📅 Monthly Progress
 
 | Month | Problems Solved |
 |---|---:|
-| November 2026 | 36 |
+| November 2026 | 37 |
 | October 2026 | 52 |
 | September 2026 | 61 |
 | August 2026 | 24 |
@@ -168,6 +168,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 1254 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1254-number-of-closed-islands) |
 | 1267 | [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1267-count-servers-that-communicate) |
 | 1283 | [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/solutions/) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1283-find-the-smallest-divisor-given-a-threshold) |
+| 1352 | [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1352-product-of-the-last-k-numbers) |
 | 1358 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters) |
 | 1385 | [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays) |
 | 1401 | [Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1401-circle-and-rectangle-overlapping) |
@@ -361,6 +362,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 1254 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1254-number-of-closed-islands) |
 | 1267 | [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1267-count-servers-that-communicate) |
 | 1283 | [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/solutions/) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1283-find-the-smallest-divisor-given-a-threshold) |
+| 1352 | [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1352-product-of-the-last-k-numbers) |
 | 1358 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters) |
 | 1401 | [Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1401-circle-and-rectangle-overlapping) |
 | 1423 | [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards) |
@@ -429,7 +431,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 
 ## 🏷️ Topics
 
-### Array (108)
+### Array (109)
 
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
@@ -496,6 +498,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 1254 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1254-number-of-closed-islands) |
 | 1267 | [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1267-count-servers-that-communicate) |
 | 1283 | [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/solutions/) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1283-find-the-smallest-divisor-given-a-threshold) |
+| 1352 | [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1352-product-of-the-last-k-numbers) |
 | 1385 | [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays) |
 | 1423 | [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards) |
 | 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -653,7 +656,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 3693 | [Climbing Stairs II](https://leetcode.com/problems/climbing-stairs-ii) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3693-climbing-stairs-ii) |
 | 3882 | [Minimum XOR Path in a Grid](https://leetcode.com/problems/minimum-xor-path-in-a-grid/?envType=daily-question&envId=2026-10-28) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid) |
 
-### Math (28)
+### Math (29)
 
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
@@ -669,6 +672,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0509-fibonacci-number) |
 | 836 | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0836-rectangle-overlap) |
 | 1248 | [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1248-count-number-of-nice-subarrays) |
+| 1352 | [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1352-product-of-the-last-k-numbers) |
 | 1401 | [Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1401-circle-and-rectangle-overlapping) |
 | 1524 | [Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1524-number-of-sub-arrays-with-odd-sum) |
 | 1569 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -979,7 +983,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 3665 | [Twisted Mirror Path Count](https://leetcode.com/problems/twisted-mirror-path-count) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3665-twisted-mirror-path-count) |
 | 3882 | [Minimum XOR Path in a Grid](https://leetcode.com/problems/minimum-xor-path-in-a-grid/?envType=daily-question&envId=2026-10-28) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid) |
 
-### Prefix Sum (10)
+### Prefix Sum (11)
 
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
@@ -988,6 +992,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 930 | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0930-binary-subarrays-with-sum) |
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1004-max-consecutive-ones-iii) |
 | 1248 | [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1248-count-number-of-nice-subarrays) |
+| 1352 | [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1352-product-of-the-last-k-numbers) |
 | 1423 | [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards) |
 | 1524 | [Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1524-number-of-sub-arrays-with-odd-sum) |
 | 1621 | [Number of Sets of K Non-Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -1042,6 +1047,16 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 3841 | [Palindromic Path Queries in a Tree](https://leetcode.com/problems/palindromic-path-queries-in-a-tree) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree) |
 | 3882 | [Minimum XOR Path in a Grid](https://leetcode.com/problems/minimum-xor-path-in-a-grid/?envType=daily-question&envId=2026-10-28) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid) |
 
+### Design (5)
+
+| # | Problem | Difficulty | Language | Solution |
+|---:|---|---|---|---|
+| 155 | [Min Stack](https://leetcode.com/problems/min-stack) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0155-min-stack) |
+| 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0225-implement-stack-using-queues) |
+| 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0232-implement-queue-using-stacks) |
+| 901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0901-online-stock-span) |
+| 1352 | [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1352-product-of-the-last-k-numbers) |
+
 ### Divide and Conquer (5)
 
 | # | Problem | Difficulty | Language | Solution |
@@ -1080,15 +1095,6 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0229-majority-element-ii) |
 | 992 | [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0992-subarrays-with-k-different-integers) |
 | 1267 | [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1267-count-servers-that-communicate) |
-
-### Design (4)
-
-| # | Problem | Difficulty | Language | Solution |
-|---:|---|---|---|---|
-| 155 | [Min Stack](https://leetcode.com/problems/min-stack) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0155-min-stack) |
-| 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0225-implement-stack-using-queues) |
-| 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0232-implement-queue-using-stacks) |
-| 901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0901-online-stock-span) |
 
 ### Floyd's Cycle Finding Algorithm (4)
 
@@ -1162,6 +1168,13 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 1569 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | 1621 | [Number of Sets of K Non-Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 
+### Data Stream (2)
+
+| # | Problem | Difficulty | Language | Solution |
+|---:|---|---|---|---|
+| 901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0901-online-stock-span) |
+| 1352 | [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1352-product-of-the-last-k-numbers) |
+
 ### DP on Trees (2)
 
 | # | Problem | Difficulty | Language | Solution |
@@ -1220,12 +1233,6 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
 | 322 | [Coin Change](https://leetcode.com/problems/coin-change) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0322-coin-change) |
-
-### Data Stream (1)
-
-| # | Problem | Difficulty | Language | Solution |
-|---:|---|---|---|---|
-| 901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0901-online-stock-span) |
 
 ### Fermat's Little Theorem (1)
 

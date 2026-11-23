@@ -721,6 +721,13 @@
     "Array",
     "Prefix Sum"
   ],
+  "product-of-the-last-k-numbers": [
+    "Array",
+    "Data Stream",
+    "Design",
+    "Math",
+    "Prefix Sum"
+  ],
   "rectangle-overlap": [
     "Geometry",
     "Math"
