@@ -2,26 +2,26 @@
 
 A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 and tracked with GitHub Actions.
 
-![Solved](https://img.shields.io/badge/Solved-179-blue) ![Easy](https://img.shields.io/badge/Easy-59-brightgreen) ![Medium](https://img.shields.io/badge/Medium-92-yellow) ![Hard](https://img.shields.io/badge/Hard-28-red)
+![Solved](https://img.shields.io/badge/Solved-180-blue) ![Easy](https://img.shields.io/badge/Easy-60-brightgreen) ![Medium](https://img.shields.io/badge/Medium-92-yellow) ![Hard](https://img.shields.io/badge/Hard-28-red)
 
-![Current Streak](https://img.shields.io/badge/Current%20Streak-64%20days-orange) ![Longest Streak](https://img.shields.io/badge/Longest%20Streak-64%20days-purple)
+![Current Streak](https://img.shields.io/badge/Current%20Streak-65%20days-orange) ![Longest Streak](https://img.shields.io/badge/Longest%20Streak-65%20days-purple)
 
 ## 📊 Progress
 
-**Goal: 179 / 150 problems (100%)**
+**Goal: 180 / 150 problems (100%)**
 
 `████████████████████`
 
 | Difficulty | Solved |
 |---|---:|
-| 🟢 Easy | 59 |
+| 🟢 Easy | 60 |
 | 🟡 Medium | 92 |
 | 🔴 Hard | 28 |
 
 ## 🔥 Solution Streak
 
-- **Current streak:** 64 days
-- **Longest streak:** 64 days
+- **Current streak:** 65 days
+- **Longest streak:** 65 days
 
 > Streaks are calculated from Git commit dates associated with problem folders.
 
@@ -29,6 +29,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 
 | # | Problem | Difficulty | Language | Solution | Solved |
 |---:|---|---|---|---|---|
+| 3411 | [Maximum Subarray With Equal Products](https://leetcode.com/problems/maximum-subarray-with-equal-products) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3411-maximum-subarray-with-equal-products) | Nov 24, 2026 |
 | 1352 | [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1352-product-of-the-last-k-numbers) | Nov 23, 2026 |
 | 2124 | [Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/solutions/8620861/string-forbidden-pattern-ba-brute-force-esmds/?envType=daily-question&envId=2026-11-22) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2124-check-if-all-as-appears-before-all-bs) | Nov 22, 2026 |
 | 3331 | [Find Subtree Sizes After Changes](https://leetcode.com/problems/find-subtree-sizes-after-changes) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3331-find-subtree-sizes-after-changes) | Nov 21, 2026 |
@@ -38,13 +39,12 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal) | Nov 18, 2026 |
 | 2914 | [Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful) | Nov 18, 2026 |
 | 2911 | [Minimum Changes to Make K Semi-palindromes](https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2911-minimum-changes-to-make-k-semi-palindromes) | Nov 17, 2026 |
-| 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0124-binary-tree-maximum-path-sum) | Nov 16, 2026 |
 
 ## 📅 Monthly Progress
 
 | Month | Problems Solved |
 |---|---:|
-| November 2026 | 37 |
+| November 2026 | 38 |
 | October 2026 | 52 |
 | September 2026 | 61 |
 | August 2026 | 24 |
@@ -208,6 +208,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | 3331 | [Find Subtree Sizes After Changes](https://leetcode.com/problems/find-subtree-sizes-after-changes) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3331-find-subtree-sizes-after-changes) |
 | 3364 | [Minimum Positive Sum Subarray](https://leetcode.com/problems/minimum-positive-sum-subarray) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3364-minimum-positive-sum-subarray) |
+| 3411 | [Maximum Subarray With Equal Products](https://leetcode.com/problems/maximum-subarray-with-equal-products) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3411-maximum-subarray-with-equal-products) |
 | 3414 | [Maximum Score of Non-overlapping Intervals](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals) |
 | 3420 | [Count Non-Decreasing Subarrays After K Operations](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations) |
 | 3483 | [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3483-unique-3-digit-even-numbers) |
@@ -292,6 +293,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 2913 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i) |
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | 3364 | [Minimum Positive Sum Subarray](https://leetcode.com/problems/minimum-positive-sum-subarray) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3364-minimum-positive-sum-subarray) |
+| 3411 | [Maximum Subarray With Equal Products](https://leetcode.com/problems/maximum-subarray-with-equal-products) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3411-maximum-subarray-with-equal-products) |
 | 3483 | [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3483-unique-3-digit-even-numbers) |
 | 3550 | [Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/solutions/8537026/100-beats-easy-approach-less-theory-pook-7t9f/?envType=daily-question&envId=2026-09-24) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index) |
 | 3736 | [Minimum Moves to Equal Array Elements III](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -431,7 +433,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 
 ## 🏷️ Topics
 
-### Array (109)
+### Array (110)
 
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
@@ -525,6 +527,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | 3331 | [Find Subtree Sizes After Changes](https://leetcode.com/problems/find-subtree-sizes-after-changes) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3331-find-subtree-sizes-after-changes) |
 | 3364 | [Minimum Positive Sum Subarray](https://leetcode.com/problems/minimum-positive-sum-subarray) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3364-minimum-positive-sum-subarray) |
+| 3411 | [Maximum Subarray With Equal Products](https://leetcode.com/problems/maximum-subarray-with-equal-products) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3411-maximum-subarray-with-equal-products) |
 | 3414 | [Maximum Score of Non-overlapping Intervals](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals) |
 | 3420 | [Count Non-Decreasing Subarrays After K Operations](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations) |
 | 3483 | [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3483-unique-3-digit-even-numbers) |
@@ -656,7 +659,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 3693 | [Climbing Stairs II](https://leetcode.com/problems/climbing-stairs-ii) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3693-climbing-stairs-ii) |
 | 3882 | [Minimum XOR Path in a Grid](https://leetcode.com/problems/minimum-xor-path-in-a-grid/?envType=daily-question&envId=2026-10-28) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid) |
 
-### Math (29)
+### Math (30)
 
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
@@ -678,6 +681,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 1569 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | 1621 | [Number of Sets of K Non-Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | 2409 | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2409-count-days-spent-together) |
+| 3411 | [Maximum Subarray With Equal Products](https://leetcode.com/problems/maximum-subarray-with-equal-products) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3411-maximum-subarray-with-equal-products) |
 | 3505 | [Minimum Operations to Make Elements Within K Subarrays Equal](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | 3524 | [Find X Value of Array I](https://leetcode.com/problems/find-x-value-of-array-i) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3524-find-x-value-of-array-i) |
 | 3525 | [Find X Value of Array II](https://leetcode.com/problems/find-x-value-of-array-ii) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3525-find-x-value-of-array-ii) |
@@ -812,6 +816,30 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | 2911 | [Minimum Changes to Make K Semi-palindromes](https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2911-minimum-changes-to-make-k-semi-palindromes) |
 
+### Sliding Window (19)
+
+| # | Problem | Difficulty | Language | Solution |
+|---:|---|---|---|---|
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0003-longest-substring-without-repeating-characters) |
+| 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0076-minimum-window-substring) |
+| 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0219-contains-duplicate-ii) |
+| 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0239-sliding-window-maximum) |
+| 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0424-longest-repeating-character-replacement) |
+| 904 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0904-fruit-into-baskets) |
+| 930 | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0930-binary-subarrays-with-sum) |
+| 992 | [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0992-subarrays-with-k-different-integers) |
+| 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1004-max-consecutive-ones-iii) |
+| 1248 | [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1248-count-number-of-nice-subarrays) |
+| 1358 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters) |
+| 1423 | [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards) |
+| 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero) |
+| 2747 | [Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2747-count-zero-request-servers) |
+| 3364 | [Minimum Positive Sum Subarray](https://leetcode.com/problems/minimum-positive-sum-subarray) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3364-minimum-positive-sum-subarray) |
+| 3411 | [Maximum Subarray With Equal Products](https://leetcode.com/problems/maximum-subarray-with-equal-products) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3411-maximum-subarray-with-equal-products) |
+| 3420 | [Count Non-Decreasing Subarrays After K Operations](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations) |
+| 3505 | [Minimum Operations to Make Elements Within K Subarrays Equal](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+
 ### Greedy (18)
 
 | # | Problem | Difficulty | Language | Solution |
@@ -834,29 +862,6 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 3723 | [Maximize Sum of Squares of Digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3723-maximize-sum-of-squares-of-digits) |
 | 3727 | [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares) | 🟡 Medium | Unknown | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares) |
 | 3789 | [Minimum Cost to Acquire Required Items](https://leetcode.com/problems/minimum-cost-to-acquire-required-items) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3789-minimum-cost-to-acquire-required-items) |
-
-### Sliding Window (18)
-
-| # | Problem | Difficulty | Language | Solution |
-|---:|---|---|---|---|
-| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0003-longest-substring-without-repeating-characters) |
-| 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0076-minimum-window-substring) |
-| 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0219-contains-duplicate-ii) |
-| 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0239-sliding-window-maximum) |
-| 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0424-longest-repeating-character-replacement) |
-| 904 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0904-fruit-into-baskets) |
-| 930 | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0930-binary-subarrays-with-sum) |
-| 992 | [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0992-subarrays-with-k-different-integers) |
-| 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1004-max-consecutive-ones-iii) |
-| 1248 | [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1248-count-number-of-nice-subarrays) |
-| 1358 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters) |
-| 1423 | [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards) |
-| 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
-| 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero) |
-| 2747 | [Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2747-count-zero-request-servers) |
-| 3364 | [Minimum Positive Sum Subarray](https://leetcode.com/problems/minimum-positive-sum-subarray) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3364-minimum-positive-sum-subarray) |
-| 3420 | [Count Non-Decreasing Subarrays After K Operations](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations) |
-| 3505 | [Minimum Operations to Make Elements Within K Subarrays Equal](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 
 ### Depth-First Search (15)
 
@@ -1096,6 +1101,15 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 992 | [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0992-subarrays-with-k-different-integers) |
 | 1267 | [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1267-count-servers-that-communicate) |
 
+### Enumeration (4)
+
+| # | Problem | Difficulty | Language | Solution |
+|---:|---|---|---|---|
+| 2778 | [Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2778-sum-of-squares-of-special-elements) |
+| 3411 | [Maximum Subarray With Equal Products](https://leetcode.com/problems/maximum-subarray-with-equal-products) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3411-maximum-subarray-with-equal-products) |
+| 3483 | [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3483-unique-3-digit-even-numbers) |
+| 3886 | [Sum of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3886-sum-of-sortable-integers) |
+
 ### Floyd's Cycle Finding Algorithm (4)
 
 | # | Problem | Difficulty | Language | Solution |
@@ -1129,14 +1143,6 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 2913 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i) |
 | 2916 | [Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | 3841 | [Palindromic Path Queries in a Tree](https://leetcode.com/problems/palindromic-path-queries-in-a-tree) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree) |
-
-### Enumeration (3)
-
-| # | Problem | Difficulty | Language | Solution |
-|---:|---|---|---|---|
-| 2778 | [Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2778-sum-of-squares-of-special-elements) |
-| 3483 | [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3483-unique-3-digit-even-numbers) |
-| 3886 | [Sum of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3886-sum-of-sortable-integers) |
 
 ### Quicksort (3)
 
@@ -1281,6 +1287,12 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0292-nim-game) |
+
+### Number Theory (1)
+
+| # | Problem | Difficulty | Language | Solution |
+|---:|---|---|---|---|
+| 3411 | [Maximum Subarray With Equal Products](https://leetcode.com/problems/maximum-subarray-with-equal-products) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3411-maximum-subarray-with-equal-products) |
 
 ### Ordered Set (1)
 

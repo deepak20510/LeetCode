@@ -484,6 +484,13 @@
     "Dynamic Programming",
     "Sorting"
   ],
+  "maximum-subarray-with-equal-products": [
+    "Array",
+    "Enumeration",
+    "Math",
+    "Number Theory",
+    "Sliding Window"
+  ],
   "median-of-two-sorted-arrays": [
     "Array",
     "Binary Search",
