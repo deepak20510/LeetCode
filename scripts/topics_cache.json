@@ -859,6 +859,10 @@
     "Math",
     "Newton's Method"
   ],
+  "stone-removal-game": [
+    "Math",
+    "Simulation"
+  ],
   "subarrays-distinct-element-sum-of-squares-i": [
     "Array",
     "Binary Indexed Tree",
