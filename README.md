@@ -2,25 +2,25 @@
 
 A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 and tracked with GitHub Actions.
 
-![Solved](https://img.shields.io/badge/Solved-181-blue) ![Easy](https://img.shields.io/badge/Easy-61-brightgreen) ![Medium](https://img.shields.io/badge/Medium-92-yellow) ![Hard](https://img.shields.io/badge/Hard-28-red)
+![Solved](https://img.shields.io/badge/Solved-182-blue) ![Easy](https://img.shields.io/badge/Easy-61-brightgreen) ![Medium](https://img.shields.io/badge/Medium-93-yellow) ![Hard](https://img.shields.io/badge/Hard-28-red)
 
-![Current Streak](https://img.shields.io/badge/Current%20Streak-1%20days-orange) ![Longest Streak](https://img.shields.io/badge/Longest%20Streak-65%20days-purple)
+![Current Streak](https://img.shields.io/badge/Current%20Streak-2%20days-orange) ![Longest Streak](https://img.shields.io/badge/Longest%20Streak-65%20days-purple)
 
 ## 📊 Progress
 
-**Goal: 181 / 150 problems (100%)**
+**Goal: 182 / 150 problems (100%)**
 
 `████████████████████`
 
 | Difficulty | Solved |
 |---|---:|
 | 🟢 Easy | 61 |
-| 🟡 Medium | 92 |
+| 🟡 Medium | 93 |
 | 🔴 Hard | 28 |
 
 ## 🔥 Solution Streak
 
-- **Current streak:** 1 day
+- **Current streak:** 2 days
 - **Longest streak:** 65 days
 
 > Streaks are calculated from Git commit dates associated with problem folders.
@@ -29,6 +29,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 
 | # | Problem | Difficulty | Language | Solution | Solved |
 |---:|---|---|---|---|---|
+| 3946 | [Maximum Number of Items From Sale I](https://leetcode.com/problems/maximum-number-of-items-from-sale-i) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3946-maximum-number-of-items-from-sale-i) | Nov 27, 2026 |
 | 3360 | [Stone Removal Game](https://leetcode.com/problems/stone-removal-game) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3360-stone-removal-game) | Nov 26, 2026 |
 | 3411 | [Maximum Subarray With Equal Products](https://leetcode.com/problems/maximum-subarray-with-equal-products) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3411-maximum-subarray-with-equal-products) | Nov 24, 2026 |
 | 1352 | [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1352-product-of-the-last-k-numbers) | Nov 23, 2026 |
@@ -38,13 +39,12 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 2567 | [Minimum Score by Changing Two Elements](https://leetcode.com/problems/minimum-score-by-changing-two-elements) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2567-minimum-score-by-changing-two-elements) | Nov 19, 2026 |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0101-symmetric-tree) | Nov 18, 2026 |
 | 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal) | Nov 18, 2026 |
-| 2914 | [Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful) | Nov 18, 2026 |
 
 ## 📅 Monthly Progress
 
 | Month | Problems Solved |
 |---|---:|
-| November 2026 | 39 |
+| November 2026 | 40 |
 | October 2026 | 52 |
 | September 2026 | 61 |
 | August 2026 | 24 |
@@ -234,6 +234,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 3882 | [Minimum XOR Path in a Grid](https://leetcode.com/problems/minimum-xor-path-in-a-grid/?envType=daily-question&envId=2026-10-28) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid) |
 | 3886 | [Sum of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3886-sum-of-sortable-integers) |
 | 3942 | [Minimum Operations to Sort a Permutation](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3942-minimum-operations-to-sort-a-permutation) |
+| 3946 | [Maximum Number of Items From Sale I](https://leetcode.com/problems/maximum-number-of-items-from-sale-i) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3946-maximum-number-of-items-from-sale-i) |
 | 3963 | [Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/solutions/8590472/1-by-galac79155-vqw4/?envType=daily-question&envId=2026-10-27) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3963-create-grid-with-exactly-one-path) |
 | 3970 | [Shortest Path With At Most K Consecutive Identical Characters](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 
@@ -398,6 +399,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 3871 | [Count Commas in Range II](https://leetcode.com/problems/count-commas-in-range-ii) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3871-count-commas-in-range-ii) |
 | 3882 | [Minimum XOR Path in a Grid](https://leetcode.com/problems/minimum-xor-path-in-a-grid/?envType=daily-question&envId=2026-10-28) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid) |
 | 3942 | [Minimum Operations to Sort a Permutation](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3942-minimum-operations-to-sort-a-permutation) |
+| 3946 | [Maximum Number of Items From Sale I](https://leetcode.com/problems/maximum-number-of-items-from-sale-i) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3946-maximum-number-of-items-from-sale-i) |
 | 3970 | [Shortest Path With At Most K Consecutive Identical Characters](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 
 ## 🔴 Hard Problems
@@ -435,7 +437,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 
 ## 🏷️ Topics
 
-### Array (110)
+### Array (111)
 
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
@@ -549,6 +551,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 3882 | [Minimum XOR Path in a Grid](https://leetcode.com/problems/minimum-xor-path-in-a-grid/?envType=daily-question&envId=2026-10-28) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid) |
 | 3886 | [Sum of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3886-sum-of-sortable-integers) |
 | 3942 | [Minimum Operations to Sort a Permutation](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3942-minimum-operations-to-sort-a-permutation) |
+| 3946 | [Maximum Number of Items From Sale I](https://leetcode.com/problems/maximum-number-of-items-from-sale-i) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3946-maximum-number-of-items-from-sale-i) |
 
 ### Hash Table (35)
 
@@ -589,6 +592,42 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 3483 | [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3483-unique-3-digit-even-numbers) |
 | 3505 | [Minimum Operations to Make Elements Within K Subarrays Equal](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | 3551 | [Minimum Swaps to Sort by Digit Sum](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum) |
+
+### Dynamic Programming (31)
+
+| # | Problem | Difficulty | Language | Solution |
+|---:|---|---|---|---|
+| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0022-generate-parentheses) |
+| 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0032-longest-valid-parentheses) |
+| 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0042-trapping-rain-water) |
+| 55 | [Jump Game](https://leetcode.com/problems/jump-game) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0055-jump-game) |
+| 85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0085-maximal-rectangle) |
+| 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0118-pascals-triangle) |
+| 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0119-pascals-triangle-ii) |
+| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock) |
+| 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii) |
+| 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0124-binary-tree-maximum-path-sum) |
+| 322 | [Coin Change](https://leetcode.com/problems/coin-change) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0322-coin-change) |
+| 410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0410-split-array-largest-sum) |
+| 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0435-non-overlapping-intervals) |
+| 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0509-fibonacci-number) |
+| 678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0678-valid-parenthesis-string) |
+| 907 | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0907-sum-of-subarray-minimums) |
+| 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| 1524 | [Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1524-number-of-sub-arrays-with-odd-sum) |
+| 1569 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| 1621 | [Number of Sets of K Non-Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| 2267 | [Check if There Is a Valid Parentheses String Path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| 2911 | [Minimum Changes to Make K Semi-palindromes](https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2911-minimum-changes-to-make-k-semi-palindromes) |
+| 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/description/?envType=daily-question&envId=2026-11-20) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| 3414 | [Maximum Score of Non-overlapping Intervals](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals) |
+| 3505 | [Minimum Operations to Make Elements Within K Subarrays Equal](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| 3524 | [Find X Value of Array I](https://leetcode.com/problems/find-x-value-of-array-i) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3524-find-x-value-of-array-i) |
+| 3665 | [Twisted Mirror Path Count](https://leetcode.com/problems/twisted-mirror-path-count) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3665-twisted-mirror-path-count) |
+| 3693 | [Climbing Stairs II](https://leetcode.com/problems/climbing-stairs-ii) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3693-climbing-stairs-ii) |
+| 3882 | [Minimum XOR Path in a Grid](https://leetcode.com/problems/minimum-xor-path-in-a-grid/?envType=daily-question&envId=2026-10-28) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid) |
+| 3946 | [Maximum Number of Items From Sale I](https://leetcode.com/problems/maximum-number-of-items-from-sale-i) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3946-maximum-number-of-items-from-sale-i) |
 
 ### Math (31)
 
@@ -661,41 +700,6 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 3841 | [Palindromic Path Queries in a Tree](https://leetcode.com/problems/palindromic-path-queries-in-a-tree) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree) |
 | 3863 | [Minimum Operations to Sort a String](https://leetcode.com/problems/minimum-operations-to-sort-a-string) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3863-minimum-operations-to-sort-a-string) |
 | 3970 | [Shortest Path With At Most K Consecutive Identical Characters](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
-
-### Dynamic Programming (30)
-
-| # | Problem | Difficulty | Language | Solution |
-|---:|---|---|---|---|
-| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0022-generate-parentheses) |
-| 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0032-longest-valid-parentheses) |
-| 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0042-trapping-rain-water) |
-| 55 | [Jump Game](https://leetcode.com/problems/jump-game) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0055-jump-game) |
-| 85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0085-maximal-rectangle) |
-| 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0118-pascals-triangle) |
-| 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0119-pascals-triangle-ii) |
-| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock) |
-| 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii) |
-| 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0124-binary-tree-maximum-path-sum) |
-| 322 | [Coin Change](https://leetcode.com/problems/coin-change) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0322-coin-change) |
-| 410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0410-split-array-largest-sum) |
-| 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0435-non-overlapping-intervals) |
-| 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0509-fibonacci-number) |
-| 678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0678-valid-parenthesis-string) |
-| 907 | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0907-sum-of-subarray-minimums) |
-| 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
-| 1524 | [Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1524-number-of-sub-arrays-with-odd-sum) |
-| 1569 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
-| 1621 | [Number of Sets of K Non-Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments) |
-| 2267 | [Check if There Is a Valid Parentheses String Path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path) |
-| 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
-| 2911 | [Minimum Changes to Make K Semi-palindromes](https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2911-minimum-changes-to-make-k-semi-palindromes) |
-| 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/description/?envType=daily-question&envId=2026-11-20) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification) |
-| 3414 | [Maximum Score of Non-overlapping Intervals](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals) |
-| 3505 | [Minimum Operations to Make Elements Within K Subarrays Equal](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
-| 3524 | [Find X Value of Array I](https://leetcode.com/problems/find-x-value-of-array-i) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3524-find-x-value-of-array-i) |
-| 3665 | [Twisted Mirror Path Count](https://leetcode.com/problems/twisted-mirror-path-count) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3665-twisted-mirror-path-count) |
-| 3693 | [Climbing Stairs II](https://leetcode.com/problems/climbing-stairs-ii) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3693-climbing-stairs-ii) |
-| 3882 | [Minimum XOR Path in a Grid](https://leetcode.com/problems/minimum-xor-path-in-a-grid/?envType=daily-question&envId=2026-10-28) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid) |
 
 ### Stack (28)
 
@@ -819,6 +823,30 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | 2911 | [Minimum Changes to Make K Semi-palindromes](https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2911-minimum-changes-to-make-k-semi-palindromes) |
 
+### Greedy (19)
+
+| # | Problem | Difficulty | Language | Solution |
+|---:|---|---|---|---|
+| 55 | [Jump Game](https://leetcode.com/problems/jump-game) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0055-jump-game) |
+| 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii) |
+| 410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0410-split-array-largest-sum) |
+| 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0435-non-overlapping-intervals) |
+| 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0455-assign-cookies) |
+| 678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0678-valid-parenthesis-string) |
+| 860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0860-lemonade-change) |
+| 881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0881-boats-to-save-people) |
+| 921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid) |
+| 1520 | [Maximum Number of Non-Overlapping Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings) |
+| 1541 | [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| 2333 | [Minimum Sum of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2333-minimum-sum-of-squared-difference) |
+| 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| 2567 | [Minimum Score by Changing Two Elements](https://leetcode.com/problems/minimum-score-by-changing-two-elements) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2567-minimum-score-by-changing-two-elements) |
+| 2897 | [Apply Operations on Array to Maximize Sum of Squares](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| 3723 | [Maximize Sum of Squares of Digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3723-maximize-sum-of-squares-of-digits) |
+| 3727 | [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares) | 🟡 Medium | Unknown | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares) |
+| 3789 | [Minimum Cost to Acquire Required Items](https://leetcode.com/problems/minimum-cost-to-acquire-required-items) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3789-minimum-cost-to-acquire-required-items) |
+| 3946 | [Maximum Number of Items From Sale I](https://leetcode.com/problems/maximum-number-of-items-from-sale-i) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3946-maximum-number-of-items-from-sale-i) |
+
 ### Sliding Window (19)
 
 | # | Problem | Difficulty | Language | Solution |
@@ -842,29 +870,6 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 3411 | [Maximum Subarray With Equal Products](https://leetcode.com/problems/maximum-subarray-with-equal-products) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3411-maximum-subarray-with-equal-products) |
 | 3420 | [Count Non-Decreasing Subarrays After K Operations](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations) |
 | 3505 | [Minimum Operations to Make Elements Within K Subarrays Equal](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
-
-### Greedy (18)
-
-| # | Problem | Difficulty | Language | Solution |
-|---:|---|---|---|---|
-| 55 | [Jump Game](https://leetcode.com/problems/jump-game) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0055-jump-game) |
-| 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii) |
-| 410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0410-split-array-largest-sum) |
-| 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0435-non-overlapping-intervals) |
-| 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0455-assign-cookies) |
-| 678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0678-valid-parenthesis-string) |
-| 860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0860-lemonade-change) |
-| 881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0881-boats-to-save-people) |
-| 921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid) |
-| 1520 | [Maximum Number of Non-Overlapping Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings) |
-| 1541 | [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string) |
-| 2333 | [Minimum Sum of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2333-minimum-sum-of-squared-difference) |
-| 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
-| 2567 | [Minimum Score by Changing Two Elements](https://leetcode.com/problems/minimum-score-by-changing-two-elements) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2567-minimum-score-by-changing-two-elements) |
-| 2897 | [Apply Operations on Array to Maximize Sum of Squares](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
-| 3723 | [Maximize Sum of Squares of Digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3723-maximize-sum-of-squares-of-digits) |
-| 3727 | [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares) | 🟡 Medium | Unknown | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares) |
-| 3789 | [Minimum Cost to Acquire Required Items](https://leetcode.com/problems/minimum-cost-to-acquire-required-items) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3789-minimum-cost-to-acquire-required-items) |
 
 ### Depth-First Search (15)
 

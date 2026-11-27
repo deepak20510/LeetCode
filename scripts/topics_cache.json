@@ -461,6 +461,11 @@
     "Stack",
     "String"
   ],
+  "maximum-number-of-items-from-sale-i": [
+    "Array",
+    "Dynamic Programming",
+    "Greedy"
+  ],
   "maximum-number-of-non-overlapping-palindrome-substrings": [
     "Dynamic Programming",
     "Greedy",
