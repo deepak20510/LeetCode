@@ -466,6 +466,12 @@
     "Dynamic Programming",
     "Greedy"
   ],
+  "maximum-number-of-items-from-sale-ii": [
+    "Array",
+    "Greedy",
+    "Heap (Priority Queue)",
+    "Sorting"
+  ],
   "maximum-number-of-non-overlapping-palindrome-substrings": [
     "Dynamic Programming",
     "Greedy",

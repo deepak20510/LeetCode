@@ -2,25 +2,25 @@
 
 A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 and tracked with GitHub Actions.
 
-![Solved](https://img.shields.io/badge/Solved-182-blue) ![Easy](https://img.shields.io/badge/Easy-61-brightgreen) ![Medium](https://img.shields.io/badge/Medium-93-yellow) ![Hard](https://img.shields.io/badge/Hard-28-red)
+![Solved](https://img.shields.io/badge/Solved-183-blue) ![Easy](https://img.shields.io/badge/Easy-61-brightgreen) ![Medium](https://img.shields.io/badge/Medium-94-yellow) ![Hard](https://img.shields.io/badge/Hard-28-red)
 
-![Current Streak](https://img.shields.io/badge/Current%20Streak-2%20days-orange) ![Longest Streak](https://img.shields.io/badge/Longest%20Streak-65%20days-purple)
+![Current Streak](https://img.shields.io/badge/Current%20Streak-3%20days-orange) ![Longest Streak](https://img.shields.io/badge/Longest%20Streak-65%20days-purple)
 
 ## 📊 Progress
 
-**Goal: 182 / 150 problems (100%)**
+**Goal: 183 / 150 problems (100%)**
 
 `████████████████████`
 
 | Difficulty | Solved |
 |---|---:|
 | 🟢 Easy | 61 |
-| 🟡 Medium | 93 |
+| 🟡 Medium | 94 |
 | 🔴 Hard | 28 |
 
 ## 🔥 Solution Streak
 
-- **Current streak:** 2 days
+- **Current streak:** 3 days
 - **Longest streak:** 65 days
 
 > Streaks are calculated from Git commit dates associated with problem folders.
@@ -29,6 +29,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 
 | # | Problem | Difficulty | Language | Solution | Solved |
 |---:|---|---|---|---|---|
+| 3947 | [Maximum Number of Items From Sale II](https://leetcode.com/problems/maximum-number-of-items-from-sale-ii) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3947-maximum-number-of-items-from-sale-ii) | Nov 28, 2026 |
 | 3946 | [Maximum Number of Items From Sale I](https://leetcode.com/problems/maximum-number-of-items-from-sale-i) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3946-maximum-number-of-items-from-sale-i) | Nov 27, 2026 |
 | 3360 | [Stone Removal Game](https://leetcode.com/problems/stone-removal-game) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3360-stone-removal-game) | Nov 26, 2026 |
 | 3411 | [Maximum Subarray With Equal Products](https://leetcode.com/problems/maximum-subarray-with-equal-products) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3411-maximum-subarray-with-equal-products) | Nov 24, 2026 |
@@ -38,13 +39,12 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/description/?envType=daily-question&envId=2026-11-20) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification) | Nov 20, 2026 |
 | 2567 | [Minimum Score by Changing Two Elements](https://leetcode.com/problems/minimum-score-by-changing-two-elements) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2567-minimum-score-by-changing-two-elements) | Nov 19, 2026 |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0101-symmetric-tree) | Nov 18, 2026 |
-| 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal) | Nov 18, 2026 |
 
 ## 📅 Monthly Progress
 
 | Month | Problems Solved |
 |---|---:|
-| November 2026 | 40 |
+| November 2026 | 41 |
 | October 2026 | 52 |
 | September 2026 | 61 |
 | August 2026 | 24 |
@@ -235,6 +235,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 3886 | [Sum of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3886-sum-of-sortable-integers) |
 | 3942 | [Minimum Operations to Sort a Permutation](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3942-minimum-operations-to-sort-a-permutation) |
 | 3946 | [Maximum Number of Items From Sale I](https://leetcode.com/problems/maximum-number-of-items-from-sale-i) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3946-maximum-number-of-items-from-sale-i) |
+| 3947 | [Maximum Number of Items From Sale II](https://leetcode.com/problems/maximum-number-of-items-from-sale-ii) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3947-maximum-number-of-items-from-sale-ii) |
 | 3963 | [Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/solutions/8590472/1-by-galac79155-vqw4/?envType=daily-question&envId=2026-10-27) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3963-create-grid-with-exactly-one-path) |
 | 3970 | [Shortest Path With At Most K Consecutive Identical Characters](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 
@@ -400,6 +401,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 3882 | [Minimum XOR Path in a Grid](https://leetcode.com/problems/minimum-xor-path-in-a-grid/?envType=daily-question&envId=2026-10-28) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid) |
 | 3942 | [Minimum Operations to Sort a Permutation](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3942-minimum-operations-to-sort-a-permutation) |
 | 3946 | [Maximum Number of Items From Sale I](https://leetcode.com/problems/maximum-number-of-items-from-sale-i) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3946-maximum-number-of-items-from-sale-i) |
+| 3947 | [Maximum Number of Items From Sale II](https://leetcode.com/problems/maximum-number-of-items-from-sale-ii) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3947-maximum-number-of-items-from-sale-ii) |
 | 3970 | [Shortest Path With At Most K Consecutive Identical Characters](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 
 ## 🔴 Hard Problems
@@ -437,7 +439,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 
 ## 🏷️ Topics
 
-### Array (111)
+### Array (112)
 
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
@@ -552,6 +554,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 3886 | [Sum of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3886-sum-of-sortable-integers) |
 | 3942 | [Minimum Operations to Sort a Permutation](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3942-minimum-operations-to-sort-a-permutation) |
 | 3946 | [Maximum Number of Items From Sale I](https://leetcode.com/problems/maximum-number-of-items-from-sale-i) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3946-maximum-number-of-items-from-sale-i) |
+| 3947 | [Maximum Number of Items From Sale II](https://leetcode.com/problems/maximum-number-of-items-from-sale-ii) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3947-maximum-number-of-items-from-sale-ii) |
 
 ### Hash Table (35)
 
@@ -765,7 +768,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 2333 | [Minimum Sum of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2333-minimum-sum-of-squared-difference) |
 | 3414 | [Maximum Score of Non-overlapping Intervals](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals) |
 
-### Sorting (25)
+### Sorting (26)
 
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
@@ -794,6 +797,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 3551 | [Minimum Swaps to Sort by Digit Sum](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum) |
 | 3727 | [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares) | 🟡 Medium | Unknown | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares) |
 | 3886 | [Sum of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3886-sum-of-sortable-integers) |
+| 3947 | [Maximum Number of Items From Sale II](https://leetcode.com/problems/maximum-number-of-items-from-sale-ii) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3947-maximum-number-of-items-from-sale-ii) |
 
 ### Two Pointers (23)
 
@@ -823,7 +827,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | 2911 | [Minimum Changes to Make K Semi-palindromes](https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2911-minimum-changes-to-make-k-semi-palindromes) |
 
-### Greedy (19)
+### Greedy (20)
 
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
@@ -846,6 +850,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 3727 | [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares) | 🟡 Medium | Unknown | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares) |
 | 3789 | [Minimum Cost to Acquire Required Items](https://leetcode.com/problems/minimum-cost-to-acquire-required-items) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3789-minimum-cost-to-acquire-required-items) |
 | 3946 | [Maximum Number of Items From Sale I](https://leetcode.com/problems/maximum-number-of-items-from-sale-i) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3946-maximum-number-of-items-from-sale-i) |
+| 3947 | [Maximum Number of Items From Sale II](https://leetcode.com/problems/maximum-number-of-items-from-sale-ii) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3947-maximum-number-of-items-from-sale-ii) |
 
 ### Sliding Window (19)
 
@@ -1039,7 +1044,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/0509-fibonacci-number) |
 | 3483 | [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers) | 🟢 Easy | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3483-unique-3-digit-even-numbers) |
 
-### Heap (Priority Queue) (6)
+### Heap (Priority Queue) (7)
 
 | # | Problem | Difficulty | Language | Solution |
 |---:|---|---|---|---|
@@ -1048,6 +1053,7 @@ A collection of my LeetCode solutions, automatically synced using LeetHub-3.0 an
 | 1882 | [Process Tasks Using Servers](https://leetcode.com/problems/process-tasks-using-servers) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/1882-process-tasks-using-servers) |
 | 2333 | [Minimum Sum of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/2333-minimum-sum-of-squared-difference) |
 | 3505 | [Minimum Operations to Make Elements Within K Subarrays Equal](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal) | 🔴 Hard | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| 3947 | [Maximum Number of Items From Sale II](https://leetcode.com/problems/maximum-number-of-items-from-sale-ii) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3947-maximum-number-of-items-from-sale-ii) |
 | 3970 | [Shortest Path With At Most K Consecutive Identical Characters](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters) | 🟡 Medium | Java | [View Solution](https://github.com/deepak20510/LeetCode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 
 ### Bit Manipulation (5)
